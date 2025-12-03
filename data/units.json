@@ -1,0 +1,77 @@
+{
+    "units": [
+        {
+            "number": 1,
+            "title": "Advanced Study of Verbs",
+            "description": "This unit explores the English verb system in depth, building upon the foundation established in previous courses. Students will analyze verb types according to their grammatical function and semantic meaning, developing a nuanced understanding of how verbs operate within sentences. The unit emphasizes the distinction between tense and aspect, two frequently confused concepts that are essential for accurate translation and interpretation. Through examination of both grammatical and lexical aspect, students will learn to recognize subtle differences in meaning that native speakers intuitively understand. This advanced verb knowledge prepares students to make sophisticated choices when mediating between languages with different aspectual systems.",
+            "learning_objectives": [
+                "Distinguish between transitive, intransitive, auxiliary, copulative, action, and state verbs in authentic texts",
+                "Interpret and accurately convey the modal meanings expressed through modal and semi-modal verbs (obligation, advice, certainty, deduction, supposition, permission, possibility)",
+                "Differentiate between tense (time reference) and aspect (internal temporal structure) in verb phrases",
+                "Identify and analyze lexical aspect categories (states, activities, accomplishments, achievements) and their interaction with grammatical aspect",
+                "Apply understanding of aspect-tense relationships to solve translation challenges involving temporality"
+            ],
+            "outline": [
+                "Week 1: Course introduction + Verb types review",
+                "Week 2: Modal and semi-modal verbs",
+                "Week 3: Aspect vs. Tense",
+                "Week 4: Lexical aspect",
+                "Week 5: Unit Review and Conclusions"
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Coherence and Precision",
+            "description": "This unit focuses on the grammatical and textual features that create clear, professional writing in English. Students will master complex agreement patterns that often pose challenges for non-native speakers, particularly in formal and academic contexts. The unit addresses both sentence-level precision (agreement, parallelism) and text-level coherence (punctuation, cohesion devices). Students will learn to recognize how skilled writers use punctuation not just for correctness but as a meaning-making tool, especially important when translating between languages with different punctuation conventions. By understanding how cohesion devices create texture and flow in English texts, students will be better equipped to produce and evaluate translations that read naturally to target language audiences.",
+            "learning_objectives": [
+                "Apply complex subject-verb agreement rules in challenging contexts (collective nouns, indefinite pronouns, inverted structures, compound subjects)",
+                "Maintain consistent pronoun agreement and create clear reference chains throughout extended texts",
+                "Construct and revise sentences using parallel structures to enhance clarity and rhetorical effect",
+                "Deploy advanced punctuation (colons, semicolons, dashes, parentheses) strategically to control meaning and pacing",
+                "Integrate cohesion devices (connectors, discourse markers, referencing, lexical chains) to create coherent, well-organized texts"
+            ],
+            "outline": [
+                "Week 6: Subject-verb agreement",
+                "Week 7: Pronoun agreement & reference chains",
+                "Week 8: Parallel structures & consistency in writing",
+                "Week 9: Advanced punctuation",
+                "Week 10: Cohesion devices",
+                "Week 11: Unit Review and Conclusions"
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Pragmatics and Professional Language",
+            "description": "This unit addresses the pragmatic dimension of English, where meaning extends beyond literal interpretation to encompass cultural and contextual understanding. Students will explore phrasal verbs, which present particular challenges for translation due to their often non-compositional meanings and high frequency in everyday English. The unit examines idiomatic expressions as cultural artifacts that reflect the values, history, and worldview of English-speaking communities. Students will develop strategies for recognizing when cultural equivalence matters more than literal translation. Finally, the unit explores register and style variation, helping students understand how language choices signal formality, professionalism, and relationship dynamics across different communicative contexts.",
+            "learning_objectives": [
+                "Identify and interpret phrasal verbs, distinguishing between separable and inseparable types and between literal and figurative meanings",
+                "Analyze idiomatic expressions within their cultural contexts and develop strategies for finding functional equivalents in translation",
+                "Recognize and produce language appropriate to different registers (formal, informal, academic, professional)",
+                "Distinguish between spoken and written language conventions and adjust style accordingly",
+                "Apply pragmatic awareness to make informed translation and localization decisions that preserve communicative intent"
+            ],
+            "outline": [
+                "Week 12: Introduction to phrasal verbs",
+                "Week 13: Idiomatic expressions & their cultural context",
+                "Week 14: Register & style variation"
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Final Project",
+            "description": "This unit provides students with the opportunity to synthesize and apply all concepts learned throughout the semester in an integrative final project. Students will demonstrate their advanced English proficiency by tackling authentic translation or localization challenges that require attention to verb systems, textual coherence, and pragmatic appropriateness. The unit emphasizes collaborative learning through structured peer review, allowing students to both showcase their own work and develop critical evaluation skills by analyzing their classmates' projects. Through reflection activities, students will articulate their growth as language learners and identify areas for continued development in their professional preparation. This culminating experience bridges academic study with professional practice in translation, localization, and interpretation.",
+            "learning_objectives": [
+                "Integrate knowledge of verb systems, coherence strategies, and pragmatic language to complete a comprehensive translation or localization project",
+                "Provide constructive, detailed feedback on peers' work using appropriate metalanguage and translation concepts",
+                "Evaluate translation choices in terms of accuracy, naturalness, and cultural appropriateness",
+                "Reflect critically on personal language development and identify strengths and areas for continued growth",
+                "Demonstrate readiness for advanced professional coursework in translation, localization, and interpretation"
+            ],
+            "outline": [
+                "Week 15: Course Review and Conclusions",
+                "Week 16: Final Project Presentations",
+                "Week 17: Final Project Peer Evaluations"
+            ]
+        }
+    ]
+}

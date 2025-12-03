@@ -1,0 +1,400 @@
+{
+  "week": 4,
+  "title": "Lexical Aspect",
+  "breadcrumb": "Week 4: Lexical Aspect",
+  "introduction": {
+    "overview": "This week, we explore lexical aspect—the inherent temporal structure built into the meaning of verbs and verb phrases. While grammatical aspect (progressive, perfect) is marked by verb forms, lexical aspect comes from the verb's core meaning and how it interacts with its complements. Understanding the four categories of lexical aspect—states, activities, accomplishments, and achievements—helps you recognize subtle differences in how events unfold over time, which is crucial for accurate translation between languages that handle aspect differently.",
+    "objectives": [
+      "Identify and distinguish between the four categories of lexical aspect: states, activities, accomplishments, and achievements",
+      "Analyze how lexical aspect interacts with grammatical aspect to create specific meanings",
+      "Apply diagnostic tests (progressive compatibility, time-span modifiers, completion implications) to classify verb phrases",
+      "Recognize how aspect-tense relationships affect the interpretation of temporal information in English texts"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "States: Stable Situations Without Change",
+        "content": "<strong>States</strong> describe situations that hold steady over time without internal stages or endpoints. They represent conditions, mental states, relationships, and inherent properties that simply <em>exist</em> rather than <em>happen</em>. States typically resist the progressive aspect (*\"I am knowing my routine\" sounds unnatural) because they don't involve ongoing action or change.",
+        "example": "<strong>Examples in context:</strong><br>• \"I <u>know</u> my morning routine by heart.\" (mental state)<br>• \"She <u>lives</u> in a small apartment downtown.\" (stable situation)<br>• \"This goal <u>matters</u> to me.\" (relationship/attitude)<br><br>Notice how these situations simply exist over a period without progressing through stages."
+      },
+      {
+        "heading": "Activities: Ongoing Processes Without Built-in Endpoints",
+        "content": "<strong>Activities</strong> are dynamic situations that unfold over time but have no natural conclusion point. You can stop an activity at any moment, and it's still the same activity—there's no sense of \"finishing\" because the action itself is the point. Activities work naturally with the progressive aspect and with durative time expressions (\"for an hour\").",
+        "example": "<strong>Examples in context:</strong><br>• \"I <u>exercise</u> every morning.\" (ongoing activity, no endpoint)<br>• \"She was <u>walking</u> in the park.\" (progressive shows the activity in progress)<br>• \"They <u>practiced meditation</u> for thirty minutes.\" (duration, but no completion point)<br><br>Each of these activities could continue indefinitely or stop at any point without being incomplete."
+      },
+      {
+        "heading": "Accomplishments: Processes With Built-in Goals",
+        "content": "<strong>Accomplishments</strong> combine process and endpoint. They unfold over time (like activities) but are directed toward a specific goal or completion point. The activity only \"counts\" as accomplished when the endpoint is reached. Accomplishments work with both progressive aspect (showing the process) and with time expressions that imply completion (\"in two hours\").",
+        "example": "<strong>Examples in context:</strong><br>• \"I <u>completed a marathon</u> last spring.\" (process + endpoint reached)<br>• \"She is <u>writing a novel</u>.\" (progressive shows ongoing process toward goal)<br>• \"He <u>learned Spanish</u> in six months.\" (time frame to reach accomplishment)<br><br>Notice how each involves a process leading to a defining completion point."
+      },
+      {
+        "heading": "Achievements: Instantaneous Transitions",
+        "content": "<strong>Achievements</strong> represent instantaneous transitions or punctual events that happen at a single moment. Unlike accomplishments, achievements don't have an internal process—they're essentially the endpoint itself. When used with progressive aspect, achievements often gain a preliminary process reading (\"I'm arriving\" = \"I'm in the process of getting there\").",
+        "example": "<strong>Examples in context:</strong><br>• \"I <u>arrived home</u> at 7 PM.\" (instantaneous moment)<br>• \"She <u>won the competition</u>.\" (punctual transition to winner)<br>• \"The alarm clock <u>went off</u> at 6 AM.\" (single moment of change)<br>• \"I'm <u>reaching my goal</u>\" vs. \"I <u>reached my goal</u>\" (progressive adds preliminary process)<br><br>These are moments of change rather than extended processes."
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "Practice identifying lexical aspect categories. For each sentence, determine whether the underlined verb phrase represents a state, activity, accomplishment, or achievement. Try to think about whether it has duration, change over time, and an endpoint.",
+    "activities": [
+      {
+        "prompt": "\"I <u>believe in setting realistic goals</u>.\" What category of lexical aspect does this represent?",
+        "answer": "state",
+        "hint": "Does this involve ongoing change, or does it describe a stable mental condition?",
+        "explanation": "This is a <strong>state</strong>. Mental attitudes like believing don't involve stages or change—they simply exist over time. Notice how \"I am believing\" sounds unnatural, which is typical of stative verbs."
+      },
+      {
+        "prompt": "\"She <u>jogs in the park</u> every weekend.\" What category of lexical aspect does this represent?",
+        "answer": "activity",
+        "hint": "Is there a natural endpoint to this action, or could it continue indefinitely?",
+        "explanation": "This is an <strong>activity</strong>. Jogging is a dynamic process that unfolds over time but has no built-in completion point. She could jog for five minutes or fifty minutes—it's still jogging."
+      },
+      {
+        "prompt": "\"He <u>finished his degree</u> in three years.\" What category of lexical aspect does this represent?",
+        "answer": "accomplishment",
+        "hint": "Does this combine an extended process with a defining endpoint?",
+        "explanation": "This is an <strong>accomplishment</strong>. Finishing a degree involves a long process (studying, taking courses) directed toward a specific goal (completion). The time expression \"in three years\" fits naturally with accomplishments."
+      },
+      {
+        "prompt": "\"The meeting <u>started at 9 AM</u>.\" What category of lexical aspect does this represent?",
+        "answer": "achievement",
+        "hint": "Does this describe an extended process or a single moment of transition?",
+        "explanation": "This is an <strong>achievement</strong>. Starting represents an instantaneous transition from \"not happening\" to \"happening.\" There's no internal duration to the moment of starting itself."
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "Choose the best answer for each question about lexical aspect. Consider how each verb phrase relates to time, duration, and completion.",
+    "items": [
+      {
+        "question": "Which sentence contains a STATE rather than an activity or accomplishment?",
+        "options": [
+          "She runs a successful business.",
+          "She owns a successful business.",
+          "She built a successful business.",
+          "She manages a successful business."
+        ],
+        "correct": "She owns a successful business.",
+        "explanation": "\"Owns\" is a stative verb describing a stable relationship of possession. The other options involve dynamic actions or processes: running and managing are ongoing activities, while building is an accomplishment with an endpoint."
+      },
+      {
+        "question": "Which verb phrase represents an ACTIVITY with no natural endpoint?",
+        "options": [
+          "He reached his fitness goal.",
+          "He exercises regularly.",
+          "He completed the workout program.",
+          "He joined the gym last month."
+        ],
+        "correct": "He exercises regularly.",
+        "explanation": "\"Exercises\" is an activity that can continue indefinitely without completion. The other options have clear endpoints or completion points: reaching, completing, and joining all mark definite transitions or accomplishments."
+      },
+      {
+        "question": "The sentence \"I learned to cook Italian food\" is best classified as an:",
+        "options": [
+          "State, because knowing how to cook is stable knowledge",
+          "Activity, because cooking is an ongoing process",
+          "Accomplishment, because it involves a process leading to a goal",
+          "Achievement, because learning happens in a single moment"
+        ],
+        "correct": "Accomplishment, because it involves a process leading to a goal",
+        "explanation": "\"Learned to cook\" is an accomplishment combining a gradual process (learning) with a completion point (having acquired the skill). It's telic (goal-oriented) and durative, making it an accomplishment rather than a state, activity, or instantaneous achievement."
+      },
+      {
+        "question": "Why does \"I am knowing my schedule\" sound unnatural in English?",
+        "options": [
+          "Because \"knowing\" is an achievement that can't be progressive",
+          "Because \"knowing\" is a state that doesn't have internal stages",
+          "Because \"knowing\" is an activity that requires a different verb form",
+          "Because \"knowing\" is an accomplishment that must be completed first"
+        ],
+        "correct": "Because \"knowing\" is a state that doesn't have internal stages",
+        "explanation": "States like \"know\" resist progressive aspect because they describe stable situations without internal development or stages. Progressive aspect emphasizes ongoing process, but states simply exist without progressing."
+      },
+      {
+        "question": "Which sentence contains an ACHIEVEMENT (instantaneous event)?",
+        "options": [
+          "She was improving her lifestyle for months.",
+          "She maintained healthy habits throughout the year.",
+          "She decided to change her routine.",
+          "She wanted a healthier lifestyle."
+        ],
+        "correct": "She decided to change her routine.",
+        "explanation": "\"Decided\" is an achievement representing an instantaneous mental transition from indecision to decision. The other options are: improving (accomplishment), maintained (activity), and wanted (state)."
+      },
+      {
+        "question": "The phrase \"in six months\" most naturally combines with which type of lexical aspect?",
+        "options": [
+          "States, because they last for extended periods",
+          "Activities, because they have no specific endpoint",
+          "Accomplishments, because they have both process and completion",
+          "Achievements, because they need time references"
+        ],
+        "correct": "Accomplishments, because they have both process and completion",
+        "explanation": "\"In X time\" expressions naturally pair with accomplishments because they indicate the time taken to reach completion. Activities use \"for X time\" (duration without endpoint), states use \"for X time\" (duration of the state), and achievements are instantaneous so don't measure process duration."
+      },
+      {
+        "question": "How does lexical aspect change in \"He ran\" vs. \"He ran a marathon\"?",
+        "options": [
+          "Both are activities with no endpoint",
+          "The first is an activity; the second is an accomplishment",
+          "Both are accomplishments with different durations",
+          "The first is an achievement; the second is an activity"
+        ],
+        "correct": "The first is an activity; the second is an accomplishment",
+        "explanation": "Adding a direct object \"a marathon\" transforms the aspectual structure. \"He ran\" is an activity (atelic, no endpoint), but \"He ran a marathon\" becomes an accomplishment (telic, with the completion point of finishing the race)."
+      },
+      {
+        "question": "Which diagnostic test helps distinguish achievements from accomplishments?",
+        "options": [
+          "Whether the verb can take an object",
+          "Whether \"almost\" affects the outcome (did it happen or not?)",
+          "Whether the verb can be used in past tense",
+          "Whether the action requires physical movement"
+        ],
+        "correct": "Whether \"almost\" affects the outcome (did it happen or not?)",
+        "explanation": "The \"almost\" test reveals aspectual structure: \"almost arrived\" = didn't arrive (achievement, punctual), but \"almost ran a marathon\" could mean ran most of it (accomplishment, with internal process). Accomplishments have stages that can be partially completed."
+      },
+      {
+        "question": "\"She is living in Mexico City\" vs. \"She lives in Mexico City.\" What's the aspectual difference?",
+        "options": [
+          "The first implies temporary situation; the second implies permanent state",
+          "The first is an accomplishment; the second is an activity",
+          "Both mean exactly the same thing with no aspectual difference",
+          "The first is incorrect because \"live\" cannot be progressive"
+        ],
+        "correct": "The first implies temporary situation; the second implies permanent state",
+        "explanation": "While \"live\" is typically stative, it can appear in progressive to emphasize temporariness. The simple present treats living as a stable state, while the progressive adds a sense of ongoing, potentially temporary situation. This shows how grammatical aspect interacts with lexical aspect."
+      },
+      {
+        "question": "Which sentence contains an accomplishment with both process and endpoint?",
+        "options": [
+          "I appreciate my morning routine.",
+          "I follow my morning routine.",
+          "I established my morning routine last year.",
+          "I have a morning routine."
+        ],
+        "correct": "I established my morning routine last year.",
+        "explanation": "\"Established\" is an accomplishment involving a process (developing/creating) leading to completion (having it established). The others are: appreciate (state), follow (activity), and have (state)."
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your understanding of lexical aspect. Answer all 3 questions, then submit your quiz. Remember to take a screenshot of your results showing all 3 questions correct before moving on. You may retake the quiz as many times as needed.",
+    "questions": [
+      {
+        "question": "Identify the lexical aspect category: \"I know all my neighbors' names.\"",
+        "options": [
+          "State (stable mental condition)",
+          "Activity (ongoing process)",
+          "Accomplishment (process + endpoint)",
+          "Achievement (instantaneous moment)"
+        ],
+        "correct": "State (stable mental condition)",
+        "explanation": "\"Know\" is a stative verb describing a stable mental state. It doesn't involve stages or processes—the knowledge simply exists. Stative verbs typically resist progressive aspect."
+      },
+      {
+        "question": "Which sentence illustrates how adding a goal-object transforms an activity into an accomplishment?",
+        "options": [
+          "\"She studied\" (activity) vs. \"She studies\" (state)",
+          "\"She studied\" (activity) vs. \"She studied medicine\" (accomplishment)",
+          "\"She studied\" (state) vs. \"She is studying\" (activity)",
+          "\"She studied\" (achievement) vs. \"She was studying\" (accomplishment)"
+        ],
+        "correct": "\"She studied\" (activity) vs. \"She studied medicine\" (accomplishment)",
+        "explanation": "Without an object, \"studied\" is an activity—ongoing, atelic process. Adding \"medicine\" creates an accomplishment with an endpoint (completing medical studies). This shows how complements affect lexical aspect structure."
+      },
+      {
+        "question": "Why can we say \"I'm reaching my goals\" but this changes the aspectual meaning?",
+        "options": [
+          "Progressive is always incorrect with achievement verbs",
+          "Progressive adds a preliminary process to the instantaneous achievement",
+          "Progressive transforms the achievement into a permanent state",
+          "Progressive makes the achievement into an activity without endpoint"
+        ],
+        "correct": "Progressive adds a preliminary process to the instantaneous achievement",
+        "explanation": "Achievements are punctual, but progressive aspect can add a \"lead-up\" interpretation. \"I reached my goals\" = instantaneous success moment. \"I'm reaching my goals\" = I'm in the process of getting to that completion point."
+      },
+      {
+        "question": "\"For two hours\" vs. \"in two hours\"—which pairs with accomplishments?",
+        "options": [
+          "\"For two hours\" because accomplishments need duration",
+          "\"In two hours\" because it measures time to completion",
+          "Both work equally well with accomplishments",
+          "Neither works with accomplishments"
+        ],
+        "correct": "\"In two hours\" because it measures time to completion",
+        "explanation": "\"In X time\" measures the time taken to reach an endpoint, making it natural with accomplishments. \"For X time\" measures duration without implying completion, fitting activities and states better. This is a key diagnostic test."
+      },
+      {
+        "question": "Classify: \"She achieved her dream of traveling the world.\"",
+        "options": [
+          "State (having a dream)",
+          "Activity (traveling continuously)",
+          "Accomplishment (process of traveling leading to goal fulfillment)",
+          "Achievement (instantaneous moment of realization)"
+        ],
+        "correct": "Accomplishment (process of traveling leading to goal fulfillment)",
+        "explanation": "Despite containing the word \"achieved,\" this describes an accomplishment. The traveling involved extended process, and \"achieving the dream\" marks completion. The whole event combines duration with a defining endpoint."
+      },
+      {
+        "question": "Which verb phrase is a STATE that cannot naturally appear in progressive?",
+        "options": [
+          "practice yoga",
+          "prefer morning workouts",
+          "develop new habits",
+          "change routines"
+        ],
+        "correct": "prefer morning workouts",
+        "explanation": "\"Prefer\" is stative, describing a mental state or attitude. \"I am preferring\" sounds very unnatural. The others are dynamic: practice (activity), develop (accomplishment), change (accomplishment/activity)."
+      },
+      {
+        "question": "What aspectual category is \"He won the competition\"?",
+        "options": [
+          "State (being a winner)",
+          "Activity (competing over time)",
+          "Accomplishment (training process + victory)",
+          "Achievement (instantaneous transition to winner)"
+        ],
+        "correct": "Achievement (instantaneous transition to winner)",
+        "explanation": "\"Won\" represents the punctual moment of victory—the instantaneous transition from competitor to winner. While the competition itself was an activity, \"won\" focuses on the singular moment of outcome."
+      },
+      {
+        "question": "How does \"I lived in Paris\" differ aspectually from \"I was living in Paris\"?",
+        "options": [
+          "The first is an achievement; the second is a state",
+          "The first treats it as a bounded state; the second emphasizes ongoing temporary situation",
+          "The first is incorrect grammar; the second is correct",
+          "There is no aspectual difference between them"
+        ],
+        "correct": "The first treats it as a bounded state; the second emphasizes ongoing temporary situation",
+        "explanation": "Simple past \"lived\" presents it as a complete, bounded past situation. Progressive \"was living\" emphasizes the ongoing, in-progress nature and often suggests temporariness. This shows grammatical aspect interacting with lexical aspect."
+      },
+      {
+        "question": "\"She remembered her childhood\" vs. \"She remembered to call her mother.\" How do these differ?",
+        "options": [
+          "Both are states with no aspectual difference",
+          "The first is a state (having memories); the second is an achievement (moment of recalling)",
+          "The first is an activity; the second is an accomplishment",
+          "The first is an achievement; the second is a state"
+        ],
+        "correct": "The first is a state (having memories); the second is an achievement (moment of recalling)",
+        "explanation": "\"Remembered\" + object = state (having memories in mind). \"Remembered\" + infinitive = achievement (the punctual moment of recalling what to do). Same verb, different aspectual structures based on complement."
+      },
+      {
+        "question": "Why is \"write emails\" an activity but \"write a novel\" an accomplishment?",
+        "options": [
+          "One is plural and the other is singular",
+          "One has no inherent endpoint; the other has a defining completion point",
+          "One uses present tense; the other uses past tense",
+          "One is shorter than the other in duration"
+        ],
+        "correct": "One has no inherent endpoint; the other has a defining completion point",
+        "explanation": "\"Write emails\" is atelic—you can stop at any point and the activity remains valid. \"Write a novel\" is telic—it's only accomplished when the novel is finished. The object type affects whether there's an inherent goal."
+      },
+      {
+        "question": "What category is \"I improved my lifestyle over several months\"?",
+        "options": [
+          "State (having a lifestyle)",
+          "Activity (living day-to-day)",
+          "Accomplishment (gradual process toward better state)",
+          "Achievement (sudden lifestyle change)"
+        ],
+        "correct": "Accomplishment (gradual process toward better state)",
+        "explanation": "\"Improved\" combines extended process (making changes over time) with an endpoint (reaching the improved state). The time phrase \"over several months\" fits naturally with accomplishments that have both duration and completion."
+      },
+      {
+        "question": "Which test helps identify whether a verb phrase is telic (has endpoint)?",
+        "options": [
+          "Can it appear in past tense?",
+          "Does it sound natural with \"in X time\" vs. \"for X time\"?",
+          "Can it take a direct object?",
+          "Is it a physical or mental action?"
+        ],
+        "correct": "Does it sound natural with \"in X time\" vs. \"for X time\"?",
+        "explanation": "Time adverbial compatibility is a key diagnostic. Telic predicates (accomplishments, achievements) take \"in X time\" because they measure time to completion. Atelic predicates (activities, states) take \"for X time\" because they measure duration without implying endpoints."
+      },
+      {
+        "question": "\"The moment I arrived\" vs. \"While I was arriving.\" Which is more natural and why?",
+        "options": [
+          "Both are equally natural with no difference",
+          "The first is more natural because \"arrive\" is an achievement",
+          "The second is more natural because all verbs prefer progressive",
+          "Neither is natural; \"arrive\" cannot be used in past"
+        ],
+        "correct": "The first is more natural because \"arrive\" is an achievement",
+        "explanation": "\"Arrive\" is an achievement—an instantaneous transition. \"The moment I arrived\" fits naturally with punctual events. \"While I was arriving\" is less natural because \"while\" frames durative situations, but progressive with achievements can work if we interpret it as preliminary process."
+      },
+      {
+        "question": "How does lexical aspect affect translation decisions?",
+        "options": [
+          "It doesn't matter; all verbs translate the same way",
+          "Different languages encode aspectual distinctions differently, so recognizing them helps choose appropriate forms",
+          "Only grammatical aspect matters for translation",
+          "Lexical aspect only matters in creative writing"
+        ],
+        "correct": "Different languages encode aspectual distinctions differently, so recognizing them helps choose appropriate forms",
+        "explanation": "Languages vary in how they express aspectual distinctions. Some languages grammatically mark telicity, others use lexical means. Recognizing English lexical aspect categories helps translators select equivalent structures that preserve temporal and goal-oriented meanings in the target language."
+      },
+      {
+        "question": "What is the lexical aspect of \"I belong to a running club\"?",
+        "options": [
+          "Activity (running regularly)",
+          "State (membership relation)",
+          "Accomplishment (joining the club)",
+          "Achievement (moment of becoming member)"
+        ],
+        "correct": "State (membership relation)",
+        "explanation": "\"Belong to\" is stative, describing a stable relationship of membership or affiliation. Even though the club involves the activity of running, the verb \"belong\" itself expresses a state. Notice \"I am belonging\" sounds unnatural."
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Lexical Aspect Analysis and Application",
+    "instructions": "Choose ONE of the three options below. Your response should be 300-500 words and demonstrate your understanding of lexical aspect categories and how they function in English. Use specific examples from the lifestyle/goals context to support your analysis.",
+    "options": [
+      {
+        "title": "Aspect Analysis: Life Narrative",
+        "prompt": "Write a personal narrative (300-500 words) about a significant accomplishment or lifestyle change you've made or want to make. After writing, analyze your own text by identifying at least 8 different verb phrases and classifying them by lexical aspect (state, activity, accomplishment, achievement). Explain how each classification affects the temporal interpretation of your narrative.",
+        "deliverable": "A narrative text with accompanying aspectual analysis table showing: verb phrase, classification, and brief justification for each classification."
+      },
+      {
+        "title": "Diagnostic Testing in Practice",
+        "prompt": "Select 10 verb phrases from authentic sources (news articles, blog posts, social media) related to personal development, fitness, or lifestyle topics. For each phrase, apply at least two diagnostic tests we've learned (progressive compatibility, time adverbial tests, \"almost\" test, telicity) to determine its lexical aspect category. Explain your reasoning process and note any challenging or ambiguous cases.",
+        "deliverable": "A structured analysis with: (1) each verb phrase in context, (2) diagnostic tests applied, (3) aspectual classification with reasoning, (4) reflection on what made classification easy or difficult."
+      },
+      {
+        "title": "Translation Challenges with Aspect",
+        "prompt": "Compare how English and your native language (Spanish or another L1) express lexical aspect distinctions. Choose 6-8 examples of states, activities, accomplishments, and achievements from the lifestyle domain and examine whether these categories align or diverge between the languages. Discuss specific translation challenges and strategies for preserving aspectual meaning across languages.",
+        "deliverable": "A comparative analysis showing parallel examples in both languages, explanation of aspectual encoding differences, and practical translation strategies with justification."
+      }
+    ],
+    "peerReview": {
+      "instructions": "You will review one classmate's assignment. Provide constructive feedback focusing on their understanding of lexical aspect and the quality of their analysis.",
+      "criteria": [
+        "Accurate identification and classification of aspectual categories with appropriate justification",
+        "Clear explanation of diagnostic tests or analytical reasoning used",
+        "Effective use of examples from lifestyle/accomplishment contexts",
+        "Demonstration of understanding how lexical aspect affects interpretation or translation"
+      ],
+      "format": "Written feedback (150-200 words) addressing each criterion with specific observations and suggestions for improvement."
+    }
+  },
+  "conclusion": {
+    "message": "Excellent work completing Week 4! You've now developed an understanding of how verbs inherently encode temporal structure—a sophisticated concept that deepens your ability to analyze and translate English with precision.",
+    "takeaways": [
+      "States describe stable situations without stages; activities are ongoing processes without natural endpoints",
+      "Accomplishments combine extended process with a defining completion point; achievements are instantaneous transitions",
+      "Diagnostic tests (progressive, time adverbials, telicity) help systematically classify lexical aspect",
+      "Lexical aspect interacts with grammatical aspect (progressive, perfect) to create nuanced temporal meanings",
+      "Understanding aspectual structure is essential for translation because languages encode these distinctions differently"
+    ],
+    "furtherPractice": [
+      "Read lifestyle blogs or personal development articles and mark verb phrases by aspectual category",
+      "Practice the \"almost\" test and time adverbial tests with verb phrases from authentic texts",
+      "Compare how accomplishments are expressed in English vs. your L1 in goal-setting contexts",
+      "Notice how advertising and motivational content uses different aspect types to create urgency or stability",
+      "Experiment with changing lexical aspect (e.g., \"run\" → \"run a marathon\") and observe meaning shifts"
+    ]
+  }
+}

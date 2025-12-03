@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TR31 Advanced English - Unit Outlines</title>
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <nav class="breadcrumbs">
+      <a href="../index.html">Home</a>
+      <span>/</span>
+      <span>Unit Outlines</span>
+    </nav>
+
+    <h1>Unit Outlines</h1>
+
+    <div class="card">
+      <label for="unit-selector" style="font-family: 'Archivo', sans-serif; font-weight: 600; color: var(--primary); display: block; margin-bottom: 0.5rem;">Select a Unit:</label>
+      <select id="unit-selector" class="unit-selector">
+        <option value="">Choose a unit...</option>
+        <option value="0">Unit 1: Advanced Study of Verbs</option>
+        <option value="1">Unit 2: Coherence and Precision</option>
+        <option value="2">Unit 3: Pragmatics and Professional Language</option>
+        <option value="3">Unit 4: Final Project</option>
+      </select>
+    </div>
+
+    <div id="unit-content" style="display: none;">
+      <div class="intro-section">
+        <h2 id="unit-title"></h2>
+      </div>
+
+      <div class="card">
+        <h3>Overview</h3>
+        <p id="unit-description"></p>
+      </div>
+
+      <div class="card">
+        <h3>Learning Objectives</h3>
+        <ul class="objectives" id="unit-objectives"></ul>
+      </div>
+
+      <div class="card">
+        <h3>Weekly Topics</h3>
+        <ul class="list" id="unit-outline"></ul>
+      </div>
+    </div>
+
+    <div class="nav-buttons">
+      <a href="../index.html" class="btn">← Back to Home</a>
+    </div>
+  </div>
+
+  <script src="../js/outline-loader.js"></script>
+</body>
+</html>

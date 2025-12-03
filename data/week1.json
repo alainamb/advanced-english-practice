@@ -1,0 +1,370 @@
+{
+  "week": 1,
+  "title": "Welcome to TR31 + Verb Types Review",
+  "breadcrumb": "Week 1: Verb Types",
+  "introduction": {
+    "overview": "Welcome to TR31 Advanced English! This week we'll explore the course structure and refresh your understanding of fundamental verb classifications. These categories form the foundation for the more complex verb concepts we'll explore throughout the semester.",
+    "objectives": [
+      "Understand the course structure, grading, and weekly workflow",
+      "Distinguish between transitive and intransitive verbs",
+      "Identify action, state, auxiliary, and copulative verbs",
+      "Apply verb type knowledge in your own writing"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Transitive vs. Intransitive Verbs",
+        "content": "<strong>Transitive verbs</strong> require a direct object to complete their meaning—they transfer action to something or someone. <strong>Intransitive verbs</strong> express complete actions or states without needing an object. Many verbs can function as both depending on context.",
+        "example": "Transitive: 'She reads <em>mystery novels</em> every weekend' (what does she read?). Intransitive: 'She reads constantly' (complete meaning without an object). Note: Some verbs like 'arrive' or 'sleep' are always intransitive."
+      },
+      {
+        "heading": "Action vs. State Verbs",
+        "content": "<strong>Action verbs</strong> (dynamic verbs) describe activities or events that happen: run, write, cook, discuss. <strong>State verbs</strong> (stative verbs) describe conditions, emotions, thoughts, or states of being: know, believe, own, seem. State verbs typically don't appear in progressive forms.",
+        "example": "Action: 'I'm cooking dinner right now' (can use -ing). State: 'I know the answer' (not 'I'm knowing'). However, some verbs shift meaning: 'I'm having dinner' (action) vs. 'I have two sisters' (state)."
+      },
+      {
+        "heading": "Auxiliary Verbs",
+        "content": "<strong>Auxiliary verbs</strong> (helping verbs) work with main verbs to express tense, mood, or voice. The primary auxiliaries are <em>be</em>, <em>have</em>, and <em>do</em>. Modal auxiliaries (will, can, should, must, etc.) express necessity, possibility, or permission.",
+        "example": "Primary: 'She <em>is</em> studying' (be + present participle), 'They <em>have</em> finished' (have + past participle), '<em>Do</em> you understand?' (do for questions). Modal: 'You <em>should</em> try this restaurant' (advice)."
+      },
+      {
+        "heading": "Copulative Verbs (Linking Verbs)",
+        "content": "<strong>Copulative verbs</strong> connect the subject to additional information about the subject (a complement), rather than showing action. The most common is <em>be</em>, but others include <em>seem</em>, <em>become</em>, <em>appear</em>, <em>feel</em>, <em>taste</em>, <em>smell</em>, <em>sound</em>, and <em>remain</em>.",
+        "example": "'She <em>is</em> a teacher' (links subject to noun). 'The soup <em>tastes</em> delicious' (links subject to adjective). 'He <em>became</em> nervous before the presentation' (links subject to state). Note: Some of these verbs can also be action verbs: 'She <em>tasted</em> the soup' (action)."
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick activities help you recognize different verb types. Try each one and check your understanding.",
+    "activities": [
+      {
+        "type": "identification",
+        "prompt": "Identify the verb type: 'The students enjoyed the concert last night.'",
+        "answer": "transitive action verb",
+        "explanation": "'Enjoyed' is an action verb that requires a direct object ('the concert') to complete its meaning."
+      },
+      {
+        "type": "identification",
+        "prompt": "Is this correct? 'I am knowing the answer to that question.'",
+        "answer": "incorrect",
+        "explanation": "'Know' is a state verb and doesn't typically appear in progressive form. Correct: 'I know the answer.'"
+      },
+      {
+        "type": "identification",
+        "prompt": "What type of verb is 'seems' in this sentence: 'The weather seems perfect for a picnic'?",
+        "answer": "copulative verb",
+        "explanation": "'Seems' is a linking verb that connects the subject ('weather') to a complement ('perfect')."
+      },
+      {
+        "type": "identification",
+        "prompt": "Identify all auxiliary verbs: 'They have been studying English for three years.'",
+        "answer": "have, been",
+        "explanation": "'Have' and 'been' are both auxiliaries working together with the main verb 'studying' to form the present perfect progressive tense."
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "Practice identifying and understanding different verb types in various contexts.",
+    "items": [
+      {
+        "question": "Which sentence contains a transitive verb?",
+        "options": [
+          "The baby sleeps peacefully in the afternoon.",
+          "My grandmother bakes cookies every Sunday.",
+          "The flowers bloomed early this spring.",
+          "We arrived late to the party."
+        ],
+        "correct": "My grandmother bakes cookies every Sunday.",
+        "explanation": "'Bakes' is transitive because it takes a direct object ('cookies'). The other verbs are intransitive."
+      },
+      {
+        "question": "Identify the sentence with a state verb:",
+        "options": [
+          "She's running a marathon next month.",
+          "They believe in taking regular breaks.",
+          "We're discussing the project details now.",
+          "He's writing an email to his manager."
+        ],
+        "correct": "They believe in taking regular breaks.",
+        "explanation": "'Believe' is a state verb expressing a mental state. The others are action verbs."
+      },
+      {
+        "question": "In 'You should have called me yesterday,' which words are auxiliary verbs?",
+        "options": [
+          "only 'should'",
+          "only 'have'",
+          "'should' and 'have'",
+          "'should', 'have', and 'called'"
+        ],
+        "correct": "'should' and 'have'",
+        "explanation": "Both 'should' (modal auxiliary) and 'have' (primary auxiliary) work together. 'Called' is the main verb."
+      },
+      {
+        "question": "Which verb functions as a copulative (linking) verb in this context?",
+        "options": [
+          "The chef tasted the sauce carefully. (tasted)",
+          "The sauce tasted too salty. (tasted)",
+          "She will taste the wine before serving. (taste)",
+          "They taste different flavors daily. (taste)"
+        ],
+        "correct": "The sauce tasted too salty. (tasted)",
+        "explanation": "Here 'tasted' links the subject to an adjective complement. In the other examples, it's an action verb."
+      },
+      {
+        "question": "Which sentence is grammatically incorrect?",
+        "options": [
+          "I'm understanding the concept now.",
+          "I understand the concept now.",
+          "I'm learning the concept now.",
+          "I'm reviewing the concept now."
+        ],
+        "correct": "I'm understanding the concept now.",
+        "explanation": "'Understand' is a state verb and shouldn't appear in progressive form. 'Learn' and 'review' are action verbs that can."
+      },
+      {
+        "question": "Identify the intransitive verb:",
+        "options": [
+          "She opened the window for fresh air.",
+          "They discussed the problem thoroughly.",
+          "The meeting lasted three hours.",
+          "He reads scientific articles regularly."
+        ],
+        "correct": "The meeting lasted three hours.",
+        "explanation": "'Lasted' is intransitive—'three hours' is a time expression, not a direct object. The others take direct objects."
+      },
+      {
+        "question": "In 'The coffee smells wonderful,' what type of verb is 'smells'?",
+        "options": [
+          "action verb",
+          "state verb",
+          "copulative verb",
+          "auxiliary verb"
+        ],
+        "correct": "copulative verb",
+        "explanation": "'Smells' here links the subject to an adjective ('wonderful'), making it a linking/copulative verb."
+      },
+      {
+        "question": "Which sentence contains both an auxiliary verb and a main verb?",
+        "options": [
+          "She seems tired today.",
+          "They have three children.",
+          "We are planning a trip to Europe.",
+          "He became a doctor last year."
+        ],
+        "correct": "We are planning a trip to Europe.",
+        "explanation": "'Are' is the auxiliary verb helping the main verb 'planning' form the present progressive tense."
+      },
+      {
+        "question": "Choose the sentence where 'feel' is an action verb, not a linking verb:",
+        "options": [
+          "I feel confident about the exam.",
+          "The doctor felt the patient's forehead.",
+          "She feels happy about the news.",
+          "The fabric feels soft and smooth."
+        ],
+        "correct": "The doctor felt the patient's forehead.",
+        "explanation": "Here 'felt' describes an action (touching). In the others, it links the subject to a complement."
+      },
+      {
+        "question": "Which verb can be both transitive and intransitive?",
+        "options": [
+          "arrive",
+          "exist",
+          "read",
+          "occur"
+        ],
+        "correct": "read",
+        "explanation": "'Read' can be transitive ('read a book') or intransitive ('read daily'). The others are always intransitive."
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your understanding of verb types. Three questions appear at a time - get all three correct to pass! Remember to take a screenshot when you succeed and add it to your Quiz Tracker.",
+    "questions": [
+      {
+        "question": "In 'Maria has been practicing piano for two hours,' how many auxiliary verbs are there?",
+        "options": ["none", "one", "two", "three"],
+        "correct": "two",
+        "explanation": "'Has' and 'been' are both auxiliaries. 'Practicing' is the main verb."
+      },
+      {
+        "question": "Which is a correct use of a state verb?",
+        "options": [
+          "I'm knowing your sister.",
+          "She's owning two cars.",
+          "They prefer tea over coffee.",
+          "We're believing the story."
+        ],
+        "correct": "They prefer tea over coffee.",
+        "explanation": "'Prefer' is correctly used as a state verb. The others incorrectly use state verbs in progressive form."
+      },
+      {
+        "question": "Identify the transitive verb: 'The audience applauded enthusiastically after the performance.'",
+        "options": ["audience", "applauded", "enthusiastically", "performance"],
+        "correct": "applauded",
+        "explanation": "While it appears without an object here, 'applauded' is the verb, though functioning intransitively in this sentence."
+      },
+      {
+        "question": "In 'The situation became complicated very quickly,' 'became' is:",
+        "options": [
+          "an action verb",
+          "an auxiliary verb",
+          "a copulative verb",
+          "a transitive verb"
+        ],
+        "correct": "a copulative verb",
+        "explanation": "'Became' links the subject to a complement ('complicated'), making it a linking verb."
+      },
+      {
+        "question": "Which sentence has a correctly used state verb?",
+        "options": [
+          "I'm having a good time at the party.",
+          "She's having two brothers.",
+          "They're having a new car.",
+          "We're having the same opinion."
+        ],
+        "correct": "I'm having a good time at the party.",
+        "explanation": "'Having a good time' is an idiomatic action phrase. In the others, 'have' expresses possession (state) and shouldn't be progressive."
+      },
+      {
+        "question": "What type of verb is 'grow' in: 'She grows vegetables in her garden'?",
+        "options": [
+          "intransitive verb",
+          "transitive verb",
+          "copulative verb",
+          "state verb"
+        ],
+        "correct": "transitive verb",
+        "explanation": "'Grows' takes a direct object ('vegetables'), making it transitive."
+      },
+      {
+        "question": "Identify the linking verb: 'The plan sounds reasonable to me.'",
+        "options": ["plan", "sounds", "reasonable", "sounds reasonable"],
+        "correct": "sounds",
+        "explanation": "'Sounds' connects the subject to an adjective complement, functioning as a linking verb."
+      },
+      {
+        "question": "Which contains an intransitive verb?",
+        "options": [
+          "She opened the door quietly.",
+          "The students finished their homework.",
+          "The concert ended at midnight.",
+          "He's reading an interesting novel."
+        ],
+        "correct": "The concert ended at midnight.",
+        "explanation": "'Ended' doesn't take a direct object here. 'At midnight' is a time expression, not an object."
+      },
+      {
+        "question": "In 'I do enjoy hiking on weekends,' what function does 'do' serve?",
+        "options": [
+          "main verb",
+          "auxiliary verb for emphasis",
+          "linking verb",
+          "modal verb"
+        ],
+        "correct": "auxiliary verb for emphasis",
+        "explanation": "'Do' is an auxiliary adding emphasis to the main verb 'enjoy.'"
+      },
+      {
+        "question": "Which verb is always a state verb and cannot show action?",
+        "options": ["smell", "taste", "understand", "feel"],
+        "correct": "understand",
+        "explanation": "'Understand' is always a state verb. The others can be either state or action verbs depending on context."
+      },
+      {
+        "question": "What makes this incorrect: 'The children are seeming happy today'?",
+        "options": [
+          "'seem' is always intransitive",
+          "'seem' is a state/linking verb that doesn't take progressive form",
+          "'seem' requires a direct object",
+          "'seem' can only be used in past tense"
+        ],
+        "correct": "'seem' is a state/linking verb that doesn't take progressive form",
+        "explanation": "'Seem' describes a state and doesn't appear in progressive form. Correct: 'The children seem happy.'"
+      },
+      {
+        "question": "In 'She's been my friend for years,' what is 'been'?",
+        "options": [
+          "auxiliary verb",
+          "main linking verb",
+          "action verb",
+          "modal verb"
+        ],
+        "correct": "main linking verb",
+        "explanation": "Here 'has' is the auxiliary, and 'been' is the main linking verb connecting subject to complement."
+      },
+      {
+        "question": "Which sentence uses a verb that can be both transitive and intransitive?",
+        "options": [
+          "The baby slept through the night.",
+          "She always arrives on time.",
+          "They write novels and short stories.",
+          "The flowers bloom in spring."
+        ],
+        "correct": "They write novels and short stories.",
+        "explanation": "'Write' can be transitive (with object: 'novels') or intransitive ('She writes daily')."
+      },
+      {
+        "question": "Identify the auxiliary verb structure: 'You should have been studying earlier.'",
+        "options": [
+          "should",
+          "should have",
+          "should have been",
+          "should have been studying"
+        ],
+        "correct": "should have been",
+        "explanation": "'Should,' 'have,' and 'been' are all auxiliaries. 'Studying' is the main verb."
+      },
+      {
+        "question": "Which correctly identifies the verb type in 'The sky turned dark before the storm'?",
+        "options": [
+          "'turned' is an action verb showing movement",
+          "'turned' is a copulative verb linking subject to complement",
+          "'turned' is an auxiliary verb",
+          "'turned' is a transitive verb with 'dark' as object"
+        ],
+        "correct": "'turned' is a copulative verb linking subject to complement",
+        "explanation": "'Turned' here means 'became' and links the subject to an adjective, making it a linking verb."
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Introduction Using Verb Types",
+    "instructions": "This week's assignment helps you get familiar with the course structure while practicing verb type recognition. You won't turn anything in - just complete the discussion post. Post your introduction in the #introductions channel, then respond to at least one classmate's post.",
+    "options": [
+      {
+        "title": "Introduce Yourself Using Different Verb Types",
+        "prompt": "Write a paragraph (150-200 words) introducing yourself to your classmates. Include information about who you are, what you're hoping to learn in this course, and why. As you write, consciously include examples of different verb types we studied this week. After drafting, label at least 5 verbs in your introduction by type (transitive, intransitive, action, state, auxiliary, or copulative). Then respond to one classmate's introduction, finding something you have in common or asking a follow-up question.",
+        "deliverable": "Post your labeled introduction in the #introductions channel, then comment on at least one classmate's post"
+      }
+    ],
+    "peerReview": {
+      "instructions": "This week, peer review is informal. Simply respond to at least one classmate's introduction:",
+      "criteria": [
+        "Find something you have in common with them",
+        "Ask a follow-up question about something they mentioned",
+        "Share your own related experience",
+        "Welcome them to the class in a friendly way"
+      ],
+      "format": "Respond naturally to your classmate - no formal rubric needed this week. The goal is to start building our class community!"
+    }
+  },
+  "conclusion": {
+    "message": "You've completed Week 1! You now understand how this course works and have refreshed your knowledge of fundamental verb categories. These classifications will help you recognize patterns as we explore more complex verb concepts in the coming weeks.",
+    "takeaways": [
+      "Transitive verbs require direct objects; intransitive verbs don't",
+      "Action verbs describe activities; state verbs describe conditions (and typically avoid progressive forms)",
+      "Auxiliary verbs work with main verbs to express tense, mood, or voice",
+      "Copulative (linking) verbs connect subjects to complements rather than showing action",
+      "Many verbs can function in multiple categories depending on context"
+    ],
+    "furtherPractice": [
+      "As you read this week, notice which verbs take objects and which don't",
+      "Listen for state verbs in conversation - notice that they rarely appear in progressive forms",
+      "Pay attention to linking verbs (seem, appear, become, feel, etc.) and what they connect",
+      "Look for auxiliary verb combinations (is working, have been studying, should go, etc.)",
+      "Try writing sentences where the same verb functions in different ways (transitive vs. intransitive, action vs. linking)"
+    ]
+  }
+}

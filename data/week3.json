@@ -1,0 +1,402 @@
+{
+  "week": 3,
+  "title": "Aspect vs. Tense: Understanding Internal Time Structure",
+  "breadcrumb": "Week 3: Aspect vs. Tense",
+  "introduction": {
+    "overview": "This week distinguishes between two fundamental but often confused concepts: tense (when something happens) and aspect (how an action unfolds over time). While tense locates an event in time (past, present, future), aspect reveals the internal structure of that event—whether it's complete, ongoing, habitual, or repeated. Understanding this distinction is crucial for translation work, as languages structure temporal information differently.",
+    "objectives": [
+      "Distinguish clearly between tense (external time reference) and aspect (internal time structure)",
+      "Identify and interpret perfective, imperfective, progressive, and habitual aspects in English",
+      "Recognize how aspect choices shape meaning in travel narratives and personal storytelling",
+      "Apply aspectual knowledge to translation decisions involving temporality and event structure"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Tense vs. Aspect: The Essential Distinction",
+        "content": "<strong>Tense</strong> tells us WHEN something happens (past, present, future), while <strong>aspect</strong> tells us HOW an event unfolds internally—its completion status, duration, or repetition. This is not merely an academic distinction: many translation challenges arise when languages encode these concepts differently. English combines tense and aspect in verb phrases: 'I traveled' (past tense, perfective aspect) versus 'I was traveling' (past tense, progressive aspect). The time reference is the same (both past), but the aspectual perspective differs dramatically.",
+        "example": "Compare: 'I visited Paris last summer' (completed event) vs. 'I was visiting Paris when I met Jean' (ongoing event providing background)"
+      },
+      {
+        "heading": "Perfective Aspect: Completed Events",
+        "content": "<strong>Perfective aspect</strong> presents an event as a complete whole, with a clear beginning and endpoint. In travel narratives, perfective forms report specific completed actions: arrivals, departures, discoveries, and achievements. English uses the simple past for perfective meanings in past contexts. The perfective doesn't necessarily mean the action was quick—only that we're viewing it as a bounded, complete unit rather than focusing on its internal progression.",
+        "example": "'We flew to Tokyo, checked into our hotel, and explored the neighborhood.' (Three completed events viewed as a sequence)"
+      },
+      {
+        "heading": "Imperfective Aspect: Ongoing and Habitual Events",
+        "content": "<strong>Imperfective aspect</strong> presents events without emphasizing completion, focusing instead on their ongoing nature or habitual occurrence. The <strong>progressive</strong> (continuous) form shows ongoing action: 'We were hiking through the mountains when the storm began.' The <strong>habitual</strong> aspect describes repeated or characteristic actions: 'Every morning, we would walk to the local market.' Note that 'would' for past habits is distinct from the modal meaning of 'would'—context determines which interpretation applies.",
+        "example": "'During that month in Barcelona, I was learning Spanish, practicing with locals, and discovering new neighborhoods every weekend.' (Ongoing and habitual actions providing duration)"
+      },
+      {
+        "heading": "Aspect in Translation Contexts",
+        "content": "Translation between Spanish and English requires careful attention to aspect because the languages encode it differently. Spanish marks perfective/imperfective overtly in the past (preterite vs. imperfect), while English uses combinations of tense, aspect markers (-ing), and auxiliary verbs. A common challenge: Spanish imperfect ('estaba caminando') can translate as either simple past ('I walked') or past progressive ('I was walking') depending on whether the focus is the habit itself or the ongoing action. The translator must interpret the source text's aspectual perspective.",
+        "example": "Spanish 'Viajábamos a la playa cada verano' → 'We traveled to the beach every summer' (habitual) or 'We used to travel to the beach every summer' (explicit habit marker)"
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence with the concepts. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "identification",
+        "prompt": "Identify the aspect in this sentence: 'While I was exploring the temple ruins, I discovered an ancient inscription.'",
+        "answer": "progressive (was exploring) and perfective (discovered)",
+        "explanation": "'Was exploring' shows ongoing action (progressive aspect), while 'discovered' shows a completed event (perfective aspect)"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which emphasizes completion: 'I hiked the Inca Trail last year' or 'I was hiking the Inca Trail last year'?",
+        "answer": "I hiked the Inca Trail last year",
+        "explanation": "The simple past 'hiked' presents the action as complete (perfective), while 'was hiking' focuses on the ongoing process"
+      },
+      {
+        "type": "fill-blank",
+        "prompt": "Complete with appropriate aspect: 'Every evening in Rome, we _____ (dine) at a different trattoria.'",
+        "answer": "dined / would dine",
+        "explanation": "Habitual past actions can use simple past or 'would + verb' to emphasize the repeated nature"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Change the aspect to emphasize the ongoing nature: 'I studied Italian before my trip.'",
+        "answer": "I was studying Italian before my trip.",
+        "explanation": "The progressive aspect 'was studying' emphasizes the ongoing process rather than just stating the completed fact"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of subtle differences. Take your time with each one.",
+    "items": [
+      {
+        "question": "Which sentence uses perfective aspect to show a completed journey?",
+        "options": [
+          "I was traveling through Southeast Asia for three months.",
+          "I traveled through Southeast Asia last year.",
+          "I would travel through Southeast Asia whenever I could.",
+          "I have been traveling through Southeast Asia recently."
+        ],
+        "correct": "I traveled through Southeast Asia last year.",
+        "explanation": "Simple past 'traveled' presents the journey as a complete, bounded event (perfective aspect)"
+      },
+      {
+        "question": "In 'We were staying at a small guesthouse near the beach,' what does the progressive aspect emphasize?",
+        "options": [
+          "The action is completed",
+          "The action is habitual",
+          "The action is ongoing during a specific period",
+          "The action happens in the future"
+        ],
+        "correct": "The action is ongoing during a specific period",
+        "explanation": "Past progressive 'were staying' emphasizes the ongoing nature of the accommodation during that time"
+      },
+      {
+        "question": "Which sentence expresses habitual aspect most clearly?",
+        "options": [
+          "I visited the museum yesterday.",
+          "Every morning, we would watch the sunrise from our balcony.",
+          "We are exploring the old town right now.",
+          "They had arrived before sunset."
+        ],
+        "correct": "Every morning, we would watch the sunrise from our balcony.",
+        "explanation": "'Every morning' + 'would watch' clearly marks repeated, habitual action in the past"
+      },
+      {
+        "question": "What is the relationship between tense and aspect in 'I was writing postcards when the train arrived'?",
+        "options": [
+          "Both verbs are in the same tense but different aspects",
+          "Both verbs are in different tenses and different aspects",
+          "Both verbs are in the same tense and same aspect",
+          "The first verb has no aspect"
+        ],
+        "correct": "Both verbs are in the same tense but different aspects",
+        "explanation": "Both are past tense, but 'was writing' is progressive aspect (ongoing) and 'arrived' is perfective aspect (completed)"
+      },
+      {
+        "question": "Which translation of Spanish 'Caminábamos por la playa' better captures habitual aspect?",
+        "options": [
+          "We walked on the beach.",
+          "We were walking on the beach.",
+          "We used to walk on the beach.",
+          "We have walked on the beach."
+        ],
+        "correct": "We used to walk on the beach.",
+        "explanation": "'Used to' explicitly marks habitual aspect, matching the Spanish imperfect's habitual meaning most clearly"
+      },
+      {
+        "question": "In narrative structure, what role does perfective aspect typically play?",
+        "options": [
+          "It provides background information",
+          "It advances the story with completed events",
+          "It shows simultaneous ongoing actions",
+          "It indicates future intentions"
+        ],
+        "correct": "It advances the story with completed events",
+        "explanation": "Perfective aspect (simple past) typically moves the narrative forward with completed, sequential events"
+      },
+      {
+        "question": "Which sentence uses progressive aspect to provide narrative background?",
+        "options": [
+          "The sun set behind the mountains.",
+          "We reached the summit at noon.",
+          "While local musicians were playing in the plaza, we found a café.",
+          "That night, we celebrated our achievement."
+        ],
+        "correct": "While local musicians were playing in the plaza, we found a café.",
+        "explanation": "'Were playing' (progressive) provides ongoing background, while 'found' (perfective) is the main event"
+      },
+      {
+        "question": "What aspect does the sentence 'I have visited twelve countries this year' express?",
+        "options": [
+          "Simple perfective",
+          "Progressive",
+          "Habitual",
+          "Perfect (related to present)"
+        ],
+        "correct": "Perfect (related to present)",
+        "explanation": "Present perfect 'have visited' connects past events to the present moment, showing experience up to now"
+      },
+      {
+        "question": "Which pair shows the same tense but contrasting aspects?",
+        "options": [
+          "'I travel' (present) and 'I traveled' (past)",
+          "'She explored the city' (perfective) and 'She was exploring the city' (progressive)",
+          "'We will arrive' (future) and 'We arrived' (past)",
+          "'They leave tomorrow' (present) and 'They left yesterday' (past)"
+        ],
+        "correct": "'She explored the city' (perfective) and 'She was exploring the city' (progressive)",
+        "explanation": "Both are past tense but differ in aspect: perfective (completed) vs. progressive (ongoing)"
+      },
+      {
+        "question": "In 'During my semester abroad, I was discovering new places every week,' what aspect is 'was discovering'?",
+        "options": [
+          "Simple perfective",
+          "Progressive with habitual meaning",
+          "Pure habitual",
+          "Future-in-the-past"
+        ],
+        "correct": "Progressive with habitual meaning",
+        "explanation": "Progressive form combined with 'every week' creates an ongoing habitual interpretation"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Answer 3 questions randomly selected from this set. You'll need to get all 3 correct to pass. Take a screenshot of your successful completion to submit as proof.",
+    "questions": [
+      {
+        "question": "Which sentence correctly uses perfective aspect?",
+        "options": [
+          "I am visiting Prague next month.",
+          "I was visiting Prague when I met Karel.",
+          "I visited Prague last summer.",
+          "I have been visiting Prague regularly."
+        ],
+        "correct": "I visited Prague last summer.",
+        "explanation": "Simple past 'visited' presents the action as a complete, bounded event (perfective aspect)"
+      },
+      {
+        "question": "What is the primary difference between 'I traveled to Japan' and 'I was traveling to Japan'?",
+        "options": [
+          "The tense is different",
+          "The first is perfective (completed), the second is progressive (ongoing)",
+          "The second is more formal",
+          "The first is habitual, the second is one-time"
+        ],
+        "correct": "The first is perfective (completed), the second is progressive (ongoing)",
+        "explanation": "Both are past tense, but they differ in aspect: perfective vs. progressive"
+      },
+      {
+        "question": "In travel writing, which aspect provides narrative background?",
+        "options": [
+          "Perfective aspect (simple past)",
+          "Progressive aspect (past continuous)",
+          "Future aspect",
+          "Present habitual"
+        ],
+        "correct": "Progressive aspect (past continuous)",
+        "explanation": "Progressive aspect typically provides ongoing background context, while perfective advances the plot"
+      },
+      {
+        "question": "Which sentence expresses habitual aspect in the past?",
+        "options": [
+          "I walked to the market yesterday.",
+          "I was walking to the market when it rained.",
+          "Every Sunday, I would walk to the market.",
+          "I will walk to the market tomorrow."
+        ],
+        "correct": "Every Sunday, I would walk to the market.",
+        "explanation": "'Every Sunday' + 'would' clearly indicates repeated, habitual action in the past"
+      },
+      {
+        "question": "Tense refers to _____, while aspect refers to _____.",
+        "options": [
+          "formality; casualness",
+          "when something happens; how an event unfolds internally",
+          "completed actions; future intentions",
+          "Spanish grammar; English grammar"
+        ],
+        "correct": "when something happens; how an event unfolds internally",
+        "explanation": "This is the fundamental distinction: tense = time reference; aspect = internal temporal structure"
+      },
+      {
+        "question": "In 'While I was packing my bags, my taxi arrived,' what aspects are used?",
+        "options": [
+          "Both progressive",
+          "Both perfective",
+          "Progressive then perfective",
+          "Habitual then progressive"
+        ],
+        "correct": "Progressive then perfective",
+        "explanation": "'Was packing' is progressive (ongoing background), 'arrived' is perfective (completed event)"
+      },
+      {
+        "question": "Which translation better captures the Spanish imperfect's habitual meaning in 'Vivíamos en Madrid'?",
+        "options": [
+          "We lived in Madrid.",
+          "We were living in Madrid.",
+          "We used to live in Madrid.",
+          "We have lived in Madrid."
+        ],
+        "correct": "We used to live in Madrid.",
+        "explanation": "'Used to' explicitly marks the habitual aspect often conveyed by Spanish imperfect"
+      },
+      {
+        "question": "What aspect does 'I had been traveling for 12 hours when I finally arrived' use?",
+        "options": [
+          "Simple perfective",
+          "Past perfect progressive",
+          "Present perfect",
+          "Future progressive"
+        ],
+        "correct": "Past perfect progressive",
+        "explanation": "'Had been traveling' combines past perfect tense with progressive aspect to show duration before a past moment"
+      },
+      {
+        "question": "Which sentence uses aspect to emphasize the ongoing nature of learning?",
+        "options": [
+          "I learned Portuguese before my trip.",
+          "I was learning Portuguese while living in Brazil.",
+          "I will learn Portuguese next year.",
+          "I have learned Portuguese."
+        ],
+        "correct": "I was learning Portuguese while living in Brazil.",
+        "explanation": "Past progressive 'was learning' emphasizes the ongoing process during that period"
+      },
+      {
+        "question": "In narrative sequencing, which aspect typically moves the story forward?",
+        "options": [
+          "Progressive aspect",
+          "Perfective aspect",
+          "Future aspect",
+          "Conditional aspect"
+        ],
+        "correct": "Perfective aspect",
+        "explanation": "Perfective aspect (simple past) presents completed events that advance the narrative sequence"
+      },
+      {
+        "question": "What is the aspectual function of 'would' in 'During summer breaks, we would explore different regions'?",
+        "options": [
+          "It expresses a condition",
+          "It marks habitual past action",
+          "It shows future-in-the-past",
+          "It indicates politeness"
+        ],
+        "correct": "It marks habitual past action",
+        "explanation": "'Would' here marks repeated, habitual action in the past, not its modal conditional meaning"
+      },
+      {
+        "question": "Which pair shows the same event with different aspectual perspectives?",
+        "options": [
+          "'I arrive' and 'I will arrive'",
+          "'She climbed the mountain' and 'She was climbing the mountain'",
+          "'We travel' and 'They travel'",
+          "'He visits Paris' and 'He visits Rome'"
+        ],
+        "correct": "'She climbed the mountain' and 'She was climbing the mountain'",
+        "explanation": "Same event, same tense (past), different aspects: perfective (completed) vs. progressive (ongoing)"
+      },
+      {
+        "question": "How does progressive aspect function in 'The sun was setting as we entered the temple'?",
+        "options": [
+          "It shows a completed action",
+          "It provides atmospheric background",
+          "It indicates future intent",
+          "It marks habitual action"
+        ],
+        "correct": "It provides atmospheric background",
+        "explanation": "'Was setting' (progressive) creates ongoing background atmosphere for the main event 'entered' (perfective)"
+      },
+      {
+        "question": "Which sentence incorrectly uses aspect?",
+        "options": [
+          "I was studying Spanish when I decided to visit Mexico.",
+          "Every evening, we were watching the sunset.",
+          "While staying in the village, we learned about local traditions.",
+          "The guide was explaining the history when someone asked a question."
+        ],
+        "correct": "Every evening, we were watching the sunset.",
+        "explanation": "Habitual actions typically use simple past or 'would,' not progressive: 'Every evening, we watched' or 'we would watch'"
+      },
+      {
+        "question": "What aspectual meaning does 'I have traveled extensively in Asia' convey?",
+        "options": [
+          "An action happening right now",
+          "A habitual action in the past",
+          "Past experience relevant to the present",
+          "Future intention"
+        ],
+        "correct": "Past experience relevant to the present",
+        "explanation": "Present perfect 'have traveled' connects past experiences to the present moment, emphasizing current relevance"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Aspect in Travel Narratives: Analysis and Application",
+    "instructions": "Complete ONE of the following activities. After submission, you'll peer review two classmates' assignments.",
+    "options": [
+      {
+        "title": "Aspectual Analysis of Travel Writing",
+        "prompt": "Find a published travel narrative or blog post (300-400 words) in English. Identify and annotate all instances of perfective, progressive, and habitual aspects. Then write a 200-word analysis explaining how the writer's aspectual choices shape the narrative—how perfective moves the story forward, how progressive provides background or atmosphere, and how habitual characterizes experiences. Discuss what would change if different aspectual choices were made.",
+        "deliverable": "Annotated text + analytical essay (approximately 500 words total)"
+      },
+      {
+        "title": "Translation and Aspect",
+        "prompt": "Take a Spanish travel narrative (250-300 words) that uses both preterite and imperfect verb forms. Translate it into English, paying careful attention to how you render the Spanish perfective/imperfective distinction. Then write a 150-word commentary explaining your aspectual choices: where you used simple past, where you used progressive forms, and why. Include at least three specific examples where you had to make interpretive decisions about aspect.",
+        "deliverable": "Source text + translation + commentary (approximately 450 words total)"
+      },
+      {
+        "title": "Creating a Multi-Aspectual Travel Narrative",
+        "prompt": "Write a personal travel narrative (350-400 words) about a trip or journey, real or imagined. Consciously use all three aspects: perfective to advance the plot with completed events, progressive to provide background and atmosphere, and habitual to characterize repeated experiences. After the narrative, write a 100-word reflection identifying where you used each aspect and why, demonstrating your understanding of their different functions.",
+        "deliverable": "Travel narrative + reflection (approximately 500 words total)"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria:",
+      "criteria": [
+        "Aspectual concepts (perfective, progressive, habitual) are correctly identified and applied",
+        "The distinction between tense and aspect is clearly understood",
+        "Examples and applications demonstrate nuanced understanding of aspectual meanings",
+        "Analysis or narrative shows how aspect shapes meaning and narrative structure",
+        "Writing is clear, well-organized, and uses appropriate terminology"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths, (2) One constructive suggestion, (3) One question for further exploration"
+    }
+  },
+  "conclusion": {
+    "message": "You've completed an exploration of the crucial distinction between tense and aspect, and how aspectual choices shape meaning in English. This understanding will serve you well in translation work, where languages often encode temporal information in different ways.",
+    "takeaways": [
+      "Tense = WHEN (external time reference); Aspect = HOW (internal temporal structure)",
+      "Perfective aspect presents events as complete wholes, advancing narrative",
+      "Progressive aspect shows ongoing action, often providing background or atmosphere",
+      "Habitual aspect marks repeated or characteristic actions (often 'would' or 'used to')",
+      "English combines tense and aspect in verb phrases (e.g., 'was traveling' = past tense + progressive aspect)",
+      "Spanish perfective/imperfective (preterite/imperfect) requires careful aspectual interpretation in English translation"
+    ],
+    "furtherPractice": [
+      "Read travel blogs and identify aspectual patterns: how do writers use aspect to structure narratives?",
+      "Practice translating Spanish preterite vs. imperfect, paying attention to aspectual nuances",
+      "Write short travel anecdotes, consciously varying aspect to create different effects",
+      "Listen to travel podcasts and note when speakers use progressive vs. simple past forms",
+      "Analyze how aspect functions in other narrative genres (news reporting, historical accounts, personal stories)"
+    ]
+  }
+}

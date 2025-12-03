@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TR31 Advanced English</title>
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Breadcrumbs -->
+    <nav class="breadcrumbs" id="breadcrumbs">
+      <!-- Populated by JavaScript -->
+    </nav>
+
+    <!-- Page Title -->
+    <h1 id="page-title">Loading...</h1>
+
+    <!-- Introduction Page Content -->
+    <div id="intro-page" style="display: none;">
+      <div class="intro-section" id="intro-content">
+        <!-- Populated by JavaScript -->
+      </div>
+
+      <div id="lecture-content">
+        <!-- Populated by JavaScript -->
+      </div>
+
+      <div class="nav-buttons" id="nav-buttons">
+        <!-- Populated by JavaScript -->
+      </div>
+    </div>
+
+    <!-- Give It a Try Page Content -->
+    <div id="give-it-a-try-page" style="display: none;">
+      <div id="activities-container">
+        <!-- Populated by JavaScript -->
+      </div>
+      <div class="nav-buttons">
+        <a href="javascript:history.back()" class="btn">← Back to Introduction</a>
+        <a href="javascript:history.forward()" class="btn">Next Activity →</a>
+      </div>
+    </div>
+
+    <!-- Exercises Page Content -->
+    <div id="exercises-page" style="display: none;">
+      <div id="exercises-container">
+        <!-- Populated by JavaScript -->
+      </div>
+      <div class="nav-buttons">
+        <a href="javascript:history.back()" class="btn">← Back to Introduction</a>
+      </div>
+    </div>
+
+    <!-- Quiz Page Content -->
+    <div id="quiz-page" style="display: none;">
+      <div id="quiz-container">
+        <!-- Populated by JavaScript -->
+      </div>
+      <div class="nav-buttons">
+        <a href="javascript:history.back()" class="btn">← Back to Introduction</a>
+      </div>
+    </div>
+
+    <!-- Assignment Page Content -->
+    <div id="assignment-page" style="display: none;">
+      <div id="assignment-container">
+        <!-- Populated by JavaScript -->
+      </div>
+      <div class="nav-buttons">
+        <a href="javascript:history.back()" class="btn">← Back to Introduction</a>
+      </div>
+    </div>
+
+    <!-- Conclusion Page Content -->
+    <div id="conclusion-page" style="display: none;">
+      <div id="conclusion-container">
+        <!-- Populated by JavaScript -->
+      </div>
+      <div class="nav-buttons">
+        <a href="javascript:history.back()" class="btn">← Back to Introduction</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="../js/content-loader.js"></script>
+  <script src="../js/quiz-handler.js"></script>
+  <script>
+    // Show the appropriate page section based on URL parameter
+    document.addEventListener('DOMContentLoaded', () => {
+      const params = new URLSearchParams(window.location.search);
+      const page = params.get('page') || 'intro';
+      
+      // Hide all page sections
+      document.querySelectorAll('[id$="-page"]').forEach(section => {
+        section.style.display = 'none';
+      });
+      
+      // Show the current page section
+      const pageId = page + '-page';
+      const pageElement = document.getElementById(pageId);
+      if (pageElement) {
+        pageElement.style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>

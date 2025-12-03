@@ -1,0 +1,420 @@
+{
+  "week": 2,
+  "title": "Modal and Semi-Modal Verbs: Nuance and Precision",
+  "breadcrumb": "Week 2: Modal and Semi-Modal Verbs",
+  "introduction": {
+    "overview": "This week explores the subtle distinctions between modal and semi-modal verbs that advanced learners often confuse. We'll examine how context, formality, and speaker intention shape modal and semi-modal verb selection in professional translation work. Semi-modals (like 'have to', 'need to', 'be able to', 'be supposed to', 'had better') function similarly to modals but follow different grammatical patterns.",
+    "objectives": [
+      "Distinguish between similar modals and semi-modals (must/have to/need to, should/ought to/had better, can/be able to)",
+      "Identify register and formality shifts in modal and semi-modal usage",
+      "Apply appropriate modals and semi-modals in translation contexts",
+      "Recognize grammatical differences between modals and semi-modals"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Obligation and Necessity: Modals vs. Semi-Modals",
+        "content": "The distinction between <strong>must</strong>, <strong>have to</strong>, and <strong>need to</strong> often trips up even advanced speakers. <em>Must</em> expresses internal obligation or strong advice ('I must finish this translation today'), while <em>have to</em> indicates external obligation ('I have to submit this by Friday because the client requires it'). <em>Need to</em> expresses practical necessity without the urgency of 'must' or the external pressure of 'have to' ('I need to update my terminology database'). Remember: semi-modals like 'have to' and 'need to' conjugate for tense and person (has to, needed to), while pure modals like 'must' do not.",
+        "example": "Compare: 'You must proofread carefully' (internal conviction) vs. 'You have to use the client's style guide' (external requirement) vs. 'You need to build your portfolio' (practical necessity)"
+      },
+      {
+        "heading": "Ability: Can vs. Be Able To",
+        "content": "<strong>Can</strong> expresses general ability or informal permission, while <strong>be able to</strong> is used for specific achievements, especially in the past. For translation work, this distinction is crucial: 'I can translate legal documents' (general ability) versus 'I was able to finish the contract yesterday' (specific past achievement). <em>Be able to</em> is also necessary in perfect tenses and after other modals: 'I haven't been able to contact the client' or 'I might be able to help you tomorrow.'",
+        "example": "'She can speak five languages' (general ability) vs. 'She was able to interpret the entire conference without breaks' (specific achievement)"
+      },
+      {
+        "heading": "Permission and Possibility",
+        "content": "<strong>Can</strong> is informal permission or ability, while <strong>may</strong> is formal permission or possibility. In professional contexts, this distinction matters significantly. Note that 'can' is a pure modal, while alternatives for expressing permission in different tenses require semi-modal constructions.",
+        "example": "'May I suggest an alternative translation?' (formal) vs. 'Can I help you with that file?' (informal collaborative setting)"
+      },
+      {
+        "heading": "Advice and Strong Recommendations",
+        "content": "<strong>Should</strong> is direct advice, <strong>ought to</strong> carries moral weight or stronger expectation, and <strong>had better</strong> (a semi-modal) expresses urgent advice or warning, often with negative consequences implied. The latter is less common in American English but appears in formal British texts. <em>Had better</em> is particularly strong: 'You had better submit this on time' implies serious consequences if you don't.",
+        "example": "'You should check the terminology' (practical advice) vs. 'Translators ought to respect source material' (professional principle) vs. 'You'd better meet this deadline or we'll lose the client' (urgent warning)"
+      },
+      {
+        "heading": "Expectations: Be Supposed To",
+        "content": "<strong>Be supposed to</strong> is a semi-modal that expresses expectations, obligations based on rules or plans, or what is generally understood to happen. It's particularly useful in professional contexts: 'I'm supposed to attend the translation conference next month' (planned obligation) or 'The files are supposed to arrive by email' (expected to happen). Unlike 'should,' it emphasizes external expectations rather than personal opinion.",
+        "example": "'You're supposed to use the company's CAT tool' (company expectation) vs. 'You should learn to use CAT tools' (general advice)"
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence with the concepts. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "fill-blank",
+        "prompt": "Complete: In professional settings, you _____ ask permission before altering a client's terminology.",
+        "answer": "should",
+        "explanation": "Think about professional advice, not rules"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which sounds more formal: 'Can I see the source document?' or 'May I review the source document?'",
+        "answer": "May I review the source document?",
+        "explanation": "'May' is more formal than 'can', and 'review' is more formal than 'see'"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Make this more formal: 'You have to finish by tomorrow.'",
+        "answer": "You must complete this by tomorrow.",
+        "explanation": "'Must' with 'complete' creates a more formal register than 'have to' with 'finish'"
+      },
+      {
+        "type": "fill-blank",
+        "prompt": "Complete: I couldn't find the terminology yesterday, but I _____ locate it this morning.",
+        "answer": "was able to",
+        "explanation": "For specific past achievement, use 'was able to' rather than 'could'"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which expresses the strongest urgency: 'You should submit this' or 'You'd better submit this'?",
+        "answer": "You'd better submit this",
+        "explanation": "'Had better' implies serious consequences and is more urgent than 'should'"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of subtle differences. Take your time with each one.",
+    "items": [
+      {
+        "question": "Choose the most appropriate modal: 'Translators _____ maintain client confidentiality at all times.'",
+        "options": ["can", "must", "should", "need to"],
+        "correct": "must",
+        "explanation": "This is an absolute professional obligation, requiring 'must'"
+      },
+      {
+        "question": "Which sentence suggests external obligation rather than personal decision?",
+        "options": [
+          "I must improve my Japanese for this project.",
+          "I have to use Trados because the agency requires it.",
+          "I should review this translation once more.",
+          "I need to specialize in legal translation."
+        ],
+        "correct": "I have to use Trados because the agency requires it.",
+        "explanation": "'Have to' indicates external requirement (agency policy)"
+      },
+      {
+        "question": "Select the most formal option: 'Excuse me, _____ ask you about this terminology?'",
+        "options": ["can I", "could I", "may I", "am I able to"],
+        "correct": "may I",
+        "explanation": "'May I' is the most formal choice for seeking permission"
+      },
+      {
+        "question": "Which expresses practical necessity without urgency?",
+        "options": [
+          "You must update your CV.",
+          "You have to update your CV for the application.",
+          "You need to update your CV eventually.",
+          "You'd better update your CV."
+        ],
+        "correct": "You need to update your CV eventually.",
+        "explanation": "'Need to' expresses practical necessity without the urgency of 'must' or external pressure of 'have to'"
+      },
+      {
+        "question": "In 'You _____ not share client materials with unauthorized persons,' which indicates prohibition?",
+        "options": ["should", "must", "need to", "are supposed to"],
+        "correct": "must",
+        "explanation": "'Must not' expresses prohibition; other options would be advice or expectations"
+      },
+      {
+        "question": "Which correctly expresses a specific past achievement?",
+        "options": [
+          "I could translate the entire manual last week.",
+          "I can translate the entire manual last week.",
+          "I was able to translate the entire manual last week.",
+          "I am able to translate the entire manual last week."
+        ],
+        "correct": "I was able to translate the entire manual last week.",
+        "explanation": "'Was able to' is correct for specific past achievements; 'could' only works for general past ability"
+      },
+      {
+        "question": "Choose the option expressing expectation based on a plan: 'The client _____ send feedback by Thursday.'",
+        "options": ["should", "must", "is supposed to", "ought to"],
+        "correct": "is supposed to",
+        "explanation": "'Is supposed to' indicates expectation based on an agreement or plan"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "The translator should of checked the source.",
+          "The translator ought check the source.",
+          "The translator needs to check the source.",
+          "The translator must to check the source."
+        ],
+        "correct": "The translator needs to check the source.",
+        "explanation": "Semi-modals like 'need to' use 'to' before infinitives; pure modals like 'must' do not"
+      },
+      {
+        "question": "Select the sentence expressing urgent advice with implied consequences:",
+        "options": [
+          "You should meet the deadline.",
+          "You ought to meet the deadline.",
+          "You'd better meet the deadline.",
+          "You need to meet the deadline."
+        ],
+        "correct": "You'd better meet the deadline.",
+        "explanation": "'Had better' expresses urgent advice with implied negative consequences"
+      },
+      {
+        "question": "Which is correct for expressing continuing inability?",
+        "options": [
+          "I don't can finish this today.",
+          "I haven't been able to finish this today.",
+          "I am not can finish this today.",
+          "I couldn't been finish this today."
+        ],
+        "correct": "I haven't been able to finish this today.",
+        "explanation": "'Be able to' can be used in perfect tenses; 'can' cannot"
+      },
+      {
+        "question": "Which expresses the strongest sense of moral obligation?",
+        "options": [
+          "Translators have to respect copyright.",
+          "Translators need to respect copyright.",
+          "Translators ought to respect copyright.",
+          "Translators are supposed to respect copyright."
+        ],
+        "correct": "Translators ought to respect copyright.",
+        "explanation": "'Ought to' carries moral weight and professional principle"
+      },
+      {
+        "question": "Choose the option that conjugates correctly: 'She _____ submit three versions yesterday.'",
+        "options": ["must", "has to", "had to", "needs"],
+        "correct": "had to",
+        "explanation": "Semi-modals conjugate for tense; 'had to' is the past form of 'have to'"
+      },
+      {
+        "question": "Which expresses ability that might happen in the future?",
+        "options": [
+          "I can help you tomorrow.",
+          "I could help you tomorrow.",
+          "I might be able to help you tomorrow.",
+          "I must help you tomorrow."
+        ],
+        "correct": "I might be able to help you tomorrow.",
+        "explanation": "'Might be able to' combines possibility (might) with ability (be able to)"
+      },
+      {
+        "question": "Select the most appropriate option: 'According to company policy, interns _____ work more than 20 hours per week.'",
+        "options": ["don't have to", "must not", "shouldn't", "aren't supposed to"],
+        "correct": "aren't supposed to",
+        "explanation": "'Aren't supposed to' correctly expresses a rule or policy expectation"
+      },
+      {
+        "question": "Which correctly uses a semi-modal in the negative?",
+        "options": [
+          "You don't need to attend the meeting if you're busy.",
+          "You don't must attend the meeting if you're busy.",
+          "You don't ought to attend the meeting if you're busy.",
+          "You don't can attend the meeting if you're busy."
+        ],
+        "correct": "You don't need to attend the meeting if you're busy.",
+        "explanation": "Semi-modals like 'need to' use 'don't/doesn't/didn't' in negatives; pure modals add 'not' after the modal"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your skills with these questions. Three questions appear at a time - get all three correct to pass!",
+    "questions": [
+      {
+        "question": "In professional email: 'I _____ appreciate your prompt response to this request.'",
+        "options": ["can", "would", "should", "must"],
+        "correct": "would",
+        "explanation": "'Would' is the polite, formal choice in professional correspondence"
+      },
+      {
+        "question": "Which expresses ability in the past?",
+        "options": ["I can translate legal documents.", "I could translate legal documents.", "I was able to translate the contract yesterday.", "I am able to translate legal documents."],
+        "correct": "I was able to translate the contract yesterday.",
+        "explanation": "For specific past achievement, 'was able to' is correct (not 'could')"
+      },
+      {
+        "question": "'You _____ submit the translation in Word format.' (company policy)",
+        "options": ["should", "must", "need to", "are supposed to"],
+        "correct": "must",
+        "explanation": "Company policy requires 'must' (absolute requirement)"
+      },
+      {
+        "question": "Most formal request: '_____ I interrupt for a moment?'",
+        "options": ["Can", "Could", "May", "Am I able to"],
+        "correct": "May",
+        "explanation": "'May' is most formal for seeking permission"
+      },
+      {
+        "question": "Which shows logical deduction rather than permission?",
+        "options": [
+          "She may leave now.",
+          "She may be in the translation department.",
+          "She may use the software.",
+          "She may have the weekend off."
+        ],
+        "correct": "She may be in the translation department.",
+        "explanation": "This 'may' expresses possibility/deduction, not permission"
+      },
+      {
+        "question": "'The client _____ receive the draft by Friday.' (promise/commitment)",
+        "options": ["might", "should", "will", "is supposed to"],
+        "correct": "will",
+        "explanation": "'Will' expresses commitment to a promise"
+      },
+      {
+        "question": "Which is grammatically correct? 'You _____ to inform the client about delays.'",
+        "options": ["must", "have", "ought", "need"],
+        "correct": "ought",
+        "explanation": "Only 'ought' requires 'to' before the infinitive in this structure"
+      },
+      {
+        "question": "Past necessity: 'I _____ work late to meet the deadline.' (it happened)",
+        "options": ["should have", "must have", "had to", "was supposed to"],
+        "correct": "had to",
+        "explanation": "'Had to' expresses past necessity that was fulfilled"
+      },
+      {
+        "question": "'She _____ be bilingual based on her resume.' (90% certain)",
+        "options": ["may", "might", "must", "has to"],
+        "correct": "must",
+        "explanation": "'Must' expresses strong logical deduction from evidence"
+      },
+      {
+        "question": "Negative advice: 'You _____ not accept projects outside your expertise.'",
+        "options": ["must", "have to", "should", "need"],
+        "correct": "should",
+        "explanation": "'Should not' gives advice; 'must not' would be prohibition"
+      },
+      {
+        "question": "Which expresses expectation based on an agreement? 'The files _____ arrive by noon.'",
+        "options": ["should", "must", "are supposed to", "have to"],
+        "correct": "are supposed to",
+        "explanation": "'Are supposed to' indicates expectation based on plans or agreements"
+      },
+      {
+        "question": "Professional obligation: 'Translators _____ respect deadlines even under pressure.'",
+        "options": ["can", "may", "must", "need to"],
+        "correct": "must",
+        "explanation": "'Must' expresses absolute professional obligation"
+      },
+      {
+        "question": "'You _____ have told me about the client's preferences earlier!' (criticism)",
+        "options": ["should", "must", "could", "would"],
+        "correct": "should",
+        "explanation": "'Should have' expresses criticism of past action"
+      },
+      {
+        "question": "Which correctly expresses lack of obligation?",
+        "options": ["You mustn't attend.", "You don't have to attend.", "You must not attend.", "You hadn't better attend."],
+        "correct": "You don't have to attend.",
+        "explanation": "'Don't have to' means no obligation; 'must not' means prohibition"
+      },
+      {
+        "question": "Formal suggestion: 'You _____ consider specializing in medical translation.'",
+        "options": ["can", "may", "might", "are able to"],
+        "correct": "might",
+        "explanation": "'Might' makes the gentlest, most formal suggestion"
+      },
+      {
+        "question": "Which expresses urgent advice with implied consequences?",
+        "options": [
+          "You should back up your files.",
+          "You need to back up your files.",
+          "You'd better back up your files.",
+          "You ought to back up your files."
+        ],
+        "correct": "You'd better back up your files.",
+        "explanation": "'Had better' expresses urgent advice with implied negative consequences"
+      },
+      {
+        "question": "Which is grammatically correct for a semi-modal in past tense?",
+        "options": [
+          "She musted finish by 5pm.",
+          "She needs to finished by 5pm.",
+          "She needed to finish by 5pm.",
+          "She need to finish by 5pm."
+        ],
+        "correct": "She needed to finish by 5pm.",
+        "explanation": "Semi-modals conjugate for tense; 'needed to' is past tense of 'need to'"
+      },
+      {
+        "question": "Which expresses ability after another modal?",
+        "options": [
+          "I might can help tomorrow.",
+          "I might be able to help tomorrow.",
+          "I might could help tomorrow.",
+          "I might able to help tomorrow."
+        ],
+        "correct": "I might be able to help tomorrow.",
+        "explanation": "'Be able to' can follow other modals; 'can' and 'could' cannot"
+      },
+      {
+        "question": "Choose the option expressing practical necessity: 'I _____ update my software regularly.'",
+        "options": ["must", "have to", "need to", "ought to"],
+        "correct": "need to",
+        "explanation": "'Need to' expresses practical necessity without urgency or external pressure"
+      },
+      {
+        "question": "Which shows proper use of 'be supposed to' for an unfulfilled expectation?",
+        "options": [
+          "The meeting is supposed to start at 3pm yesterday.",
+          "The meeting was supposed to start at 3pm, but it was delayed.",
+          "The meeting supposed to start at 3pm.",
+          "The meeting is suppose to start at 3pm."
+        ],
+        "correct": "The meeting was supposed to start at 3pm, but it was delayed.",
+        "explanation": "'Was supposed to' correctly indicates a past unfulfilled expectation"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Modal and Semi-Modal Verb Analysis in Professional Contexts",
+    "instructions": "Complete ONE of the following activities. After submission, you'll peer review two classmates' assignments.",
+    "options": [
+      {
+        "title": "Email Register Analysis",
+        "prompt": "Find a professional email (from an internship, job, or generated example). Rewrite it twice: once making it more formal using modals and semi-modals appropriately, and once making it less formal. Write a 150-word reflection explaining your modal and semi-modal choices, noting which are pure modals and which are semi-modals.",
+        "deliverable": "Original email + 2 rewrites + reflection (approximately 400 words total)"
+      },
+      {
+        "title": "Translation Challenge",
+        "prompt": "Take a Spanish text with expressions of obligation, permission, advice, or ability (news article, policy document, or formal letter - minimum 200 words). Translate it into English, paying careful attention to modal and semi-modal verb choices. Then write a 150-word commentary explaining your selections, distinguishing between modals and semi-modals, and discussing alternatives you considered.",
+        "deliverable": "Source text + translation + commentary"
+      },
+      {
+        "title": "Modal and Semi-Modal Verb Podcast Script",
+        "prompt": "Create a 2-3 minute podcast script (approximately 300-400 words) explaining one set of easily-confused modals and semi-modals (must/have to/need to, should/ought to/had better, or can/be able to) to fellow translation students. Include clear examples from professional contexts and explain the grammatical differences. Record yourself reading it, focusing on emphasis and clarity.",
+        "deliverable": "Written script + audio recording"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria:",
+      "criteria": [
+        "Modal and semi-modal verbs are used accurately and appropriately for the context",
+        "Distinctions between modals and semi-modals are understood and applied correctly",
+        "Register/formality is consistent with stated purpose",
+        "Examples or applications demonstrate understanding of nuances",
+        "Writing is clear and well-organized"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths, (2) One constructive suggestion, (3) One question for further exploration"
+    }
+  },
+  "conclusion": {
+    "message": "You've completed an in-depth exploration of modal and semi-modal verbs and their nuanced uses in professional contexts. Understanding these distinctions—including the grammatical differences between modals and semi-modals—will serve you well in both translation work and professional communication.",
+    "takeaways": [
+      "Must vs. have to vs. need to: Internal obligation, external requirement, and practical necessity",
+      "May vs. can: Formal permission versus informal ability",
+      "Should vs. ought to vs. had better: Direct advice, moral obligation, and urgent warning",
+      "Can vs. be able to: Especially important for past achievements and after other modals",
+      "Be supposed to: Expresses expectations based on rules or agreements",
+      "Semi-modals conjugate for tense and person; pure modals do not",
+      "Modal and semi-modal verbs change meaning based on formality and context"
+    ],
+    "furtherPractice": [
+      "Analyze modal and semi-modal verb usage in professional emails you receive this week",
+      "Practice translating Spanish expressions of obligation, ability, and permission into English",
+      "Listen to a podcast or watch a professional video and note modal and semi-modal verb choices",
+      "Review your own writing and consider if modals and semi-modals match your intended register",
+      "Create flashcards with example sentences contrasting modals with their semi-modal equivalents",
+      "Practice conjugating semi-modals (have to → had to, need to → needed to) in different tenses"
+    ]
+  }
+}
