@@ -1,0 +1,459 @@
+{
+  "week": 8,
+  "title": "Parallel Structures & Consistency in Writing",
+  "breadcrumb": "Week 8: Parallel Structures & Consistency",
+  "context": "Environmental Issues/Sustainability",
+  "introduction": {
+    "overview": "This week focuses on parallelism—one of the most powerful tools for creating clear, persuasive writing. Parallel structure means using the same grammatical form for items in a series, comparisons, or repeated elements. When writing lacks parallelism, it feels awkward and unprofessional; when it has strong parallelism, ideas flow smoothly and arguments gain rhetorical force. This skill is especially important when translating persuasive texts about complex issues like environmental sustainability.",
+    "objectives": [
+      "Identify and correct errors in parallel structure within lists, comparisons, and correlative conjunctions",
+      "Construct sentences with consistent grammatical forms across coordinated elements",
+      "Apply parallelism to enhance clarity and persuasive impact in environmental and sustainability writing",
+      "Maintain consistency in verb tense, voice, and point of view throughout extended texts"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Parallelism in Lists and Series",
+        "content": "When presenting items in a list, all elements must share the same <strong>grammatical structure</strong>. If you begin with infinitives, continue with infinitives; if you start with gerunds, maintain gerunds throughout. This consistency creates rhythm and clarity. <strong>Faulty parallelism</strong> occurs when you mix forms—for example, combining infinitives with gerunds or nouns with clauses. In environmental writing, lists often present actions, solutions, or consequences, making parallel structure essential for professional credibility.",
+        "example": "Faulty: 'To reduce emissions, conserving water, and the recycling of materials are essential.' Parallel: 'Reducing emissions, conserving water, and recycling materials are essential.' (All gerunds)"
+      },
+      {
+        "heading": "Parallelism with Correlative Conjunctions",
+        "content": "<strong>Correlative conjunctions</strong> (both...and, either...or, neither...nor, not only...but also) require parallel structures immediately following each conjunction. The grammatical form after the first conjunction must match the form after the second. This rule is frequently violated in both native and non-native writing, creating awkward sentences. When discussing environmental choices, correlative conjunctions help present alternatives and emphasize multiple factors clearly.",
+        "example": "Faulty: 'Climate change affects not only coastal communities but is also impacting food security.' Parallel: 'Climate change affects not only coastal communities but also global food security.' (Both followed by noun phrases)"
+      },
+      {
+        "heading": "Parallelism in Comparisons",
+        "content": "When using <strong>comparisons</strong> (more...than, less...than, as...as), the elements being compared must be grammatically parallel. This includes comparing actions to actions, qualities to qualities, or nouns to nouns—never mixing categories. Additionally, ensure logical comparisons: compare things to things, not things to actions or possessives. Environmental discussions often involve comparisons of impacts, costs, or effectiveness, making this skill vital for accurate communication.",
+        "example": "Faulty: 'Solar energy is cleaner than using fossil fuels.' Parallel: 'Solar energy is cleaner than fossil fuel energy.' (Comparing energy sources, not energy to an action)"
+      },
+      {
+        "heading": "Consistency in Verb Tense, Voice, and Point of View",
+        "content": "Beyond parallelism, consistency requires maintaining the same <strong>verb tense</strong>, <strong>voice</strong> (active or passive), and <strong>point of view</strong> (first, second, or third person) throughout a text unless there's a clear reason to shift. Unnecessary tense shifts confuse readers about timeframes; mixing active and passive voice within related sentences disrupts flow; switching point of view (we, you, one) undermines coherence. In technical or persuasive environmental writing, these shifts can damage credibility and clarity.",
+        "example": "Inconsistent: 'Scientists discovered the pollution source, and immediate action was taken by authorities.' Consistent: 'Scientists discovered the pollution source, and authorities took immediate action.' (Both active voice)"
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you recognize parallel structures. Try each one and check your intuition.",
+    "activities": [
+      {
+        "type": "choice",
+        "prompt": "Which sentence has proper parallel structure? A) 'The environmental program focuses on reducing waste, water conservation, and to plant trees.' B) 'The environmental program focuses on reducing waste, conserving water, and planting trees.'",
+        "answer": "B",
+        "explanation": "Option B uses all gerunds (reducing, conserving, planting), creating parallel structure"
+      },
+      {
+        "type": "fill-blank",
+        "prompt": "Fix this sentence: 'Renewable energy is not only sustainable but also it costs less.' Make it parallel: 'Renewable energy is not only sustainable but also _____.'",
+        "answer": "cost-effective (or economical/affordable)",
+        "explanation": "After 'but also' we need an adjective to match 'sustainable' (adjective after 'not only')"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Rewrite with parallel structure: 'To protect ecosystems, conserving biodiversity, and reduce pollution are our priorities.'",
+        "answer": "Protecting ecosystems, conserving biodiversity, and reducing pollution are our priorities.",
+        "explanation": "All three elements now use gerunds consistently"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which comparison is parallel? A) 'Recycling plastic is more effective than to burn it.' B) 'Recycling plastic is more effective than burning it.'",
+        "answer": "B",
+        "explanation": "Option B compares gerund to gerund (recycling/burning); A mixes gerund with infinitive"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of parallel structures and consistency. Take your time with each one.",
+    "items": [
+      {
+        "question": "Which sentence demonstrates proper parallel structure?",
+        "options": [
+          "The climate summit addressed reducing emissions, how to adapt to change, and funding mechanisms.",
+          "The climate summit addressed reducing emissions, adapting to change, and funding mechanisms.",
+          "The climate summit addressed emission reduction, to adapt to change, and funding mechanisms.",
+          "The climate summit addressed to reduce emissions, adapting to change, and how to fund mechanisms."
+        ],
+        "correct": "The climate summit addressed reducing emissions, adapting to change, and funding mechanisms.",
+        "explanation": "This option mixes gerunds (reducing, adapting) with a noun phrase (funding mechanisms), which is acceptable when items are all objects. The key is avoiding infinitives mixed with gerunds."
+      },
+      {
+        "question": "Identify the sentence with faulty parallelism:",
+        "options": [
+          "Sustainable agriculture requires planning carefully, implementing efficiently, and monitoring constantly.",
+          "Sustainable agriculture requires careful planning, efficient implementation, and constant monitoring.",
+          "Sustainable agriculture requires planning carefully, efficient implementation, and monitoring constantly.",
+          "Sustainable agriculture requires that we plan carefully, implement efficiently, and monitor constantly."
+        ],
+        "correct": "Sustainable agriculture requires planning carefully, efficient implementation, and monitoring constantly.",
+        "explanation": "This mixes gerund phrases (planning carefully, monitoring constantly) with a noun phrase (efficient implementation), creating faulty parallelism"
+      },
+      {
+        "question": "Which sentence correctly uses correlative conjunctions with parallel structure?",
+        "options": [
+          "Ocean acidification threatens not only coral reefs but is also threatening shellfish populations.",
+          "Ocean acidification threatens not only coral reefs but also is threatening shellfish populations.",
+          "Ocean acidification threatens not only coral reefs but also shellfish populations.",
+          "Ocean acidification not only threatens coral reefs but also it threatens shellfish populations."
+        ],
+        "correct": "Ocean acidification threatens not only coral reefs but also shellfish populations.",
+        "explanation": "Both 'not only' and 'but also' are followed by noun phrases (coral reefs/shellfish populations), maintaining parallelism"
+      },
+      {
+        "question": "Which comparison maintains parallel structure?",
+        "options": [
+          "Wind energy produces less pollution than burning coal produces.",
+          "Wind energy produces less pollution than to burn coal.",
+          "Wind energy produces less pollution than the burning of coal.",
+          "Wind energy's pollution is less than burning coal."
+        ],
+        "correct": "Wind energy produces less pollution than burning coal produces.",
+        "explanation": "This compares two complete parallel clauses (wind energy produces... / burning coal produces...)"
+      },
+      {
+        "question": "Identify the sentence with inconsistent verb tense:",
+        "options": [
+          "Scientists measured the air quality and recorded their findings.",
+          "Scientists measure the air quality and recorded their findings.",
+          "Scientists had measured the air quality and recorded their findings.",
+          "Scientists measured the air quality and had recorded their findings."
+        ],
+        "correct": "Scientists measure the air quality and recorded their findings.",
+        "explanation": "This shifts from present tense (measure) to past tense (recorded) without justification"
+      },
+      {
+        "question": "Which sentence maintains consistent voice?",
+        "options": [
+          "The report analyzed deforestation patterns, and recommendations were made by the team.",
+          "The team analyzed deforestation patterns and made recommendations.",
+          "Deforestation patterns were analyzed, and the team made recommendations.",
+          "The report analyzed deforestation patterns, and the team was making recommendations."
+        ],
+        "correct": "The team analyzed deforestation patterns and made recommendations.",
+        "explanation": "Both verbs are in active voice with the same subject, maintaining consistency"
+      },
+      {
+        "question": "Which list has proper parallel structure?",
+        "options": [
+          "The green initiative promotes bicycling to work, using public transit, and to carpool when possible.",
+          "The green initiative promotes bicycling to work, to use public transit, and carpooling when possible.",
+          "The green initiative promotes bicycling to work, using public transit, and carpooling when possible.",
+          "The green initiative promotes to bicycle to work, using public transit, and to carpool when possible."
+        ],
+        "correct": "The green initiative promotes bicycling to work, using public transit, and carpooling when possible.",
+        "explanation": "All three items use gerunds (bicycling, using, carpooling), creating consistent parallel structure"
+      },
+      {
+        "question": "Identify the sentence with faulty parallelism in a comparison:",
+        "options": [
+          "Electric vehicles are more efficient than gasoline-powered vehicles.",
+          "Electric vehicles are more efficient than using gasoline-powered vehicles.",
+          "Electric vehicles run more efficiently than gasoline-powered vehicles do.",
+          "Electric vehicles offer more efficiency than gasoline-powered vehicles offer."
+        ],
+        "correct": "Electric vehicles are more efficient than using gasoline-powered vehicles.",
+        "explanation": "This compares a noun (electric vehicles) to a gerund phrase (using gasoline-powered vehicles), which is not parallel"
+      },
+      {
+        "question": "Which sentence demonstrates consistent point of view?",
+        "options": [
+          "We can reduce our carbon footprint by driving less, and you should also consider renewable energy.",
+          "We can reduce our carbon footprint by driving less and considering renewable energy.",
+          "One can reduce their carbon footprint by driving less, and we should also consider renewable energy.",
+          "You can reduce your carbon footprint by driving less, and one should also consider renewable energy."
+        ],
+        "correct": "We can reduce our carbon footprint by driving less and considering renewable energy.",
+        "explanation": "This maintains first-person plural (we, our) consistently throughout the sentence"
+      },
+      {
+        "question": "Which sentence uses correlative conjunctions with proper parallelism?",
+        "options": [
+          "Either we must reduce plastic consumption or implementing better recycling systems.",
+          "We must either reduce plastic consumption or implement better recycling systems.",
+          "Either we reduce plastic consumption or we should implement better recycling systems.",
+          "We either must reduce plastic consumption or implementing better recycling systems."
+        ],
+        "correct": "We must either reduce plastic consumption or implement better recycling systems.",
+        "explanation": "Both 'either' and 'or' are followed by parallel verb phrases (reduce.../implement...)"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your understanding of parallel structures and consistency. Three questions appear at a time—get all three correct to pass! Remember to take a screenshot of your results for submission.",
+    "questions": [
+      {
+        "question": "Which sentence has proper parallel structure in a list?",
+        "options": [
+          "Sustainable cities require efficient transportation, green spaces that are accessible, and to reduce emissions.",
+          "Sustainable cities require efficient transportation, accessible green spaces, and reduced emissions.",
+          "Sustainable cities require having efficient transportation, green spaces that are accessible, and to reduce emissions.",
+          "Sustainable cities require to have efficient transportation, accessible green spaces, and emission reduction."
+        ],
+        "correct": "Sustainable cities require efficient transportation, accessible green spaces, and reduced emissions.",
+        "explanation": "All three items are adjective + noun phrases, maintaining parallel structure"
+      },
+      {
+        "question": "Identify the sentence with faulty parallelism:",
+        "options": [
+          "The environmental policy focuses on preventing pollution, conserving resources, and educating the public.",
+          "The environmental policy focuses on pollution prevention, resource conservation, and public education.",
+          "The environmental policy focuses on preventing pollution, conserving resources, and to educate the public.",
+          "The environmental policy focuses on preventing pollution, on conserving resources, and on educating the public."
+        ],
+        "correct": "The environmental policy focuses on preventing pollution, conserving resources, and to educate the public.",
+        "explanation": "This mixes gerunds (preventing, conserving) with an infinitive (to educate), creating faulty parallelism"
+      },
+      {
+        "question": "Which sentence correctly uses 'not only...but also' with parallel structure?",
+        "options": [
+          "Deforestation not only destroys habitats but also it contributes to climate change.",
+          "Deforestation not only destroys habitats but also contributes to climate change.",
+          "Deforestation destroys not only habitats but also it contributes to climate change.",
+          "Deforestation not only destroys habitats but is also contributing to climate change."
+        ],
+        "correct": "Deforestation not only destroys habitats but also contributes to climate change.",
+        "explanation": "Both parts have parallel verb phrases: 'not only destroys' and 'but also contributes'"
+      },
+      {
+        "question": "Which comparison maintains proper parallel structure?",
+        "options": [
+          "Composting waste is better for the environment than to send it to landfills.",
+          "Composting waste is better for the environment than sending it to landfills.",
+          "To compost waste is better for the environment than sending it to landfills.",
+          "Composting waste is better for the environment than landfills receiving it."
+        ],
+        "correct": "Composting waste is better for the environment than sending it to landfills.",
+        "explanation": "Both elements use gerund phrases (composting waste / sending it), maintaining parallelism"
+      },
+      {
+        "question": "Identify the sentence with inconsistent verb tense:",
+        "options": [
+          "The glacier melted rapidly, and scientists documented the changes.",
+          "The glacier melts rapidly, and scientists document the changes.",
+          "The glacier melted rapidly, and scientists document the changes.",
+          "The glacier had melted rapidly, and scientists documented the changes."
+        ],
+        "correct": "The glacier melted rapidly, and scientists document the changes.",
+        "explanation": "This shifts from past tense (melted) to present tense (document) without justification"
+      },
+      {
+        "question": "Which sentence maintains consistent voice throughout?",
+        "options": [
+          "Researchers collected water samples, and the samples were tested in the laboratory.",
+          "Researchers collected water samples and tested them in the laboratory.",
+          "Water samples were collected by researchers, and they tested them in the laboratory.",
+          "Researchers collected water samples, and tests were conducted in the laboratory."
+        ],
+        "correct": "Researchers collected water samples and tested them in the laboratory.",
+        "explanation": "Both verbs are active voice with 'researchers' as the subject, maintaining consistency"
+      },
+      {
+        "question": "Which list demonstrates proper parallel structure?",
+        "options": [
+          "To combat climate change, we advocate for renewable energy, reducing consumption, and that people use public transit.",
+          "To combat climate change, we advocate for renewable energy, reduced consumption, and public transit use.",
+          "To combat climate change, we advocate using renewable energy, to reduce consumption, and public transit.",
+          "To combat climate change, we advocate for renewable energy, consumption should be reduced, and using public transit."
+        ],
+        "correct": "To combat climate change, we advocate for renewable energy, reduced consumption, and public transit use.",
+        "explanation": "All three objects are noun phrases (renewable energy, reduced consumption, public transit use)"
+      },
+      {
+        "question": "Which sentence has proper parallelism with correlative conjunctions?",
+        "options": [
+          "Neither planting trees nor to install solar panels will solve the crisis alone.",
+          "Neither planting trees nor installing solar panels will solve the crisis alone.",
+          "Neither to plant trees nor installing solar panels will solve the crisis alone.",
+          "Neither planting trees nor solar panel installation will solve the crisis alone."
+        ],
+        "correct": "Neither planting trees nor installing solar panels will solve the crisis alone.",
+        "explanation": "Both 'neither' and 'nor' are followed by gerund phrases (planting/installing)"
+      },
+      {
+        "question": "Identify the sentence with faulty comparison parallelism:",
+        "options": [
+          "Protecting wetlands is as important as protecting forests.",
+          "Protecting wetlands is as important as forest protection.",
+          "Protecting wetlands is as important as to protect forests.",
+          "Wetland protection is as important as forest protection."
+        ],
+        "correct": "Protecting wetlands is as important as to protect forests.",
+        "explanation": "This mixes a gerund phrase (protecting wetlands) with an infinitive phrase (to protect forests)"
+      },
+      {
+        "question": "Which sentence maintains consistent point of view?",
+        "options": [
+          "If you want to live sustainably, one must make conscious choices daily.",
+          "If you want to live sustainably, you must make conscious choices daily.",
+          "If one wants to live sustainably, you must make conscious choices daily.",
+          "If we want to live sustainably, one must make conscious choices daily."
+        ],
+        "correct": "If you want to live sustainably, you must make conscious choices daily.",
+        "explanation": "The sentence consistently uses second person (you) throughout"
+      },
+      {
+        "question": "Which sentence uses parallel structure in a series of phrases?",
+        "options": [
+          "The conservation project involves studying migration patterns, to track population changes, and habitat restoration.",
+          "The conservation project involves studying migration patterns, tracking population changes, and restoring habitats.",
+          "The conservation project involves studying migration patterns, tracking population changes, and habitat restoration.",
+          "The conservation project involves to study migration patterns, tracking population changes, and restoring habitats."
+        ],
+        "correct": "The conservation project involves studying migration patterns, tracking population changes, and restoring habitats.",
+        "explanation": "All three elements use parallel gerund phrases (studying, tracking, restoring)"
+      },
+      {
+        "question": "Identify the sentence with proper parallelism using 'either...or':",
+        "options": [
+          "We can either invest in renewable energy or continuing to rely on fossil fuels.",
+          "Either we can invest in renewable energy or continue to rely on fossil fuels.",
+          "We can either invest in renewable energy or continue to rely on fossil fuels.",
+          "Either we invest in renewable energy or we should continue to rely on fossil fuels."
+        ],
+        "correct": "We can either invest in renewable energy or continue to rely on fossil fuels.",
+        "explanation": "Both 'either' and 'or' are followed by parallel verb phrases (invest/continue)"
+      },
+      {
+        "question": "Which sentence demonstrates consistent verb tense in environmental reporting?",
+        "options": [
+          "The study examined pollution levels in 2020 and finds concerning trends.",
+          "The study examined pollution levels in 2020 and found concerning trends.",
+          "The study examines pollution levels in 2020 and found concerning trends.",
+          "The study examined pollution levels in 2020 and will find concerning trends."
+        ],
+        "correct": "The study examined pollution levels in 2020 and found concerning trends.",
+        "explanation": "Both verbs use past tense (examined, found), maintaining consistency for completed research"
+      },
+      {
+        "question": "Which comparison is grammatically parallel?",
+        "options": [
+          "Organic farming requires more labor than conventional agriculture requires.",
+          "Organic farming requires more labor than to farm conventionally.",
+          "Organic farming requires more labor than conventional agriculture's requirements.",
+          "Organic farming's labor needs are more than farming conventionally."
+        ],
+        "correct": "Organic farming requires more labor than conventional agriculture requires.",
+        "explanation": "Both sides of the comparison use parallel subject-verb structures"
+      },
+      {
+        "question": "Which sentence maintains consistent voice and avoids unnecessary shifts?",
+        "options": [
+          "The committee proposed new regulations, and approval was given by the board.",
+          "The committee proposed new regulations, and the board approved them.",
+          "New regulations were proposed by the committee, and the board approved them.",
+          "The committee proposed new regulations, and they were approved by the board."
+        ],
+        "correct": "The committee proposed new regulations, and the board approved them.",
+        "explanation": "Both clauses use active voice consistently, creating smoother flow"
+      },
+      {
+        "question": "Which sentence uses parallel structure with multiple adjectives?",
+        "options": [
+          "The sustainability plan is comprehensive, being innovative, and it has practicality.",
+          "The sustainability plan is comprehensive, innovative, and practical.",
+          "The sustainability plan is comprehensive, innovative, and it is practical.",
+          "The sustainability plan is being comprehensive, innovative, and practical."
+        ],
+        "correct": "The sustainability plan is comprehensive, innovative, and practical.",
+        "explanation": "All three descriptors are simple adjectives in parallel form"
+      },
+      {
+        "question": "Identify the sentence with proper parallel structure in recommendations:",
+        "options": [
+          "Experts recommend reducing plastic use, that we conserve energy, and public transit should be used.",
+          "Experts recommend reducing plastic use, conserving energy, and using public transit.",
+          "Experts recommend to reduce plastic use, conserving energy, and using public transit.",
+          "Experts recommend plastic use reduction, to conserve energy, and that public transit be used."
+        ],
+        "correct": "Experts recommend reducing plastic use, conserving energy, and using public transit.",
+        "explanation": "All three recommendations use parallel gerund phrases"
+      },
+      {
+        "question": "Which sentence avoids faulty parallelism in a compound predicate?",
+        "options": [
+          "The organization monitors air quality and is also educating communities about pollution.",
+          "The organization monitors air quality and also educates communities about pollution.",
+          "The organization is monitoring air quality and also educates communities about pollution.",
+          "The organization monitors air quality and is also providing education to communities about pollution."
+        ],
+        "correct": "The organization monitors air quality and also educates communities about pollution.",
+        "explanation": "Both verbs use simple present tense (monitors, educates) in parallel form"
+      },
+      {
+        "question": "Which sentence correctly maintains parallelism with prepositional phrases?",
+        "options": [
+          "Environmental justice involves fighting for clean air, water that is safe, and to have healthy communities.",
+          "Environmental justice involves fighting for clean air, for safe water, and for healthy communities.",
+          "Environmental justice involves fighting for clean air, safe water, and to have healthy communities.",
+          "Environmental justice involves fighting for clean air, for water safety, and having healthy communities."
+        ],
+        "correct": "Environmental justice involves fighting for clean air, for safe water, and for healthy communities.",
+        "explanation": "All three items use parallel prepositional phrases (for + adjective + noun)"
+      },
+      {
+        "question": "Which sentence demonstrates consistent point of view in instructions?",
+        "options": [
+          "To reduce waste, people should recycle, and you can also compost organic materials.",
+          "To reduce waste, you should recycle and compost organic materials.",
+          "To reduce waste, one should recycle, and people can also compost organic materials.",
+          "To reduce waste, we should recycle, and you should compost organic materials."
+        ],
+        "correct": "To reduce waste, you should recycle and compost organic materials.",
+        "explanation": "The sentence consistently addresses the reader as 'you' throughout"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Parallel Structures & Consistency: Environmental Writing Analysis",
+    "instructions": "Complete ONE of the following activities. Your work should demonstrate understanding of parallel structures and consistency in professional writing. After submission, you'll peer review two classmates' assignments using the criteria provided.",
+    "options": [
+      {
+        "title": "Environmental Report Analysis & Revision",
+        "prompt": "Find a published environmental report, policy document, or sustainability article (minimum 400 words) from a reputable source. Identify at least 5 examples of parallel structures (lists, comparisons, correlative conjunctions) and evaluate their effectiveness. Then identify at least 3 areas where parallelism could be improved or where consistency in tense, voice, or point of view breaks down. Provide the original passages and your revised versions with brief explanations of your changes.",
+        "deliverable": "Source citation + identified examples with analysis + revised passages with explanations (approximately 500-600 words total)"
+      },
+      {
+        "title": "Persuasive Environmental Campaign",
+        "prompt": "Create a persuasive text (400-500 words) advocating for a specific environmental action or policy change (e.g., campus sustainability initiative, local recycling program, renewable energy adoption). Your text must intentionally demonstrate mastery of parallel structures including: at least 2 lists with parallel items, at least 2 comparisons, at least 1 use of correlative conjunctions, and consistent verb tense, voice, and point of view throughout. After your text, include a brief commentary (100-150 words) identifying where you used parallel structures and explaining your choices.",
+        "deliverable": "Persuasive text (400-500 words) + commentary identifying parallel structures (100-150 words)"
+      },
+      {
+        "title": "Translation Parallelism Challenge",
+        "prompt": "Take a Spanish text about environmental issues that includes lists, comparisons, or repeated structures (minimum 300 words—this could be from a news article, NGO website, or policy document). Translate it into English, paying special attention to creating effective parallel structures that may not exist in the source text or restructuring awkward parallelism from the Spanish. Then write a detailed commentary (200-250 words) explaining your translation decisions regarding parallelism: where you created it, where you maintained it, where you chose to break it, and why. Discuss any challenges Spanish-to-English parallelism presented.",
+        "deliverable": "Source text + English translation + translation commentary on parallelism decisions (approximately 600-700 words total)"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria. Your feedback should be specific and constructive.",
+      "criteria": [
+        "Parallel structures are used correctly and effectively (items in lists, comparisons, correlative conjunctions)",
+        "Consistency is maintained in verb tense, voice, and point of view throughout the text",
+        "Examples or applications demonstrate clear understanding of parallelism principles",
+        "Writing is clear, well-organized, and appropriate for the environmental/sustainability context"
+      ],
+      "format": "For each assignment, provide: (1) Two specific examples of effective parallel structure use, (2) One area where parallelism or consistency could be strengthened, (3) One question or suggestion for further development"
+    }
+  },
+  "conclusion": {
+    "message": "Congratulations on completing Week 8! You've explored the power of parallel structures and consistency—tools that transform adequate writing into clear, professional, persuasive communication. These principles will serve you throughout your translation and localization career.",
+    "takeaways": [
+      "Parallel structure requires matching grammatical forms in lists, comparisons, and correlative conjunctions",
+      "Items in a series should all be infinitives, all gerunds, or all noun phrases—never mixed",
+      "Correlative conjunctions (both...and, either...or, not only...but also) require parallel elements after each conjunction",
+      "Comparisons must compare like to like: actions to actions, nouns to nouns, not mixed categories",
+      "Consistency in verb tense, voice, and point of view prevents confusion and maintains professional tone",
+      "Active voice generally creates stronger, more direct sentences than passive voice",
+      "Parallel structure enhances rhythm, clarity, and persuasive impact in writing"
+    ],
+    "furtherPractice": [
+      "Analyze environmental articles for parallel structures and note what makes them effective",
+      "Practice revising your own previous writing to improve parallelism and consistency",
+      "Listen to environmental speeches or TED talks and notice how speakers use parallel structures for emphasis",
+      "Create a checklist for your writing: lists parallel? comparisons parallel? tense consistent? voice consistent?",
+      "Translate persuasive texts and focus on creating natural parallel structures in English",
+      "Read opinion pieces about sustainability and identify where parallelism strengthens arguments"
+    ]
+  }
+}

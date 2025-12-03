@@ -1,0 +1,458 @@
+{
+  "week": 13,
+  "title": "Idiomatic Expressions & Their Cultural Context",
+  "breadcrumb": "Week 13: Idiomatic Expressions",
+  "context": "Food & Culinary Culture",
+  "introduction": {
+    "overview": "This week explores how idiomatic expressions carry cultural meaning that extends far beyond their literal words. We'll examine food and culinary idioms in English, understanding why direct translation often fails and how to recognize the cultural contexts that give these expressions their power. Through culinary metaphors, we'll learn strategies for navigating idioms in translation and localization work.",
+    "objectives": [
+      "Identify common English food idioms and distinguish them from literal expressions",
+      "Analyze the cultural origins and contexts that shape idiomatic meaning",
+      "Develop strategies for finding functional equivalents rather than literal translations",
+      "Recognize when cultural adaptation is more important than word-for-word accuracy in translation"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "What Makes an Expression Idiomatic?",
+        "content": "An <strong>idiomatic expression</strong> (or simply <strong>idiom</strong>) is a phrase whose meaning cannot be understood from the individual words alone. While 'the soup is hot' means exactly what it says, 'in hot water' means 'in trouble'—the literal meaning has nothing to do with temperature or water. <strong>Non-compositional meaning</strong> is the key feature: you cannot compose the idiom's meaning by adding up its parts. For translators, this means recognizing when an expression functions idiomatically is the crucial first step before attempting any translation.",
+        "example": "'That's not my cup of tea' doesn't mean you're discussing beverages—it means 'that's not something I enjoy or am interested in.' A literal Spanish translation would be meaningless; the functional equivalent might be 'no es lo mío' or 'no es mi fuerte.'"
+      },
+      {
+        "heading": "Cultural Context: Why Food Idioms Differ Across Languages",
+        "content": "Food idioms reflect a culture's <strong>culinary traditions, values, and shared experiences</strong>. English uses 'piece of cake' for something easy, while Spanish might use 'pan comido' (eaten bread)—both use food to express ease, but different foods with different cultural significance. Understanding <strong>cultural equivalence</strong> means recognizing that effective translation preserves the idiom's function (expressing ease) rather than its literal content (cake vs. bread). Some food idioms have no equivalent in other languages because they reference culture-specific foods, practices, or historical contexts.",
+        "example": "'Bringing home the bacon' (earning money/supporting a family) comes from medieval fairs where catching a greased pig won bacon as a prize. A translator might use 'ganarse el pan' in Spanish, which uses bread instead but preserves the meaning of earning a living."
+      },
+      {
+        "heading": "Recognition Strategies: Spotting Idioms in Context",
+        "content": "Several clues signal idiomatic usage: the expression seems <strong>metaphorical or figurative</strong> in context, a literal interpretation would be absurd or illogical, or the phrase appears frequently as a fixed unit. Food idioms often use common verbs (have, take, eat, cook, spill) combined with food items in ways that don't describe actual eating or cooking. When you encounter potential idioms, ask: 'Does this make literal sense here?' If not, you're likely dealing with an idiomatic expression that requires cultural interpretation rather than word-for-word translation.",
+        "example": "'She really grilled him about his expenses' doesn't mean she cooked him over a fire—'to grill someone' idiomatically means to question intensely. The cooking metaphor (intense heat) maps onto intense questioning."
+      },
+      {
+        "heading": "Translation Strategies for Idiomatic Expressions",
+        "content": "When translating idioms, prioritize <strong>functional equivalence</strong> over formal equivalence. Three main strategies exist: (1) Find a similar idiom in the target language with the same meaning, even if it uses different imagery; (2) <strong>Paraphrase</strong> the meaning if no equivalent idiom exists; (3) Keep the source idiom with explanation if cultural transfer is important. Never assume a literal translation will work—'butter someone up' translated word-for-word to Spanish would confuse readers, but 'dar coba' or 'hacer la barba' conveys the same meaning of flattering someone for advantage.",
+        "example": "'The proof is in the pudding' (results reveal quality) might become 'a la hora de la verdad' or 'el resultado es lo que cuenta' in Spanish. The English idiom references British pudding-making, a context Spanish speakers don't share, so a functional equivalent works better than literal translation."
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence recognizing and interpreting food idioms. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "identification",
+        "prompt": "Is this idiomatic or literal? 'After studying all night, I was toast during the exam.'",
+        "answer": "Idiomatic",
+        "explanation": "'To be toast' means to be exhausted or finished, not literally turned into bread. The person isn't actually toast—they're very tired."
+      },
+      {
+        "type": "fill-blank",
+        "prompt": "Complete the idiom: 'That job is a piece of _____ for someone with her experience.'",
+        "answer": "cake",
+        "explanation": "'A piece of cake' means something very easy. The idiom suggests something is as easy as eating cake."
+      },
+      {
+        "type": "choice",
+        "prompt": "What does 'spill the beans' mean?",
+        "answer": "Reveal a secret",
+        "explanation": "'Spill the beans' idiomatically means to reveal secret information, not literally dropping beans on the floor."
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Replace the idiom with literal language: 'She's the breadwinner in her family.'",
+        "answer": "She's the main earner / She earns the most money in her family.",
+        "explanation": "'Breadwinner' idiomatically refers to the person who earns the most income for a household, historically winning bread to feed the family."
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of food idioms and their meanings. Take your time with each one.",
+    "items": [
+      {
+        "question": "What does 'He's got egg on his face' mean?",
+        "options": [
+          "He just ate breakfast",
+          "He's embarrassed by a mistake",
+          "He's being messy",
+          "He's cooking something"
+        ],
+        "correct": "He's embarrassed by a mistake",
+        "explanation": "'Egg on one's face' idiomatically means public embarrassment from an error or failure, not literal egg from eating."
+      },
+      {
+        "question": "Which sentence uses 'cook' idiomatically?",
+        "options": [
+          "I cook dinner every evening.",
+          "Something's cooking in the lab—they're keeping it secret.",
+          "The chef cooks at a five-star restaurant.",
+          "You need to cook the pasta for 12 minutes."
+        ],
+        "correct": "Something's cooking in the lab—they're keeping it secret.",
+        "explanation": "'Something's cooking' idiomatically means something is being planned or developed secretly, not literal food preparation."
+      },
+      {
+        "question": "If a project is 'half-baked,' it is:",
+        "options": [
+          "Almost finished",
+          "Poorly planned or incomplete",
+          "Very hot",
+          "Perfectly executed"
+        ],
+        "correct": "Poorly planned or incomplete",
+        "explanation": "'Half-baked' idiomatically describes ideas or plans that are underdeveloped or not fully thought through, like bread removed from the oven too early."
+      },
+      {
+        "question": "What does 'He's in a pickle' mean?",
+        "options": [
+          "He's in a jar",
+          "He's in a difficult situation",
+          "He likes pickled vegetables",
+          "He's preserving food"
+        ],
+        "correct": "He's in a difficult situation",
+        "explanation": "'In a pickle' idiomatically means in a difficult or problematic situation, possibly from Dutch 'pekel' (brine/difficult situation)."
+      },
+      {
+        "question": "'She's a tough cookie' means she is:",
+        "options": [
+          "Hard to chew",
+          "A difficult baker",
+          "Strong and resilient",
+          "Not very sweet"
+        ],
+        "correct": "Strong and resilient",
+        "explanation": "'A tough cookie' idiomatically describes someone who is strong, resilient, and not easily defeated or discouraged."
+      },
+      {
+        "question": "If you 'butter someone up,' you are:",
+        "options": [
+          "Cooking them breakfast",
+          "Flattering them to gain favor",
+          "Making them slippery",
+          "Spreading butter on them"
+        ],
+        "correct": "Flattering them to gain favor",
+        "explanation": "'Butter someone up' idiomatically means to flatter or be especially nice to someone, usually to gain something from them."
+      },
+      {
+        "question": "'Too many cooks spoil the broth' suggests that:",
+        "options": [
+          "You need many people to make soup",
+          "Too many people involved makes things worse",
+          "Soup is difficult to make",
+          "Cooking requires teamwork"
+        ],
+        "correct": "Too many people involved makes things worse",
+        "explanation": "This idiom means that having too many people trying to control something often leads to poor results, not actual cooking advice."
+      },
+      {
+        "question": "What does 'That's the icing on the cake' mean?",
+        "options": [
+          "The frosting tastes good",
+          "Something is being decorated",
+          "An additional good thing that makes something already good even better",
+          "The final step in baking"
+        ],
+        "correct": "An additional good thing that makes something already good even better",
+        "explanation": "This idiom means an additional benefit or positive aspect that enhances something already good, like icing improves an already tasty cake."
+      },
+      {
+        "question": "If someone says 'Don't cry over spilled milk,' they mean:",
+        "options": [
+          "Clean up the milk immediately",
+          "Don't waste food",
+          "Don't be upset about something that already happened and can't be changed",
+          "Milk is expensive"
+        ],
+        "correct": "Don't be upset about something that already happened and can't be changed",
+        "explanation": "This idiom advises not dwelling on past mistakes or misfortunes that cannot be undone—it's not about actual spilled milk."
+      },
+      {
+        "question": "'You can't have your cake and eat it too' means:",
+        "options": [
+          "Cake should be shared",
+          "You can't enjoy two mutually exclusive benefits simultaneously",
+          "You should save cake for later",
+          "Eating cake is prohibited"
+        ],
+        "correct": "You can't enjoy two mutually exclusive benefits simultaneously",
+        "explanation": "This idiom means you cannot have or do two things that are incompatible—you must choose between alternatives that cannot coexist."
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your skills with these questions. Three questions appear at a time - get all three correct to pass! Remember to take a screenshot of your results showing all three correct answers and submit it with your assignment.",
+    "questions": [
+      {
+        "question": "'Bite off more than you can chew' means to:",
+        "options": [
+          "Take food that's too large",
+          "Take on more responsibility than you can handle",
+          "Eat too quickly",
+          "Chew food thoroughly"
+        ],
+        "correct": "Take on more responsibility than you can handle",
+        "explanation": "This idiom means attempting something too difficult or taking on too much work, not literal eating behavior."
+      },
+      {
+        "question": "If something is 'selling like hotcakes,' it is:",
+        "options": [
+          "Being sold at breakfast",
+          "Selling very quickly and in large quantities",
+          "Warm when purchased",
+          "Available at a pancake restaurant"
+        ],
+        "correct": "Selling very quickly and in large quantities",
+        "explanation": "'Selling like hotcakes' idiomatically means something is extremely popular and selling rapidly, referencing how quickly pancakes sold at American church fundraisers."
+      },
+      {
+        "question": "'Bring home the bacon' idiomatically means to:",
+        "options": [
+          "Shop for groceries",
+          "Earn money to support a family",
+          "Cook breakfast",
+          "Win a prize"
+        ],
+        "correct": "Earn money to support a family",
+        "explanation": "This idiom means to earn a living or be the primary income earner, originating from medieval fairs where catching a greased pig won bacon."
+      },
+      {
+        "question": "When someone 'has a lot on their plate,' they:",
+        "options": [
+          "Took too much food at dinner",
+          "Have many responsibilities or tasks to handle",
+          "Are very hungry",
+          "Are hosting a meal"
+        ],
+        "correct": "Have many responsibilities or tasks to handle",
+        "explanation": "'A lot on one's plate' idiomatically refers to having many responsibilities or obligations, using eating as a metaphor for managing tasks."
+      },
+      {
+        "question": "'It's not my cup of tea' means:",
+        "options": [
+          "That drink belongs to someone else",
+          "I don't drink tea",
+          "It's not something I enjoy or am interested in",
+          "I prefer coffee"
+        ],
+        "correct": "It's not something I enjoy or am interested in",
+        "explanation": "This British idiom means something is not to one's taste or preference, not a literal statement about beverage ownership."
+      },
+      {
+        "question": "If you 'take something with a grain of salt,' you:",
+        "options": [
+          "Add salt to your food",
+          "View it with skepticism or don't fully believe it",
+          "Season carefully",
+          "Follow a recipe exactly"
+        ],
+        "correct": "View it with skepticism or don't fully believe it",
+        "explanation": "This idiom means to not take something too seriously or to be skeptical, possibly from ancient belief that salt helped with poison."
+      },
+      {
+        "question": "'The best thing since sliced bread' describes something that is:",
+        "options": [
+          "A new bakery product",
+          "Very innovative and wonderful",
+          "Easy to eat",
+          "Available at grocery stores"
+        ],
+        "correct": "Very innovative and wonderful",
+        "explanation": "This idiom describes a great innovation, referencing how pre-sliced bread (1928) was considered a remarkable convenience."
+      },
+      {
+        "question": "If negotiations go 'sour,' they:",
+        "options": [
+          "Involve citrus fruits",
+          "Become unpleasant or unsuccessful",
+          "Need sugar added",
+          "Last too long"
+        ],
+        "correct": "Become unpleasant or unsuccessful",
+        "explanation": "'Go sour' idiomatically means to become bad or unpleasant, like milk that has spoiled, not literal sourness."
+      },
+      {
+        "question": "'Put all your eggs in one basket' means to:",
+        "options": [
+          "Organize eggs carefully",
+          "Risk everything on a single plan or option",
+          "Shop efficiently",
+          "Make an omelet"
+        ],
+        "correct": "Risk everything on a single plan or option",
+        "explanation": "This idiom warns against concentrating all resources or efforts in one area, risking total loss if that one thing fails."
+      },
+      {
+        "question": "When someone is 'full of beans,' they are:",
+        "options": [
+          "Just ate a large meal",
+          "Energetic and lively",
+          "Telling lies",
+          "Growing vegetables"
+        ],
+        "correct": "Energetic and lively",
+        "explanation": "'Full of beans' idiomatically means having lots of energy or enthusiasm, possibly from beans as a high-energy food for horses."
+      },
+      {
+        "question": "'Spice things up' idiomatically means to:",
+        "options": [
+          "Add seasoning to food",
+          "Make something more interesting or exciting",
+          "Cook with peppers",
+          "Heat up your meal"
+        ],
+        "correct": "Make something more interesting or exciting",
+        "explanation": "This idiom means to add excitement or interest to something, using the metaphor of spices making food more flavorful."
+      },
+      {
+        "question": "If something is 'a recipe for disaster,' it is:",
+        "options": [
+          "A dangerous cooking method",
+          "A situation likely to end badly",
+          "A failed cookbook",
+          "An incorrect ingredient list"
+        ],
+        "correct": "A situation likely to end badly",
+        "explanation": "This idiom describes a plan or situation with ingredients (factors) that will likely lead to failure or problems."
+      },
+      {
+        "question": "'In a nutshell' means:",
+        "options": [
+          "Inside a small shell",
+          "Summarized briefly and concisely",
+          "Eating nuts",
+          "Hidden away"
+        ],
+        "correct": "Summarized briefly and concisely",
+        "explanation": "This idiom means expressed in the briefest possible way, referencing fitting something into something as small as a nutshell."
+      },
+      {
+        "question": "When someone 'eats their words,' they:",
+        "options": [
+          "Admit they were wrong",
+          "Talk while eating",
+          "Write on edible paper",
+          "Speak very quietly"
+        ],
+        "correct": "Admit they were wrong",
+        "explanation": "'Eat one's words' idiomatically means to retract a statement or admit error, often with embarrassment, not literal eating."
+      },
+      {
+        "question": "'The cherry on top' refers to:",
+        "options": [
+          "An ice cream garnish",
+          "A final perfect addition to something already good",
+          "The best fruit",
+          "A dessert topping"
+        ],
+        "correct": "A final perfect addition to something already good",
+        "explanation": "This idiom describes a final touch that perfects something already good, like a decorative cherry perfects a sundae or cake."
+      },
+      {
+        "question": "If someone 'knows which side their bread is buttered,' they:",
+        "options": [
+          "Are good at making toast",
+          "Understand where their advantages lie",
+          "Prefer butter to margarine",
+          "Follow recipes carefully"
+        ],
+        "correct": "Understand where their advantages lie",
+        "explanation": "This idiom means understanding where one's benefits or interests lie and acting accordingly—being practical about advantages."
+      },
+      {
+        "question": "'Like comparing apples and oranges' means:",
+        "options": [
+          "Discussing fruit",
+          "Comparing two things that are too different to be meaningfully compared",
+          "Shopping for produce",
+          "Making fruit salad"
+        ],
+        "correct": "Comparing two things that are too different to be meaningfully compared",
+        "explanation": "This idiom describes an invalid comparison between fundamentally different things that shouldn't be directly compared."
+      },
+      {
+        "question": "'A bad apple' refers to:",
+        "options": [
+          "Rotten fruit",
+          "One person who negatively influences others in a group",
+          "Poor quality produce",
+          "Inedible food"
+        ],
+        "correct": "One person who negatively influences others in a group",
+        "explanation": "This idiom describes one corrupt or negative person who can influence others badly, from the saying 'one bad apple spoils the bunch.'"
+      },
+      {
+        "question": "When something is the 'cream of the crop,' it is:",
+        "options": [
+          "A dairy product from farming",
+          "The best of a particular group",
+          "The top layer of milk",
+          "Fresh produce"
+        ],
+        "correct": "The best of a particular group",
+        "explanation": "This idiom means the best or highest quality within a category, referencing cream as the richest part that rises to the top of milk."
+      },
+      {
+        "question": "'To go bananas' means to:",
+        "options": [
+          "Shop for fruit",
+          "Become very excited or go crazy",
+          "Eat tropical food",
+          "Visit a plantation"
+        ],
+        "correct": "Become very excited or go crazy",
+        "explanation": "This idiom means to become wildly excited, enthusiastic, or lose control emotionally, possibly from monkeys' excitement over bananas."
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Idiomatic Expressions: Cultural Analysis and Translation Strategies",
+    "instructions": "Complete ONE of the following activities. Your work should demonstrate understanding of how idioms carry cultural meaning and require strategic approaches in translation. After submission, you'll peer review two classmates' assignments.",
+    "options": [
+      {
+        "title": "Cross-Cultural Idiom Comparison",
+        "prompt": "Select 5 common English food idioms from this week's materials. For each one: (1) Explain its literal meaning and idiomatic meaning in English, (2) Research its cultural origin or context, (3) Identify whether a similar idiom exists in Spanish or if the concept must be expressed differently, (4) Analyze what this reveals about cultural differences in how food metaphors work. Conclude with a 100-word reflection on what this exercise taught you about cultural equivalence in translation.",
+        "deliverable": "Analysis of 5 idioms (approximately 350-400 words) + reflection (100 words)"
+      },
+      {
+        "title": "Translation Challenge: Idioms in Context",
+        "prompt": "Find a short English text (300-400 words) that contains at least 4 food idioms used naturally in context—this could be from a blog post, magazine article, dialogue from a novel, or opinion piece. Translate the text into Spanish, making strategic decisions about how to handle each idiom. Then write a 150-word commentary explaining your translation choices: which idioms you preserved with Spanish equivalents, which you paraphrased, and why. Discuss the challenges of maintaining register and naturalness.",
+        "deliverable": "Original English text + Spanish translation + translation commentary (150 words)"
+      },
+      {
+        "title": "Teaching Tool Creation: Idiom Culture Cards",
+        "prompt": "Create an educational resource: 6 'Culture Cards' for English food idioms that would confuse Spanish-speaking learners. Each card should include: (1) The English idiom, (2) Its meaning, (3) A realistic example sentence, (4) Cultural context explanation (why this idiom exists in English-speaking cultures), (5) Spanish functional equivalent or explanation of why none exists, (6) A translation tip or strategy. Write a 100-word introduction explaining how translators and language learners can use these cards.",
+        "deliverable": "6 culture cards (approximately 100 words each) + introduction (100 words)"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria:",
+      "criteria": [
+        "Demonstrates clear understanding of the difference between literal and idiomatic meaning",
+        "Shows awareness of cultural context and origins of idiomatic expressions",
+        "Makes thoughtful analysis of translation challenges and strategies",
+        "Provides accurate explanations and appropriate Spanish equivalents or alternatives",
+        "Presents information clearly and organizes content logically"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths, (2) One constructive suggestion, (3) One question or area for further exploration"
+    }
+  },
+  "conclusion": {
+    "message": "Congratulations on completing your exploration of idiomatic expressions and their deep cultural roots! Understanding how idioms work—and why they often resist literal translation—is essential for sophisticated translation and localization work.",
+    "takeaways": [
+      "Idioms have non-compositional meaning: their meaning cannot be understood from their individual words",
+      "Food idioms reflect cultural values, history, and shared experiences specific to language communities",
+      "Functional equivalence (preserving meaning and effect) matters more than formal equivalence (word-for-word translation)",
+      "Recognition strategies: look for metaphorical language, fixed phrases, and contexts where literal interpretation doesn't make sense",
+      "Translation strategies include finding equivalent idioms, paraphrasing meaning, or occasionally preserving source idioms with explanation"
+    ],
+    "furtherPractice": [
+      "Keep a journal of English idioms you encounter in movies, podcasts, or reading, analyzing their cultural origins",
+      "Compare food idioms across English and Spanish, noting which concepts have equivalents and which don't",
+      "Practice explaining English idioms to Spanish-speaking friends or family without using translation—just explanation",
+      "Analyze how idioms function in different registers (formal writing vs. casual conversation) and what this means for translation",
+      "Create flashcards with English food idioms on one side and functional Spanish equivalents (not literal translations) on the other",
+      "Watch English-language cooking shows or food content and note how idioms are used naturally in context"
+    ]
+  }
+}

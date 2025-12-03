@@ -1,0 +1,520 @@
+{
+  "week": 9,
+  "title": "Advanced Punctuation for Translation",
+  "breadcrumb": "Week 9: Advanced Punctuation",
+  "context": "Academic Writing/Research",
+  "introduction": {
+    "overview": "This week explores sophisticated punctuation marks that often distinguish professional academic writing from everyday prose. We'll examine how colons, semicolons, dashes, and parentheses function as precision tools in research papers, scholarly articles, and formal translations. Understanding these marks is essential for translating academic texts accurately and for crafting your own research writing.",
+    "objectives": [
+      "Deploy colons strategically to introduce explanations, lists, and quotations in academic contexts",
+      "Use semicolons to connect related independent clauses and manage complex series with internal punctuation",
+      "Distinguish between em dashes, en dashes, and hyphens, applying each appropriately in scholarly writing",
+      "Apply parentheses and brackets correctly for citations, clarifications, and supplementary information"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "The Colon: Introducing and Explaining",
+        "content": "The <strong>colon</strong> acts as a spotlight, directing readers' attention to what follows. In academic writing, colons introduce <strong>explanations</strong>, <strong>lists</strong>, <strong>examples</strong>, and <strong>formal quotations</strong>. The key principle: what precedes the colon must be a complete independent clause that could stand alone as a sentence. Colons signal 'here's what I mean' or 'here's the evidence.' They're particularly valuable in research writing for introducing methodology, findings, or supporting details.",
+        "example": "The study revealed three significant factors: participant motivation, time constraints, and resource availability. (Note: 'The study revealed three significant factors' is a complete clause)"
+      },
+      {
+        "heading": "The Semicolon: Connecting and Organizing",
+        "content": "The <strong>semicolon</strong> has two primary academic functions. First, it connects closely related <strong>independent clauses</strong> without a coordinating conjunction, showing that ideas are equally weighted and intimately connected. Second, it separates items in a <strong>complex series</strong> where individual elements already contain commas. This second function is especially important in academic writing with lengthy citations or multi-part findings. Think of semicolons as creating balance and managing complexity.",
+        "example": "Translation theory has evolved considerably; current approaches emphasize cultural mediation over literal equivalence. / The survey included participants from Madrid, Spain; Mexico City, Mexico; and Buenos Aires, Argentina."
+      },
+      {
+        "heading": "Dashes: Emphasis and Interruption",
+        "content": "Academic writers use three dash types: the <strong>em dash</strong> (—) for emphatic interruptions or clarifications, the <strong>en dash</strong> (–) for ranges and connections between equal elements, and the <strong>hyphen</strong> (-) for compound modifiers. The <strong>em dash</strong> is more dramatic than parentheses but less formal than a colon—it adds emphasis and flexibility. The <strong>en dash</strong> appears in page ranges (pp. 45–67), date spans (2015–2020), and between equal terms (the participant–researcher relationship). Em dashes typically appear without spaces in American style.",
+        "example": "The methodology—which was adapted from Chen (2019)—yielded unexpected results. / The pre-test–post-test design measured improvement over a 12–15 week period."
+      },
+      {
+        "heading": "Parentheses and Brackets: Supplementing and Clarifying",
+        "content": "<strong>Parentheses</strong> enclose supplementary information, citations, acronym definitions, and optional details that support but don't interrupt the main argument. <strong>Brackets</strong> indicate editorial insertions within quotations or provide clarifications within parenthetical material. In academic writing, proper use of parentheses is essential for <strong>in-text citations</strong> (APA, MLA, Chicago styles), while brackets show you've modified a quotation for clarity or grammar. Brackets signal 'this change is mine, not the original author's.'",
+        "example": "Translation memory tools (TMT) can increase productivity by 30–40% (Garcia, 2021). / According to the study, \"[T]he impact on professional translators was significant\" (Lopez, 2022, p. 154)."
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence with advanced punctuation. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "choice",
+        "prompt": "Which is correct: 'The hypothesis was clear: quality improves with experience' or 'The hypothesis was clear, quality improves with experience'?",
+        "answer": "The hypothesis was clear: quality improves with experience",
+        "explanation": "Use a colon after a complete clause to introduce an explanation or example"
+      },
+      {
+        "type": "fill-blank",
+        "prompt": "Complete with semicolon or comma: 'The first phase focused on data collection_____ the second analyzed results.'",
+        "answer": ";",
+        "explanation": "Use a semicolon to connect two closely related independent clauses without a conjunction"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which dash is correct for a range: 'pages 23-45' or 'pages 23–45'?",
+        "answer": "pages 23–45",
+        "explanation": "Use an en dash (–) for ranges; hyphens connect compound words"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Add appropriate punctuation: 'The results see Table 3 support our hypothesis.'",
+        "answer": "The results (see Table 3) support our hypothesis.",
+        "explanation": "Parentheses enclose supplementary references without interrupting the main sentence flow"
+      },
+      {
+        "type": "choice",
+        "prompt": "To add your own word to a quotation, use: parentheses ( ) or brackets [ ]?",
+        "answer": "brackets [ ]",
+        "explanation": "Brackets indicate your editorial insertions within quoted material"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your punctuation precision. Take your time with each one.",
+    "items": [
+      {
+        "question": "Which sentence correctly uses a colon?",
+        "options": [
+          "The researcher concluded: that more data was needed.",
+          "Three methods were used: surveys, interviews, and observation.",
+          "The study focused on: translation accuracy and speed.",
+          "Results showed: the hypothesis was correct."
+        ],
+        "correct": "Three methods were used: surveys, interviews, and observation.",
+        "explanation": "The clause before the colon ('Three methods were used') is complete and independent. The colon introduces the list that follows."
+      },
+      {
+        "question": "Select the sentence with correct semicolon usage:",
+        "options": [
+          "The sample included; 200 participants from three countries.",
+          "Data was collected in March; April; and May.",
+          "Machine translation has limitations; human translators remain essential.",
+          "The research; which took two years; yielded significant findings."
+        ],
+        "correct": "Machine translation has limitations; human translators remain essential.",
+        "explanation": "The semicolon correctly connects two closely related independent clauses without a conjunction"
+      },
+      {
+        "question": "Which correctly uses an en dash?",
+        "options": [
+          "The post-translation review process",
+          "The study spanned 2019–2023",
+          "Translation—a complex process—requires expertise",
+          "Well-documented procedures"
+        ],
+        "correct": "The study spanned 2019–2023",
+        "explanation": "En dashes connect ranges (dates, pages, numbers); hyphens create compounds; em dashes emphasize"
+      },
+      {
+        "question": "Choose the sentence with proper parenthetical citation:",
+        "options": [
+          "According to Smith 2020, translation quality depends on context.",
+          "According to Smith, (2020) translation quality depends on context.",
+          "According to Smith (2020), translation quality depends on context.",
+          "According to (Smith 2020), translation quality depends on context."
+        ],
+        "correct": "According to Smith (2020), translation quality depends on context.",
+        "explanation": "In APA style, the date follows the author's name in parentheses, before the comma"
+      },
+      {
+        "question": "Which sentence correctly modifies a quotation with brackets?",
+        "options": [
+          "The study noted \"(T)hey performed well under pressure.\"",
+          "The study noted \"[T]hey performed well under pressure.\"",
+          "The study noted \"(t)hey performed well under pressure.\"",
+          "The study noted \"They performed well under pressure (sic).\""
+        ],
+        "correct": "The study noted \"[T]hey performed well under pressure.\"",
+        "explanation": "Brackets indicate editorial changes; here, capitalizing 't' to 'T' to fit sentence structure"
+      },
+      {
+        "question": "Identify the correct use of a colon in academic writing:",
+        "options": [
+          "The findings demonstrate: significant improvement.",
+          "Consider the following: accuracy, fluency, and style.",
+          "The conclusion is: clear and convincing.",
+          "Research shows: that practice improves performance."
+        ],
+        "correct": "Consider the following: accuracy, fluency, and style.",
+        "explanation": "'Consider the following' is a complete independent clause introducing a list with the colon"
+      },
+      {
+        "question": "Which sentence uses semicolons correctly in a complex series?",
+        "options": [
+          "Participants came from Rome, Italy, Paris, France, and Berlin, Germany.",
+          "Participants came from Rome; Italy, Paris; France, and Berlin; Germany.",
+          "Participants came from Rome, Italy; Paris, France; and Berlin, Germany.",
+          "Participants came from; Rome, Italy; Paris, France; and Berlin, Germany."
+        ],
+        "correct": "Participants came from Rome, Italy; Paris, France; and Berlin, Germany.",
+        "explanation": "Semicolons separate major items in a series when those items already contain commas"
+      },
+      {
+        "question": "Select the sentence with correct em dash usage:",
+        "options": [
+          "The methodology - adapted from previous research - proved effective.",
+          "The methodology—adapted from previous research—proved effective.",
+          "The methodology–adapted from previous research–proved effective.",
+          "The methodology-adapted from previous research-proved effective."
+        ],
+        "correct": "The methodology—adapted from previous research—proved effective.",
+        "explanation": "Em dashes (—) set off emphatic or explanatory material; no spaces in American style"
+      },
+      {
+        "question": "Which correctly punctuates supplementary information?",
+        "options": [
+          "Translation memory (TM) systems improve efficiency.",
+          "Translation memory [TM] systems improve efficiency.",
+          "Translation memory, TM, systems improve efficiency.",
+          "Translation memory: TM systems improve efficiency."
+        ],
+        "correct": "Translation memory (TM) systems improve efficiency.",
+        "explanation": "Parentheses enclose acronym definitions on first use in academic writing"
+      },
+      {
+        "question": "Choose the sentence with correct punctuation for a formal quotation introduction:",
+        "options": [
+          "The author states, \"translation is both art and science.\"",
+          "The author states: \"Translation is both art and science.\"",
+          "The author states; \"translation is both art and science.\"",
+          "The author states. \"Translation is both art and science.\""
+        ],
+        "correct": "The author states: \"Translation is both art and science.\"",
+        "explanation": "A colon introduces a formal quotation after a complete independent clause; capitalize the quote"
+      },
+      {
+        "question": "Which sentence uses parentheses correctly within a citation?",
+        "options": [
+          "Machine translation (MT) has evolved rapidly (see Garcia, 2021, pp. 45-52).",
+          "Machine translation (MT) has evolved rapidly [see Garcia, 2021, pp. 45-52].",
+          "Machine translation [MT] has evolved rapidly (see Garcia, 2021, pp. 45-52).",
+          "Machine translation (MT has evolved rapidly) (see Garcia, 2021, pp. 45-52)."
+        ],
+        "correct": "Machine translation (MT) has evolved rapidly (see Garcia, 2021, pp. 45-52).",
+        "explanation": "Both the acronym and the citation use parentheses; acronym is defined first, then cited separately"
+      },
+      {
+        "question": "Identify correct semicolon usage to connect independent clauses:",
+        "options": [
+          "The data was analyzed carefully; and the results were significant.",
+          "The data was analyzed carefully; the results were significant.",
+          "The data was analyzed carefully, the results were significant.",
+          "The data was analyzed carefully: the results were significant."
+        ],
+        "correct": "The data was analyzed carefully; the results were significant.",
+        "explanation": "Semicolons connect related independent clauses without conjunctions; don't use 'and' after a semicolon"
+      },
+      {
+        "question": "Which uses an en dash correctly for a compound concept?",
+        "options": [
+          "The translator-reviewer relationship is crucial.",
+          "The translator—reviewer relationship is crucial.",
+          "The translator–reviewer relationship is crucial.",
+          "The translator: reviewer relationship is crucial."
+        ],
+        "correct": "The translator–reviewer relationship is crucial.",
+        "explanation": "En dashes connect equal or parallel terms (translator and reviewer are equal parties)"
+      },
+      {
+        "question": "Select the sentence with correct use of [sic]:",
+        "options": [
+          "The document stated \"the translater (sic) completed the work.\"",
+          "The document stated \"the translater [sic] completed the work.\"",
+          "The document stated \"the translater {sic} completed the work.\"",
+          "The document stated \"the translater (sic.) completed the work.\""
+        ],
+        "correct": "The document stated \"the translater [sic] completed the work.\"",
+        "explanation": "[sic] in brackets indicates an error in the original source that you're reproducing faithfully"
+      },
+      {
+        "question": "Which sentence correctly uses a colon before a list?",
+        "options": [
+          "The study examined: translation speed, accuracy, and consistency.",
+          "The study examined three factors: translation speed, accuracy, and consistency.",
+          "The study: examined translation speed, accuracy, and consistency.",
+          "The study examined translation speed: accuracy, and consistency."
+        ],
+        "correct": "The study examined three factors: translation speed, accuracy, and consistency.",
+        "explanation": "The complete clause before the colon ('The study examined three factors') introduces what follows"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your punctuation skills with these questions. Three questions appear at a time—get all three correct to pass! Remember to take a screenshot of your results for submission to the homework folder.",
+    "questions": [
+      {
+        "question": "Which sentence uses a colon correctly?",
+        "options": [
+          "The research objective was: to measure translation quality.",
+          "The research had one objective: to measure translation quality.",
+          "The research: objective was to measure translation quality.",
+          "The research objective was, to measure translation quality."
+        ],
+        "correct": "The research had one objective: to measure translation quality.",
+        "explanation": "'The research had one objective' is a complete independent clause that the colon follows"
+      },
+      {
+        "question": "Select correct semicolon usage:",
+        "options": [
+          "Translation requires skill; experience; and dedication.",
+          "Translation requires skill, experience; and dedication.",
+          "Translation requires skill; and it demands dedication.",
+          "Translation requires skill; dedication follows naturally."
+        ],
+        "correct": "Translation requires skill; dedication follows naturally.",
+        "explanation": "Semicolons connect two complete, closely related independent clauses without conjunctions"
+      },
+      {
+        "question": "Which correctly uses an em dash?",
+        "options": [
+          "The findings-though preliminary-suggest significant trends.",
+          "The findings –though preliminary– suggest significant trends.",
+          "The findings—though preliminary—suggest significant trends.",
+          "The findings-though preliminary-suggest significant trends."
+        ],
+        "correct": "The findings—though preliminary—suggest significant trends.",
+        "explanation": "Em dashes (—) set off parenthetical material with more emphasis than commas or parentheses"
+      },
+      {
+        "question": "Choose the correct way to introduce a quotation:",
+        "options": [
+          "Martinez argues, \"professional translators must specialize.\"",
+          "Martinez argues; \"professional translators must specialize.\"",
+          "Martinez argues: \"Professional translators must specialize.\"",
+          "Martinez argues. \"Professional translators must specialize.\""
+        ],
+        "correct": "Martinez argues: \"Professional translators must specialize.\"",
+        "explanation": "A colon introduces a formal quotation after a complete clause; capitalize the first word"
+      },
+      {
+        "question": "Which uses parentheses correctly for a citation?",
+        "options": [
+          "Recent studies show improved quality [Garcia, 2022].",
+          "Recent studies show improved quality (Garcia, 2022).",
+          "Recent studies show improved quality \"Garcia, 2022\".",
+          "Recent studies show improved quality, Garcia, 2022."
+        ],
+        "correct": "Recent studies show improved quality (Garcia, 2022).",
+        "explanation": "Parenthetical citations use parentheses, not brackets or quotation marks"
+      },
+      {
+        "question": "Identify correct en dash usage:",
+        "options": [
+          "The study covered the 2015-2022 period.",
+          "The study covered the 2015–2022 period.",
+          "The study covered the 2015—2022 period.",
+          "The study covered the 2015:2022 period."
+        ],
+        "correct": "The study covered the 2015–2022 period.",
+        "explanation": "En dashes indicate ranges (years, pages); hyphens and em dashes serve different functions"
+      },
+      {
+        "question": "Which correctly uses brackets within a quotation?",
+        "options": [
+          "The author wrote \"(the) results were conclusive.\"",
+          "The author wrote \"[the] results were conclusive.\"",
+          "The author wrote \"{the} results were conclusive.\"",
+          "The author wrote \"<the> results were conclusive.\""
+        ],
+        "correct": "The author wrote \"[the] results were conclusive.\"",
+        "explanation": "Brackets indicate editorial changes or clarifications within quoted material"
+      },
+      {
+        "question": "Select the sentence with correct complex series punctuation:",
+        "options": [
+          "Data came from London, UK, Tokyo, Japan, and Toronto, Canada.",
+          "Data came from London; UK; Tokyo; Japan; and Toronto; Canada.",
+          "Data came from London, UK; Tokyo, Japan; and Toronto, Canada.",
+          "Data came from: London, UK; Tokyo, Japan; and Toronto, Canada."
+        ],
+        "correct": "Data came from London, UK; Tokyo, Japan; and Toronto, Canada.",
+        "explanation": "Semicolons separate items in a series when the items themselves contain commas"
+      },
+      {
+        "question": "Which sentence correctly defines an acronym?",
+        "options": [
+          "Computer Assisted Translation [CAT] tools are essential.",
+          "Computer Assisted Translation (CAT) tools are essential.",
+          "Computer Assisted Translation \"CAT\" tools are essential.",
+          "Computer Assisted Translation - CAT - tools are essential."
+        ],
+        "correct": "Computer Assisted Translation (CAT) tools are essential.",
+        "explanation": "Acronyms are defined in parentheses immediately after the full term on first use"
+      },
+      {
+        "question": "Choose correct punctuation for connecting related ideas:",
+        "options": [
+          "The method proved reliable, the results confirmed our hypothesis.",
+          "The method proved reliable: the results confirmed our hypothesis.",
+          "The method proved reliable; the results confirmed our hypothesis.",
+          "The method proved reliable - the results confirmed our hypothesis."
+        ],
+        "correct": "The method proved reliable; the results confirmed our hypothesis.",
+        "explanation": "Semicolons connect closely related independent clauses that could stand as separate sentences"
+      },
+      {
+        "question": "Which correctly uses parentheses for supplementary information?",
+        "options": [
+          "The survey [conducted in Spanish] reached 500 participants.",
+          "The survey (conducted in Spanish) reached 500 participants.",
+          "The survey \"conducted in Spanish\" reached 500 participants.",
+          "The survey -conducted in Spanish- reached 500 participants."
+        ],
+        "correct": "The survey (conducted in Spanish) reached 500 participants.",
+        "explanation": "Parentheses enclose supplementary details that support but don't interrupt the main point"
+      },
+      {
+        "question": "Identify the correct use of a colon before an explanation:",
+        "options": [
+          "One factor was crucial: participant motivation.",
+          "One factor: was crucial participant motivation.",
+          "One factor was crucial, participant motivation.",
+          "One factor was: crucial participant motivation."
+        ],
+        "correct": "One factor was crucial: participant motivation.",
+        "explanation": "The colon follows a complete clause and introduces the specific factor being identified"
+      },
+      {
+        "question": "Which uses [sic] correctly?",
+        "options": [
+          "The report noted \"sucessful (sic) implementation.\"",
+          "The report noted \"sucessful [sic] implementation.\"",
+          "The report noted \"sucessful {sic} implementation.\"",
+          "The report noted \"sucessful\" [sic] \"implementation.\""
+        ],
+        "correct": "The report noted \"sucessful [sic] implementation.\"",
+        "explanation": "[sic] in brackets indicates you're preserving an error from the original source"
+      },
+      {
+        "question": "Select correct punctuation for a page range citation:",
+        "options": [
+          "(Lopez, 2020, pp. 45-67)",
+          "(Lopez, 2020, pp. 45–67)",
+          "(Lopez, 2020, pp. 45—67)",
+          "(Lopez, 2020, pp. 45:67)"
+        ],
+        "correct": "(Lopez, 2020, pp. 45–67)",
+        "explanation": "En dashes indicate page ranges in academic citations"
+      },
+      {
+        "question": "Which sentence correctly uses an em dash for emphasis?",
+        "options": [
+          "The translator's role-often underestimated-is vital to communication.",
+          "The translator's role–often underestimated–is vital to communication.",
+          "The translator's role—often underestimated—is vital to communication.",
+          "The translator's role (often underestimated) is vital to communication."
+        ],
+        "correct": "The translator's role—often underestimated—is vital to communication.",
+        "explanation": "Em dashes provide emphatic interruption; they're more dramatic than parentheses"
+      },
+      {
+        "question": "Choose the correct punctuation for introducing multiple examples:",
+        "options": [
+          "Several factors affected quality, such as: time, resources, and expertise.",
+          "Several factors affected quality: time, resources, and expertise.",
+          "Several factors affected quality; time, resources, and expertise.",
+          "Several factors affected quality - time, resources, and expertise."
+        ],
+        "correct": "Several factors affected quality: time, resources, and expertise.",
+        "explanation": "The complete clause before the colon introduces the list; don't use 'such as' before a colon"
+      },
+      {
+        "question": "Which correctly punctuates nested parenthetical information?",
+        "options": [
+          "The study (conducted in Mexico (2020-2021)) yielded important data.",
+          "The study (conducted in Mexico [2020-2021]) yielded important data.",
+          "The study [conducted in Mexico (2020-2021)] yielded important data.",
+          "The study (conducted in Mexico {2020-2021}) yielded important data."
+        ],
+        "correct": "The study (conducted in Mexico [2020-2021]) yielded important data.",
+        "explanation": "Use brackets for parenthetical material within parentheses to avoid confusion"
+      },
+      {
+        "question": "Identify correct semicolon usage in a compound sentence:",
+        "options": [
+          "The hypothesis was tested thoroughly; and the conclusions were drawn carefully.",
+          "The hypothesis was tested thoroughly; the conclusions were drawn carefully.",
+          "The hypothesis was tested thoroughly, the conclusions were drawn carefully.",
+          "The hypothesis was tested thoroughly: the conclusions were drawn carefully."
+        ],
+        "correct": "The hypothesis was tested thoroughly; the conclusions were drawn carefully.",
+        "explanation": "Semicolons connect independent clauses without conjunctions; don't add 'and' after the semicolon"
+      },
+      {
+        "question": "Which correctly uses a colon in a title or heading style?",
+        "options": [
+          "Translation Quality: An Analysis of Professional Standards",
+          "Translation Quality, An Analysis of Professional Standards",
+          "Translation Quality; An Analysis of Professional Standards",
+          "Translation Quality - An Analysis of Professional Standards"
+        ],
+        "correct": "Translation Quality: An Analysis of Professional Standards",
+        "explanation": "Colons separate main titles from subtitles in academic writing"
+      },
+      {
+        "question": "Select the sentence with correct punctuation for clarification within a quote:",
+        "options": [
+          "The text stated \"They (the translators) performed exceptionally.\"",
+          "The text stated \"They [the translators] performed exceptionally.\"",
+          "The text stated \"They {the translators} performed exceptionally.\"",
+          "The text stated \"They 'the translators' performed exceptionally.\""
+        ],
+        "correct": "The text stated \"They [the translators] performed exceptionally.\"",
+        "explanation": "Brackets enclose clarifying information you've added to make a quotation clearer"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Advanced Punctuation Analysis and Application",
+    "instructions": "Complete ONE of the following activities. After submission, you'll peer review two classmates' assignments using the criteria provided below.",
+    "options": [
+      {
+        "title": "Academic Punctuation Analysis",
+        "prompt": "Find a published academic article or research paper excerpt (300-400 words minimum) in your field of interest. Analyze how the author uses advanced punctuation (colons, semicolons, dashes, parentheses). Identify at least 6 examples of these marks, explain their function in each case, and discuss whether they're used effectively. Conclude with 2-3 sentences about what you learned about punctuation choices in academic writing.",
+        "deliverable": "Source excerpt + annotated analysis with 6+ examples + brief reflection (approximately 500 words total)"
+      },
+      {
+        "title": "Punctuation Enhancement Exercise",
+        "prompt": "Take a passage from a student essay, blog post, or informal article (your own or found online, 250-300 words). Rewrite it for an academic audience, strategically incorporating advanced punctuation to increase sophistication and clarity. Use at least: 2 colons, 2 semicolons, 2 dashes (em or en), and 2 parenthetical elements. Then write a 150-word commentary explaining your punctuation choices and how they enhance the academic tone.",
+        "deliverable": "Original passage + revised academic version + commentary on punctuation choices"
+      },
+      {
+        "title": "Translation Punctuation Comparison",
+        "prompt": "Select a Spanish academic text excerpt (200-250 words) that contains complex punctuation. Translate it into English, paying careful attention to how punctuation conventions may differ between the languages. Write a 200-word analysis comparing punctuation use in both versions: Where did you maintain the original punctuation? Where did you modify it for English academic conventions? What challenges did you encounter with colons, semicolons, dashes, or parentheses?",
+        "deliverable": "Spanish source text + English translation + comparative punctuation analysis"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria:",
+      "criteria": [
+        "Advanced punctuation marks (colons, semicolons, dashes, parentheses) are used correctly and appropriately",
+        "Analysis demonstrates understanding of how punctuation creates meaning and controls pacing in academic writing",
+        "Examples or applications are well-chosen and effectively support the analysis",
+        "Explanations are clear and demonstrate awareness of punctuation conventions in formal academic contexts",
+        "Writing is organized, professional, and free of major errors"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths in punctuation usage or analysis, (2) One constructive suggestion for improvement, (3) One question to deepen their understanding of advanced punctuation"
+    }
+  },
+  "conclusion": {
+    "message": "Congratulations on mastering advanced punctuation for academic and professional contexts! You've developed precision with sophisticated marks that distinguish polished scholarly writing from everyday prose. These skills will serve you well in translating research articles and crafting your own academic work.",
+    "takeaways": [
+      "Colons introduce explanations, lists, and quotations after complete independent clauses",
+      "Semicolons connect closely related independent clauses and organize complex series with internal commas",
+      "Em dashes create emphatic interruptions; en dashes show ranges; hyphens form compounds",
+      "Parentheses enclose supplementary information and citations without interrupting main ideas",
+      "Brackets indicate your editorial changes or clarifications within quoted material",
+      "Advanced punctuation controls pacing, emphasis, and clarity in academic writing",
+      "Punctuation conventions may differ between Spanish and English academic texts"
+    ],
+    "furtherPractice": [
+      "Analyze punctuation patterns in journal articles from your field of specialization",
+      "Practice translating Spanish academic abstracts, focusing on punctuation adaptation",
+      "Keep a punctuation journal noting effective examples from your academic reading",
+      "Revise your own writing by upgrading basic punctuation to more sophisticated marks where appropriate",
+      "Compare punctuation use across different citation styles (APA, MLA, Chicago)"
+    ]
+  }
+}

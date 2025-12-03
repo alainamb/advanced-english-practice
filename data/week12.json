@@ -1,0 +1,441 @@
+{
+  "week": 12,
+  "title": "Phrasal Verbs: Literal and Figurative Meanings",
+  "breadcrumb": "Week 12: Phrasal Verbs",
+  "context": "Entertainment & Pop Culture",
+  "introduction": {
+    "overview": "This week explores phrasal verbs—those dynamic verb + particle combinations that are essential to natural, conversational English. We'll examine how these multi-word verbs function in entertainment contexts, from movie reviews to music criticism, learning to distinguish between separable and inseparable forms and between literal and figurative meanings. Understanding phrasal verbs is crucial for translation work, as they rarely translate word-for-word and often carry cultural nuances that require careful interpretation.",
+    "objectives": [
+      "Identify and correctly use separable and inseparable phrasal verbs in context",
+      "Distinguish between literal (transparent) and figurative (opaque) meanings of phrasal verbs",
+      "Apply appropriate phrasal verbs when discussing entertainment media (film, music, television)",
+      "Recognize register differences: when phrasal verbs are appropriate versus when formal single-word verbs are preferred"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Separable vs. Inseparable Phrasal Verbs",
+        "content": "<strong>Separable phrasal verbs</strong> allow (and sometimes require) a noun or pronoun object to come between the verb and particle. Common examples include <em>turn down</em> (reject), <em>put off</em> (postpone), and <em>bring up</em> (mention). When the object is a pronoun, separation is mandatory: 'She turned it down' (not 'turned down it'). <strong>Inseparable phrasal verbs</strong> keep the verb and particle together: <em>look into</em> (investigate), <em>come across</em> (find unexpectedly), <em>run into</em> (encounter). The object must follow the complete phrasal verb: 'I ran into my favorite actor' (not 'ran my favorite actor into').",
+        "example": "Separable: 'The studio turned down the screenplay' or 'The studio turned the screenplay down' or 'The studio turned it down.' Inseparable: 'I came across an amazing indie film' (not 'came an amazing indie film across')"
+      },
+      {
+        "heading": "Literal vs. Figurative Meanings",
+        "content": "<strong>Literal phrasal verbs</strong> have transparent meanings where both the verb and particle retain their basic senses: <em>sit down</em>, <em>walk in</em>, <em>turn around</em>. These are relatively easy to understand and translate. <strong>Figurative phrasal verbs</strong> have meanings that aren't predictable from their parts: <em>break up</em> (end a relationship, not physically break), <em>catch on</em> (become popular or understand, not physically catch), <em>blow up</em> (become very successful or angry). Some phrasal verbs have both literal and figurative meanings depending on context, which makes them particularly challenging for translation.",
+        "example": "Literal: 'Turn up the volume on the speakers.' Figurative: 'That new band is really starting to catch on with audiences'—meaning gain popularity, not literally catching anything"
+      },
+      {
+        "heading": "Common Phrasal Verbs in Entertainment Reviews",
+        "content": "Entertainment writing relies heavily on specific phrasal verbs that convey nuanced judgments: <strong>live up to</strong> (meet expectations), <strong>fall flat</strong> (fail to impress), <strong>stand out</strong> (be noticeably excellent), <strong>drag on</strong> (be too long and boring), <strong>pick up</strong> (improve or gain speed). These phrasal verbs allow critics to express complex evaluations concisely and idiomatically. Understanding these common patterns helps translators capture the intended tone and judgment rather than translating literally, which would sound unnatural.",
+        "example": "'The sequel didn't live up to the original, and the middle act really dragged on, though the special effects stood out as exceptional'"
+      },
+      {
+        "heading": "Register and Formality Considerations",
+        "content": "Phrasal verbs are generally more <strong>informal and conversational</strong> than their single-word equivalents. In formal writing, you might prefer <em>postpone</em> over <em>put off</em>, <em>investigate</em> over <em>look into</em>, or <em>tolerate</em> over <em>put up with</em>. However, in entertainment journalism, social media, and casual reviews, phrasal verbs create a more accessible, engaging tone. For translation work, recognizing register helps you choose whether to preserve the informality or elevate the language depending on the target audience and purpose.",
+        "example": "Informal review: 'The show really picks up in season two.' Formal analysis: 'The series improves substantially in its second season.' Both convey similar meaning but different registers"
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence with the concepts. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "identification",
+        "prompt": "Is this phrasal verb separable or inseparable? 'The director called off the auditions due to weather.'",
+        "answer": "Separable",
+        "explanation": "'Call off' is separable—you can say 'called the auditions off' or 'called them off'"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which is figurative: 'The actor walked out of the theater' or 'The actor walked out on the film project'?",
+        "answer": "The actor walked out on the film project",
+        "explanation": "The second uses 'walk out on' figuratively (abandon), while the first is literal movement"
+      },
+      {
+        "type": "fill-blank",
+        "prompt": "Complete with the correct form: 'That song really grew _____ me after hearing it a few times.'",
+        "answer": "on",
+        "explanation": "'Grow on' means to gradually become more appealing—the particle 'on' is required"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Make this more formal: 'The critics really tore apart the new album.'",
+        "answer": "The critics severely criticized the new album.",
+        "explanation": "'Tear apart' is informal; 'criticize' or 'critique severely' is more formal"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of subtle differences. Take your time with each one.",
+    "items": [
+      {
+        "question": "Which sentence uses a separable phrasal verb correctly with a pronoun object?",
+        "options": [
+          "She turned down it immediately.",
+          "She turned it down immediately.",
+          "She turned immediately it down.",
+          "She turned immediately down it."
+        ],
+        "correct": "She turned it down immediately.",
+        "explanation": "With pronoun objects, separable phrasal verbs must be separated: 'turned it down'"
+      },
+      {
+        "question": "Which phrasal verb means 'become popular'?",
+        "options": [
+          "Catch up",
+          "Catch on",
+          "Catch out",
+          "Catch with"
+        ],
+        "correct": "Catch on",
+        "explanation": "'Catch on' means to become popular or fashionable, especially in entertainment contexts"
+      },
+      {
+        "question": "Identify the inseparable phrasal verb: 'The band is looking into new recording studios.'",
+        "options": [
+          "Is looking",
+          "Looking into",
+          "Into new",
+          "Recording studios"
+        ],
+        "correct": "Looking into",
+        "explanation": "'Look into' (investigate) is inseparable—the object must follow the complete phrasal verb"
+      },
+      {
+        "question": "Which sentence uses a literal (not figurative) meaning?",
+        "options": [
+          "The movie really took off at the box office.",
+          "The actor broke down during the emotional scene.",
+          "The singer turned up at the award show unexpectedly.",
+          "The director picked up the camera to demonstrate."
+        ],
+        "correct": "The director picked up the camera to demonstrate.",
+        "explanation": "This uses 'pick up' literally (physically lift); the others are figurative"
+      },
+      {
+        "question": "Which is the more formal equivalent of 'The series was called off'?",
+        "options": [
+          "The series was canceled.",
+          "The series was finished.",
+          "The series was ended.",
+          "The series was stopped."
+        ],
+        "correct": "The series was canceled.",
+        "explanation": "'Cancel' is the formal single-word verb equivalent of the phrasal verb 'call off'"
+      },
+      {
+        "question": "Choose the correct usage: 'I need to catch _____ on the latest episodes.'",
+        "options": [
+          "up",
+          "on",
+          "in",
+          "with"
+        ],
+        "correct": "up",
+        "explanation": "'Catch up on' means to watch/read what you've missed to become current"
+      },
+      {
+        "question": "Which phrasal verb means 'to fail to impress' in entertainment reviews?",
+        "options": [
+          "Fall over",
+          "Fall through",
+          "Fall flat",
+          "Fall behind"
+        ],
+        "correct": "Fall flat",
+        "explanation": "'Fall flat' means to fail to achieve the intended effect, often used for jokes or performances"
+      },
+      {
+        "question": "Is this separable or inseparable? 'We ran into our favorite director at the festival.'",
+        "options": [
+          "Separable—you can say 'ran our favorite director into'",
+          "Inseparable—'run into' stays together",
+          "Both forms are acceptable",
+          "Neither—this isn't a phrasal verb"
+        ],
+        "correct": "Inseparable—'run into' stays together",
+        "explanation": "'Run into' (encounter unexpectedly) is inseparable—the object follows the complete phrasal verb"
+      },
+      {
+        "question": "Which sentence uses 'bring up' correctly as a separable phrasal verb?",
+        "options": [
+          "She brought the controversy up during the interview.",
+          "She brought up during the interview the controversy.",
+          "She brought during the interview up the controversy.",
+          "She during brought up the interview the controversy."
+        ],
+        "correct": "She brought the controversy up during the interview.",
+        "explanation": "'Bring up' (mention) is separable; the object can come between verb and particle"
+      },
+      {
+        "question": "What does 'The show didn't live up to expectations' mean?",
+        "options": [
+          "The show was canceled before airing",
+          "The show failed to meet what people hoped for",
+          "The show exceeded all predictions",
+          "The show was moved to a different time slot"
+        ],
+        "correct": "The show failed to meet what people hoped for",
+        "explanation": "'Live up to' means to meet or fulfill expectations—here used negatively"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your skills with these questions. Three questions appear at a time—get all three correct to pass! Remember to take a screenshot of your successful completion.",
+    "questions": [
+      {
+        "question": "Which phrasal verb correctly completes: 'The actor decided to _____ the role after reading the script'?",
+        "options": ["turn down", "turn up", "turn into", "turn over"],
+        "correct": "turn down",
+        "explanation": "'Turn down' means to refuse or reject an offer"
+      },
+      {
+        "question": "Identify the figurative use: Which sentence doesn't use a literal meaning?",
+        "options": [
+          "She turned off the television.",
+          "The concert turned out to be amazing.",
+          "He walked into the recording studio.",
+          "They sat down in the front row."
+        ],
+        "correct": "The concert turned out to be amazing.",
+        "explanation": "'Turn out' (result/prove to be) is figurative; the others are literal physical actions"
+      },
+      {
+        "question": "Which is grammatically correct with a pronoun?",
+        "options": [
+          "They put the concert off.",
+          "They put off it.",
+          "They put it off.",
+          "They off put it."
+        ],
+        "correct": "They put it off.",
+        "explanation": "With pronouns, separable phrasal verbs require separation: 'put it off'"
+      },
+      {
+        "question": "What does 'The new series is really taking off' mean?",
+        "options": [
+          "Being removed from streaming platforms",
+          "Being filmed in a different location",
+          "Becoming very successful rapidly",
+          "Starting its first season"
+        ],
+        "correct": "Becoming very successful rapidly",
+        "explanation": "'Take off' figuratively means to become suddenly successful or popular"
+      },
+      {
+        "question": "Which phrasal verb is inseparable?",
+        "options": [
+          "Look forward to",
+          "Turn down",
+          "Bring up",
+          "Put off"
+        ],
+        "correct": "Look forward to",
+        "explanation": "'Look forward to' is inseparable—you can't say 'look the concert forward to'"
+      },
+      {
+        "question": "Choose the more formal alternative: 'The producers called off the premiere.'",
+        "options": [
+          "The producers canceled the premiere.",
+          "The producers finished the premiere.",
+          "The producers ended the premiere.",
+          "The producers stopped the premiere."
+        ],
+        "correct": "The producers canceled the premiere.",
+        "explanation": "'Cancel' is the formal single-word equivalent of 'call off'"
+      },
+      {
+        "question": "What does 'break up' mean in: 'The band decided to break up after ten years'?",
+        "options": [
+          "Take a short break from performing",
+          "Separate into different groups",
+          "Permanently disband",
+          "Change their musical style"
+        ],
+        "correct": "Permanently disband",
+        "explanation": "'Break up' for a band means to separate permanently and stop performing together"
+      },
+      {
+        "question": "Which sentence correctly uses a separable phrasal verb?",
+        "options": [
+          "She looked the information up online.",
+          "She looked into the camera directly.",
+          "She came across as very talented.",
+          "She ran into technical difficulties."
+        ],
+        "correct": "She looked the information up online.",
+        "explanation": "'Look up' is separable; the others are inseparable phrasal verbs"
+      },
+      {
+        "question": "Complete: 'The movie really dragged _____ in the second half.'",
+        "options": ["on", "out", "up", "through"],
+        "correct": "on",
+        "explanation": "'Drag on' means to continue for too long in a boring way"
+      },
+      {
+        "question": "Which uses a literal meaning of 'stand out'?",
+        "options": [
+          "Her performance really stood out among the cast.",
+          "The colors in the poster stand out beautifully.",
+          "Please stand out on the balcony for the photo.",
+          "That album stands out as their best work."
+        ],
+        "correct": "Please stand out on the balcony for the photo.",
+        "explanation": "This is literal (physical positioning); the others are figurative (be noticeable/excellent)"
+      },
+      {
+        "question": "What does 'get over' mean in: 'It took me weeks to get over that plot twist'?",
+        "options": [
+          "To understand the twist",
+          "To recover emotionally from the surprise",
+          "To watch the episode again",
+          "To explain the twist to others"
+        ],
+        "correct": "To recover emotionally from the surprise",
+        "explanation": "'Get over' means to recover from or stop being affected by something emotionally"
+      },
+      {
+        "question": "Which phrasal verb means 'to increase the volume or intensity'?",
+        "options": [
+          "Turn up",
+          "Turn down",
+          "Turn over",
+          "Turn around"
+        ],
+        "correct": "Turn up",
+        "explanation": "'Turn up' can mean to increase volume, temperature, or intensity"
+      },
+      {
+        "question": "Is this correct? 'They came the lost footage across in the archives.'",
+        "options": [
+          "Yes, this is correct",
+          "No, it should be 'came across the lost footage'",
+          "No, it should be 'came the lost across footage'",
+          "No, it should be 'across came the lost footage'"
+        ],
+        "correct": "No, it should be 'came across the lost footage'",
+        "explanation": "'Come across' is inseparable—the object must follow the complete phrasal verb"
+      },
+      {
+        "question": "What's the formal equivalent of 'The director put off the filming'?",
+        "options": [
+          "The director postponed the filming.",
+          "The director canceled the filming.",
+          "The director finished the filming.",
+          "The director delayed the filming slightly."
+        ],
+        "correct": "The director postponed the filming.",
+        "explanation": "'Postpone' is the formal single-word equivalent of 'put off'"
+      },
+      {
+        "question": "Which correctly uses 'pick up' in an entertainment context?",
+        "options": [
+          "The series picks up speed in episode three.",
+          "The series picks speed up in episode three.",
+          "The series up picks speed in episode three.",
+          "The series in picks up episode three speed."
+        ],
+        "correct": "The series picks up speed in episode three.",
+        "explanation": "'Pick up speed' (improve/accelerate) keeps the noun phrase together after the phrasal verb"
+      },
+      {
+        "question": "What does 'blow up' mean in: 'That actor really blew up after the film's release'?",
+        "options": [
+          "Became very angry",
+          "Gained weight for a role",
+          "Became extremely famous suddenly",
+          "Caused controversy"
+        ],
+        "correct": "Became extremely famous suddenly",
+        "explanation": "In entertainment contexts, 'blow up' means to suddenly become very famous or successful"
+      },
+      {
+        "question": "Which sentence shows incorrect separation of an inseparable phrasal verb?",
+        "options": [
+          "I turned the offer down.",
+          "She brought the topic up.",
+          "We looked the answer up.",
+          "He ran the director into."
+        ],
+        "correct": "He ran the director into.",
+        "explanation": "'Run into' is inseparable—it should be 'ran into the director'"
+      },
+      {
+        "question": "Complete: 'The soundtrack really grew _____ me after repeated listens.'",
+        "options": ["on", "up", "in", "with"],
+        "correct": "on",
+        "explanation": "'Grow on' means to gradually become more liked or appreciated"
+      },
+      {
+        "question": "What does 'The critics tore the performance apart' mean?",
+        "options": [
+          "Analyzed it carefully",
+          "Praised it enthusiastically",
+          "Criticized it very harshly",
+          "Ignored it completely"
+        ],
+        "correct": "Criticized it very harshly",
+        "explanation": "'Tear apart' means to criticize something very severely"
+      },
+      {
+        "question": "Which is the correct form: 'I need to catch up _____ the series before the finale'?",
+        "options": ["on", "with", "to", "for"],
+        "correct": "on",
+        "explanation": "'Catch up on' is the correct form when referring to content you need to watch/read"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Phrasal Verbs in Entertainment Media Analysis",
+    "instructions": "Complete ONE of the following activities. Focus on identifying and analyzing phrasal verbs in authentic entertainment contexts, paying special attention to whether they're separable/inseparable and literal/figurative. After submission, you'll peer review two classmates' assignments.",
+    "options": [
+      {
+        "title": "Entertainment Review Analysis",
+        "prompt": "Find three authentic entertainment reviews (film, music, or TV show reviews from magazines, newspapers, or reputable websites). Identify at least 15 phrasal verbs across the three reviews. For each phrasal verb, create a mini-analysis that includes: (1) the phrasal verb in its original sentence, (2) whether it's separable or inseparable, (3) whether it's used literally or figuratively, (4) what it means in context, and (5) a formal single-word equivalent if one exists. Write a 200-word reflection on what these phrasal verbs reveal about the register and tone of entertainment journalism.",
+        "deliverable": "Source links + 15 phrasal verb analyses + 200-word reflection (approximately 600 words total)"
+      },
+      {
+        "title": "Entertainment News Translation Challenge",
+        "prompt": "Find a Spanish-language entertainment news article or review (minimum 300 words) from a Mexican or Latin American source. Translate it into English, deliberately incorporating at least 12 appropriate phrasal verbs that capture the informal, engaging tone of entertainment writing. Then write a 200-word commentary explaining: which phrasal verbs you chose and why, which were separable vs. inseparable, how you decided between phrasal verbs and formal alternatives, and what challenges phrasal verbs present for translation work.",
+        "deliverable": "Original Spanish article link + English translation + 200-word commentary"
+      },
+      {
+        "title": "Phrasal Verbs in Pop Culture Podcast",
+        "prompt": "Create a 3-4 minute podcast script (approximately 400-500 words) teaching phrasal verbs to fellow translation students using examples from current movies, TV shows, or music. Choose 8-10 phrasal verbs commonly used in entertainment contexts and explain: their meanings, whether they're separable/inseparable, literal vs. figurative uses, and why they're important for translators to know. Include specific examples from recent pop culture. Make your script engaging and conversational. Record yourself presenting it, using appropriate emphasis and pacing.",
+        "deliverable": "Written script (400-500 words) + audio recording (3-4 minutes)"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria:",
+      "criteria": [
+        "Phrasal verbs are correctly identified and categorized (separable/inseparable, literal/figurative)",
+        "Analysis demonstrates understanding of how phrasal verbs function in entertainment contexts",
+        "Examples are authentic and relevant to the assignment requirements",
+        "Writing is clear, well-organized, and demonstrates metalinguistic awareness",
+        "Translation/application choices show consideration of register and audience"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths, (2) One constructive suggestion for deeper analysis, (3) One question about a phrasal verb choice or categorization"
+    }
+  },
+  "conclusion": {
+    "message": "Congratulations on completing this exploration of phrasal verbs! You've developed crucial skills for understanding one of English's most distinctive and challenging features. Your ability to recognize separability, distinguish literal from figurative meanings, and choose appropriate register will serve you well in both translation work and natural English communication.",
+    "takeaways": [
+      "Separable phrasal verbs allow objects between verb and particle; with pronouns, separation is mandatory",
+      "Inseparable phrasal verbs keep verb and particle together, with objects following the complete unit",
+      "Literal phrasal verbs are transparent; figurative ones have non-compositional meanings",
+      "Entertainment writing heavily uses phrasal verbs like 'catch on,' 'fall flat,' 'live up to,' and 'stand out'",
+      "Phrasal verbs are generally informal; formal contexts often prefer single-word equivalents",
+      "Context determines whether a phrasal verb is used literally or figuratively",
+      "Effective translation requires finding functional equivalents, not word-for-word translations"
+    ],
+    "furtherPractice": [
+      "Keep a phrasal verb journal while watching English-language movies or series this week",
+      "Read entertainment reviews and highlight all phrasal verbs, noting their separability",
+      "Practice rewriting informal reviews more formally by replacing phrasal verbs",
+      "Compare Spanish and English entertainment articles to see how phrasal verbs affect tone",
+      "Create flashcards with phrasal verbs on one side and example sentences on the other",
+      "Listen to entertainment podcasts and note which phrasal verbs appear most frequently",
+      "Try using 5 new phrasal verbs from this week in your own entertainment discussions"
+    ]
+  }
+}

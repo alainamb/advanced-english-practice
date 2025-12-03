@@ -1,0 +1,353 @@
+{
+  "week": 10,
+  "title": "Cohesion Devices: Weaving Stories Together",
+  "breadcrumb": "Week 10: Cohesion Devices",
+  "context": "Personal Essays & Storytelling",
+  "introduction": {
+    "overview": "This week explores the linguistic tools that transform disconnected sentences into flowing narratives. Cohesion devices—connectors, discourse markers, and reference chains—are the invisible threads that guide readers through personal stories, helping them follow shifts in time, understand cause-and-effect relationships, and track characters and ideas across paragraphs. Mastering these tools is essential for crafting compelling personal essays, reflective writing, and any narrative that needs to feel coherent and engaging.",
+    "objectives": [
+      "Identify and apply temporal connectors to create clear chronological progression in narratives",
+      "Use logical connectors (contrast, cause-effect, addition) to show relationships between ideas and events",
+      "Employ discourse markers to signal shifts in perspective, emphasis, or narrative direction",
+      "Build effective reference chains using pronouns, demonstratives, and lexical repetition to maintain topic continuity"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Temporal Connectors: Guiding Readers Through Time",
+        "content": "<strong>Temporal connectors</strong> help readers follow the chronology of events in personal narratives. These include sequential markers (<em>first, then, next, finally</em>), simultaneous actions (<em>meanwhile, at the same time, while</em>), and retrospective framing (<em>in retrospect, looking back, years later</em>). In storytelling, effective temporal connectors do more than mark time—they create pacing and show how the narrator's understanding evolved.",
+        "example": "That summer, I worked at my uncle's restaurant. <strong>Meanwhile</strong>, my friends were traveling through Europe. <strong>At first</strong>, I felt jealous. <strong>Later</strong>, I realized those kitchen shifts taught me more about resilience than any vacation could. <strong>In retrospect</strong>, missing out was the best thing that happened to me."
+      },
+      {
+        "heading": "Logical Connectors: Showing Relationships Between Ideas",
+        "content": "<strong>Logical connectors</strong> reveal how events and reflections relate to each other. <em>Contrast connectors</em> (<em>however, on the other hand, yet, nevertheless</em>) highlight unexpected turns or opposing viewpoints. <em>Cause-effect connectors</em> (<em>as a result, consequently, therefore, thus</em>) show how one event led to another. <em>Additive connectors</em> (<em>furthermore, moreover, in addition, besides</em>) build on previous points. In personal essays, these connectors help readers understand not just what happened, but why it mattered.",
+        "example": "I had always been terrified of public speaking. <strong>However</strong>, my scholarship required me to present my research. I practiced obsessively. <strong>As a result</strong>, my presentation went smoothly. <strong>Moreover</strong>, I discovered I actually enjoyed sharing my ideas. <strong>Nevertheless</strong>, I still get nervous before every talk."
+      },
+      {
+        "heading": "Discourse Markers: Signaling Shifts and Emphasis",
+        "content": "<strong>Discourse markers</strong> are words and phrases that organize the narrative and guide the reader's attention without adding propositional content. They include <em>topic shifters</em> (<em>anyway, by the way, speaking of which</em>), <em>emphasis markers</em> (<em>in fact, indeed, actually</em>), and <em>summarizing phrases</em> (<em>in short, to sum up, the point is</em>). In personal writing, discourse markers create a conversational tone and help writers control the flow of information, signaling when they're about to reveal something important or shift to a related memory.",
+        "example": "<strong>Anyway</strong>, that's how I ended up studying abroad. <strong>In fact</strong>, the whole experience almost didn't happen—I had been rejected the first time I applied. <strong>The point is</strong>, persistence matters. <strong>By the way</strong>, my roommate from that trip is now my business partner."
+      },
+      {
+        "heading": "Reference Chains: Maintaining Continuity Across Sentences",
+        "content": "<strong>Reference chains</strong> connect mentions of the same person, place, or concept throughout a text, preventing repetition while maintaining clarity. Writers use <em>pronouns</em> (<em>she, it, they</em>), <em>demonstratives</em> (<em>this, that, these, those</em>), <em>synonyms</em>, and <em>general nouns</em> (<em>the experience, the situation, the challenge</em>) to refer back to previously mentioned entities. Effective reference chains keep readers oriented without becoming monotonous. In longer narratives, clear referencing prevents confusion about who did what.",
+        "example": "My grandmother immigrated to Mexico in 1952. <strong>She</strong> arrived with nothing but a suitcase and her mother's recipes. <strong>This woman</strong> who spoke no Spanish built a successful catering business within five years. <strong>Her determination</strong> shaped my entire family's trajectory. <strong>That legacy</strong> is why I never give up on difficult goals."
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence with cohesion devices. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "fill-blank",
+        "prompt": "Complete: I wanted to apologize immediately. _____, I decided to wait until I could explain properly.",
+        "answer": "However",
+        "explanation": "The contrast between wanting to act immediately and choosing to wait requires a contrast connector like 'however'"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which creates better cohesion: 'My sister moved to Barcelona. My sister started learning Catalan' or 'My sister moved to Barcelona. She started learning Catalan'?",
+        "answer": "My sister moved to Barcelona. She started learning Catalan.",
+        "explanation": "Using 'she' creates a reference chain and eliminates awkward repetition"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Add a temporal connector: 'I graduated from university. I realized I had chosen the wrong major.'",
+        "answer": "I graduated from university. Years later, I realized I had chosen the wrong major.",
+        "explanation": "Temporal connectors like 'years later' or 'in retrospect' clarify the time relationship between events"
+      },
+      {
+        "type": "fill-blank",
+        "prompt": "Complete: The internship was unpaid and required long hours. _____, it gave me invaluable industry connections.",
+        "answer": "Nevertheless",
+        "explanation": "Despite the negative aspects, something positive resulted—this requires a contrast connector with concessive meaning"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of cohesion devices in context. Take your time with each one.",
+    "items": [
+      {
+        "question": "Which temporal connector best fits? 'I thought I wanted to be a doctor. _____, I realize my passion is teaching.'",
+        "options": ["Meanwhile", "Looking back", "Afterwards", "At the same time"],
+        "correct": "Looking back",
+        "explanation": "'Looking back' signals retrospective reflection, appropriate for contrasting past and present understanding"
+      },
+      {
+        "question": "Which sentence uses reference chains most effectively?",
+        "options": [
+          "My father taught me guitar. My father taught me patience. My father's lessons stayed with me.",
+          "My father taught me guitar. He taught me patience. His lessons stayed with me.",
+          "My father taught me guitar. This taught me patience. This stayed with me.",
+          "My father taught me guitar. The man taught me patience. The teaching stayed with me."
+        ],
+        "correct": "My father taught me guitar. He taught me patience. His lessons stayed with me.",
+        "explanation": "This version uses pronouns ('he,' 'his') and a lexical reference ('lessons') to create smooth cohesion without repetition"
+      },
+      {
+        "question": "Choose the best logical connector: 'I failed my driving test twice. _____, I passed on my third attempt.'",
+        "options": ["However", "Moreover", "Meanwhile", "Therefore"],
+        "correct": "However",
+        "explanation": "'However' signals the contrast between previous failures and eventual success"
+      },
+      {
+        "question": "Which discourse marker adds emphasis? 'I was nervous about the interview. _____, I had been preparing for weeks.'",
+        "options": ["Anyway", "In fact", "By the way", "In short"],
+        "correct": "In fact",
+        "explanation": "'In fact' emphasizes the additional information about preparation, reinforcing why the nervousness might be unnecessary"
+      },
+      {
+        "question": "Which creates the clearest temporal sequence?",
+        "options": [
+          "We arrived at the beach. We unpacked. We went swimming.",
+          "We arrived at the beach. Then we unpacked. After that, we went swimming.",
+          "First, we arrived at the beach. We unpacked. We went swimming.",
+          "We arrived at the beach. We unpacked. Later, we went swimming."
+        ],
+        "correct": "We arrived at the beach. Then we unpacked. After that, we went swimming.",
+        "explanation": "Explicit temporal connectors ('then,' 'after that') create the clearest sequence for readers"
+      },
+      {
+        "question": "Which best shows cause-effect relationship? 'I practiced speaking English daily. I became more confident in conversations.'",
+        "options": [
+          "I practiced speaking English daily. However, I became more confident in conversations.",
+          "I practiced speaking English daily. Meanwhile, I became more confident in conversations.",
+          "I practiced speaking English daily. As a result, I became more confident in conversations.",
+          "I practiced speaking English daily. In fact, I became more confident in conversations."
+        ],
+        "correct": "I practiced speaking English daily. As a result, I became more confident in conversations.",
+        "explanation": "'As a result' explicitly shows that the confidence was a consequence of the practice"
+      },
+      {
+        "question": "Which demonstrative reference is most appropriate? 'My mother always told me to save money for emergencies. _____ advice saved me when I lost my job.'",
+        "options": ["This", "These", "Those", "A"],
+        "correct": "This",
+        "explanation": "'This' refers back to the singular advice mentioned in the previous sentence"
+      },
+      {
+        "question": "Choose the appropriate additive connector: 'The program was challenging. _____, it required weekend commitments.'",
+        "options": ["However", "Nevertheless", "Furthermore", "Instead"],
+        "correct": "Furthermore",
+        "explanation": "'Furthermore' adds another challenging aspect to what was already described as difficult"
+      },
+      {
+        "question": "Which sequence of connectors creates the best narrative flow? 'I applied to ten universities. _____, I got rejected from my top choice. _____, I was accepted to a program that changed my life.'",
+        "options": [
+          "However... Meanwhile...",
+          "First... Then...",
+          "Initially... However...",
+          "Moreover... Therefore..."
+        ],
+        "correct": "Initially... However...",
+        "explanation": "'Initially' sets up the first event, and 'however' introduces the contrasting positive outcome"
+      },
+      {
+        "question": "Which creates better cohesion through reference? 'The scholarship covered tuition but not living expenses. The scholarship created financial stress. The scholarship was still worth it.'",
+        "options": [
+          "The scholarship covered tuition but not living expenses. The scholarship created financial stress. The scholarship was still worth it.",
+          "The scholarship covered tuition but not living expenses. This created financial stress. It was still worth it.",
+          "The scholarship covered tuition but not living expenses. That created financial stress. The thing was still worth it.",
+          "The scholarship covered tuition but not living expenses. The program created financial stress. The award was still worth it."
+        ],
+        "correct": "The scholarship covered tuition but not living expenses. This created financial stress. It was still worth it.",
+        "explanation": "Using 'this' (referring to the situation) and 'it' (referring to the scholarship) eliminates repetition while maintaining clarity"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your skills with these questions. Three questions appear at a time—get all three correct to pass! Remember to take a screenshot of your passing score before moving forward.",
+    "questions": [
+      {
+        "question": "Which temporal connector best introduces a reflection? 'I spent that year traveling alone. _____, I realize it was the loneliest period of my life.'",
+        "options": ["Meanwhile", "At first", "In retrospect", "Afterwards"],
+        "correct": "In retrospect",
+        "explanation": "'In retrospect' signals looking back with new understanding, perfect for reflective personal essays"
+      },
+      {
+        "question": "Choose the most effective reference chain: 'My mentor changed my career path. _____ encouraged me to pursue translation instead of law.'",
+        "options": ["The mentor", "She", "This person", "The woman"],
+        "correct": "She",
+        "explanation": "The simple pronoun 'she' is the most natural and cohesive choice for continuing reference to the mentor"
+      },
+      {
+        "question": "Which connector best shows an unexpected positive outcome? 'The flight was delayed six hours. _____, I met my future business partner in the airport lounge.'",
+        "options": ["Therefore", "As a result", "Surprisingly", "Furthermore"],
+        "correct": "Surprisingly",
+        "explanation": "'Surprisingly' emphasizes the unexpected positive outcome from a negative situation"
+      },
+      {
+        "question": "Select the appropriate cause-effect connector: 'I volunteered at the community center every weekend. _____, I developed strong organizational skills.'",
+        "options": ["However", "Consequently", "Meanwhile", "Nevertheless"],
+        "correct": "Consequently",
+        "explanation": "'Consequently' clearly shows that the skills developed as a result of the volunteering"
+      },
+      {
+        "question": "Which discourse marker best signals a topic shift? '_____, let me tell you about the time I got lost in Tokyo.'",
+        "options": ["Therefore", "In fact", "Anyway", "Moreover"],
+        "correct": "Anyway",
+        "explanation": "'Anyway' naturally signals a shift to a new topic or anecdote in conversational narrative"
+      },
+      {
+        "question": "Which creates the smoothest cohesion? 'I had three job offers. The first offer paid well but required relocation. The second offer offered flexibility but lower salary. The third offer balanced both factors.'",
+        "options": [
+          "I had three job offers. The first offer paid well but required relocation. The second offer offered flexibility but lower salary. The third offer balanced both factors.",
+          "I had three job offers. The first paid well but required relocation. The second offered flexibility but lower salary. The third balanced both factors.",
+          "I had three job offers. One paid well but required relocation. Another offered flexibility but lower salary. The last balanced both factors.",
+          "I had three job offers. It paid well but required relocation. It offered flexibility but lower salary. It balanced both factors."
+        ],
+        "correct": "I had three job offers. The first paid well but required relocation. The second offered flexibility but lower salary. The third balanced both factors.",
+        "explanation": "Using 'the first,' 'the second,' 'the third' with varied verbs creates clear progression without awkward repetition"
+      },
+      {
+        "question": "Choose the best logical connector for contrast: 'Everyone expected me to study engineering. _____, I chose philosophy.'",
+        "options": ["Therefore", "Furthermore", "Instead", "Besides"],
+        "correct": "Instead",
+        "explanation": "'Instead' clearly shows the choice was contrary to expectations"
+      },
+      {
+        "question": "Which demonstrative best refers to the previous idea? 'My grandmother never learned to read, but she built a successful business through determination and street smarts. _____ taught me that formal education isn't everything.'",
+        "options": ["This", "These", "That", "Those"],
+        "correct": "This",
+        "explanation": "'This' refers to the singular concept or lesson from the grandmother's experience"
+      },
+      {
+        "question": "Select the most appropriate additive connector: 'The internship required forty hours weekly. _____, we had to complete a research project.'",
+        "options": ["However", "In addition", "Nevertheless", "Instead"],
+        "correct": "In addition",
+        "explanation": "'In addition' adds another requirement to the already mentioned time commitment"
+      },
+      {
+        "question": "Which sequence creates the best narrative progression? 'I decided to study abroad. _____, I researched programs. _____, I submitted applications. _____, I received my acceptance letter.'",
+        "options": [
+          "However... Nevertheless... Therefore...",
+          "First... Then... Finally...",
+          "Meanwhile... Besides... Thus...",
+          "Moreover... Furthermore... Consequently..."
+        ],
+        "correct": "First... Then... Finally...",
+        "explanation": "These temporal connectors create a clear, chronological progression through the steps"
+      },
+      {
+        "question": "Which maintains the best reference chain? 'My professor suggested I apply for the fellowship. I was skeptical at first. The recommendation proved invaluable. The opportunity changed my career trajectory.'",
+        "options": [
+          "My professor suggested I apply for the fellowship. I was skeptical at first. The recommendation proved invaluable. The opportunity changed my career trajectory.",
+          "My professor suggested I apply for the fellowship. I was skeptical at first. The professor proved invaluable. The professor changed my career trajectory.",
+          "My professor suggested I apply for the fellowship. I was skeptical at first. It proved invaluable. It changed my career trajectory.",
+          "My professor suggested I apply for the fellowship. I was skeptical at first. This proved invaluable. This changed my career trajectory."
+        ],
+        "correct": "My professor suggested I apply for the fellowship. I was skeptical at first. The recommendation proved invaluable. The opportunity changed my career trajectory.",
+        "explanation": "Using 'the recommendation' and 'the opportunity' as lexical variations creates sophisticated cohesion while maintaining clarity"
+      },
+      {
+        "question": "Choose the best connector to show simultaneous actions: 'I worked full-time at a cafe. _____, I was completing my degree at night.'",
+        "options": ["Afterwards", "Meanwhile", "Finally", "In retrospect"],
+        "correct": "Meanwhile",
+        "explanation": "'Meanwhile' indicates that both activities were happening at the same time"
+      },
+      {
+        "question": "Which discourse marker best emphasizes a surprising fact? 'I had never written professionally. _____, my first article was published in a major magazine.'",
+        "options": ["Anyway", "By the way", "In fact", "In short"],
+        "correct": "In fact",
+        "explanation": "'In fact' emphasizes the surprising nature of the achievement given the lack of experience"
+      },
+      {
+        "question": "Select the appropriate concessive connector: 'The job paid minimum wage and had no benefits. _____, I accepted it because it aligned with my values.'",
+        "options": ["Therefore", "Moreover", "Nevertheless", "Consequently"],
+        "correct": "Nevertheless",
+        "explanation": "'Nevertheless' shows that despite the negative aspects, the decision was made for other reasons"
+      },
+      {
+        "question": "Which creates the most effective concluding transition? 'I spent years doubting my abilities. I compared myself to others constantly. I let fear hold me back. _____, I learned that self-acceptance is the foundation of success.'",
+        "options": ["Meanwhile", "Afterwards", "Ultimately", "Besides"],
+        "correct": "Ultimately",
+        "explanation": "'Ultimately' signals the final lesson or conclusion drawn from the series of experiences"
+      },
+      {
+        "question": "Choose the best connector for adding a related point: 'Living abroad taught me independence. _____, it helped me appreciate my home culture.'",
+        "options": ["However", "Moreover", "Therefore", "Instead"],
+        "correct": "Moreover",
+        "explanation": "'Moreover' adds another benefit to what was already mentioned about living abroad"
+      },
+      {
+        "question": "Which reference is most appropriate? 'The experience of failing my first business taught me resilience. _____ has shaped every venture I've undertaken since.'",
+        "options": ["This lesson", "These lessons", "That business", "Those experiences"],
+        "correct": "This lesson",
+        "explanation": "'This lesson' refers back to what was learned from the experience, maintaining clear cohesion"
+      },
+      {
+        "question": "Select the best temporal connector for showing elapsed time: 'I made that promise to my grandfather. _____, I finally fulfilled it.'",
+        "options": ["Meanwhile", "Immediately", "Twenty years later", "At the same time"],
+        "correct": "Twenty years later",
+        "explanation": "Specific time references create vivid temporal cohesion and show the significance of the delay"
+      },
+      {
+        "question": "Which sequence best shows progression from problem to solution? 'I struggled with anxiety. _____, I avoided social situations. _____, I started therapy. _____, I learned to manage my symptoms.'",
+        "options": [
+          "However... Moreover... Nevertheless...",
+          "Therefore... Then... Finally...",
+          "As a result... Eventually... Ultimately...",
+          "Meanwhile... Besides... Furthermore..."
+        ],
+        "correct": "As a result... Eventually... Ultimately...",
+        "explanation": "This sequence shows cause-effect ('as a result'), progression ('eventually'), and conclusion ('ultimately')"
+      },
+      {
+        "question": "Which discourse marker best signals a summary? 'I changed majors twice, switched career paths, and moved cities three times. _____, my twenties were a decade of exploration.'",
+        "options": ["Anyway", "In fact", "By the way", "In short"],
+        "correct": "In short",
+        "explanation": "'In short' signals that what follows is a summary or condensation of the previous information"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Cohesion Devices in Personal Narrative",
+    "instructions": "Complete ONE of the following activities. After submission, you'll peer review two classmates' assignments. Focus on how cohesion devices strengthen narrative flow and reader comprehension.",
+    "options": [
+      {
+        "title": "Personal Essay with Cohesion Analysis",
+        "prompt": "Write a personal essay (400-500 words) about a turning point in your life or an important lesson you learned. The narrative should move through time and include reflection. After completing your essay, create an annotation guide that identifies at least 10 cohesion devices you used, categorizing them as temporal connectors, logical connectors, discourse markers, or reference chains. For each device, briefly explain why you chose it and how it contributes to the essay's flow.",
+        "deliverable": "Personal essay + annotated analysis of cohesion devices used"
+      },
+      {
+        "title": "Cohesion Device Revision Project",
+        "prompt": "Find or create a poorly written personal narrative (300-400 words) that lacks effective cohesion—sentences feel disconnected, time sequences are unclear, and pronouns are ambiguous. Revise the narrative to dramatically improve its cohesion using temporal connectors, logical connectors, discourse markers, and clear reference chains. Then write a 200-word reflection explaining the specific changes you made and how they improved readability and narrative flow. Highlight or annotate your cohesion devices in both versions.",
+        "deliverable": "Original weak narrative + revised version with annotations + reflection on changes"
+      },
+      {
+        "title": "Comparative Cohesion Analysis: Spanish vs. English",
+        "prompt": "Select a personal narrative written in Spanish (blog post, memoir excerpt, or personal essay—approximately 300 words). Translate it into English, paying special attention to how cohesion devices might need to change between languages. Some connectors don't have direct equivalents, and reference chains may work differently. After translating, write a 250-word analysis comparing the cohesion strategies in both versions. Discuss: Which connectors translated directly? Which required adaptation? How did you handle reference chains differently? What did you learn about cohesion across languages?",
+        "deliverable": "Spanish source text + English translation + comparative cohesion analysis"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria:",
+      "criteria": [
+        "Cohesion devices (temporal, logical, discourse markers, references) are used accurately and appropriately",
+        "Narrative flows smoothly with clear transitions between ideas, events, and time periods",
+        "Reference chains are clear and unambiguous—readers can easily track who/what is being discussed",
+        "Analysis or reflection demonstrates understanding of how cohesion devices function in context"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths in cohesion device usage, (2) One suggestion for improving cohesion in a particular section, (3) One question about a cohesion choice that you found interesting or would like clarification on"
+    }
+  },
+  "conclusion": {
+    "message": "You've completed an exploration of the cohesion devices that transform fragmented writing into flowing narratives. These linguistic tools—often invisible to readers but essential to comprehension—are what make personal essays feel coherent, professional, and engaging. Understanding how to deploy connectors, markers, and reference chains strategically will strengthen all of your writing.",
+    "takeaways": [
+      "Temporal connectors create clear chronological progression and control narrative pacing",
+      "Logical connectors (contrast, cause-effect, addition) reveal relationships between events and ideas",
+      "Discourse markers signal shifts, add emphasis, and create conversational flow in personal writing",
+      "Reference chains using pronouns, demonstratives, and lexical variation prevent repetition while maintaining clarity",
+      "Effective cohesion is often invisible—readers notice its absence more than its presence",
+      "Different types of cohesion devices work together to create seamless narrative flow"
+    ],
+    "furtherPractice": [
+      "Read a published personal essay and annotate all cohesion devices—notice which types appear most frequently",
+      "Take a paragraph you've written and try rewriting it with different connectors to see how meaning shifts",
+      "Practice building reference chains: write about a person using their name only once, then vary your references",
+      "Compare cohesion device usage in formal vs. informal personal writing (academic personal statement vs. blog post)",
+      "Create a personal 'cohesion toolkit' with your favorite connectors for different purposes (time, contrast, emphasis)",
+      "Analyze how professional memoir writers use cohesion devices to guide readers through complex life stories"
+    ]
+  }
+}

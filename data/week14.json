@@ -1,0 +1,512 @@
+{
+  "week": 14,
+  "title": "Register & Style Variation",
+  "breadcrumb": "Week 14: Register & Style",
+  "context": "Multiple Contexts (Formal/Informal Comparison)",
+  "introduction": {
+    "overview": "This week explores how English speakers adjust their language choices based on audience, purpose, and context. Understanding register and style variation is essential for translators who must not only convey meaning but also match the appropriate level of formality, tone, and conventions expected in different communicative situations. We'll examine how vocabulary, grammar, and discourse features shift across registers, from casual text messages to formal academic writing.",
+    "objectives": [
+      "Identify key linguistic features that distinguish formal, neutral, and informal registers",
+      "Recognize and produce language appropriate to different communicative contexts (academic, professional, casual, digital)",
+      "Understand how register mismatches can undermine communicative effectiveness",
+      "Apply register awareness to translation and localization decisions"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "The Register Spectrum: Formal to Informal",
+        "content": "<strong>Register</strong> refers to the variety of language appropriate to a particular context, ranging from highly formal (legal documents, academic papers) through neutral (news articles, business correspondence) to informal (text messages, personal blogs). Key markers of formality include <strong>vocabulary choice</strong> (obtain vs. get, assist vs. help), <strong>sentence complexity</strong> (subordination vs. coordination), and <strong>personal reference</strong> (avoiding first person vs. using 'I/we'). Register also affects <strong>contraction use</strong>, with contractions (don't, can't, we'll) signaling informality while full forms (do not, cannot, we will) mark formality.",
+        "example": "Compare: 'We regret to inform you that your application has not been successful' (formal job rejection) vs. 'Sorry, but we've decided to go with someone else' (informal) vs. 'unfortunately ur not what we're looking for rn' (very informal, inappropriate for job context)"
+      },
+      {
+        "heading": "Lexical Choices and Phrasal Verb Avoidance",
+        "content": "Formal registers prefer <strong>Latinate vocabulary</strong> and single-word verbs over phrasal verbs, while informal registers embrace phrasal verbs and simpler vocabulary. For instance, formal writing uses 'commence' instead of 'start up', 'investigate' instead of 'look into', and 'postpone' instead of 'put off'. <strong>Hedging language</strong> ('perhaps', 'it appears that', 'may suggest') is more common in formal academic writing, while informal contexts use more direct assertions. Additionally, formal registers avoid <strong>colloquialisms</strong> and slang that are acceptable in casual conversation.",
+        "example": "Informal: 'The study looked into why people put off going to the doctor and found out that cost was a big deal.' Formal: 'The research investigated factors contributing to delayed medical consultation and determined that financial considerations constituted a significant barrier.'"
+      },
+      {
+        "heading": "Grammatical Complexity and Sentence Structure",
+        "content": "Formal writing employs <strong>complex sentence structures</strong> with multiple subordinate clauses, passive constructions, and nominalization (turning verbs into nouns). Informal writing favors <strong>shorter sentences</strong>, active voice, and conversational connectors. Formal texts avoid sentence fragments and rarely begin sentences with coordinating conjunctions (and, but, so), while informal texts embrace these features for a conversational tone. <strong>Impersonal constructions</strong> ('it can be argued that', 'one might conclude') characterize academic writing, whereas personal pronouns dominate informal registers.",
+        "example": "Informal blog: 'So I tried the new coffee place downtown. And honestly? It was amazing.' Formal review: 'Upon visiting the recently established café in the downtown district, this reviewer found the experience to be notably positive. The quality of service and beverages exceeded expectations.'"
+      },
+      {
+        "heading": "Digital and Professional Communication Registers",
+        "content": "<strong>Email register</strong> varies significantly based on recipient and purpose, from highly formal client correspondence to casual team communication. Professional emails typically avoid emoticons, excessive exclamation marks, and internet abbreviations (LOL, BTW, FYI in informal contexts only), while maintaining polite conventions like greetings and sign-offs. <strong>Social media register</strong> permits incomplete sentences, hashtags, and emojis but still requires appropriateness to platform and audience—LinkedIn posts differ markedly from Twitter threads. Understanding these <strong>digital register norms</strong> is crucial for localization work involving websites, apps, and social media content.",
+        "example": "To supervisor: 'Dear Dr. Martinez, I hope this message finds you well. I am writing to request an extension on the project deadline due to unforeseen circumstances. Would it be possible to submit the work by Friday instead? Thank you for your consideration.' To teammate: 'Hey! Any chance I could get until Friday on this? Running behind with some stuff. Let me know! 🙏'"
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises help you build confidence with register awareness. Try each one and see how it feels.",
+    "activities": [
+      {
+        "type": "identification",
+        "prompt": "Identify the register: 'Gonna grab lunch, wanna come?'",
+        "answer": "Informal/casual",
+        "explanation": "Contractions ('gonna', 'wanna'), fragmented structure, and casual vocabulary signal informal spoken register"
+      },
+      {
+        "type": "choice",
+        "prompt": "Which is more formal: 'Please find attached' or 'I've attached'?",
+        "answer": "Please find attached",
+        "explanation": "'Please find attached' is a formal business convention; 'I've attached' is more conversational"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "Make this more formal: 'We need to figure out why sales went down.'",
+        "answer": "It is necessary to determine the factors contributing to the decline in sales.",
+        "explanation": "Replaced phrasal verb ('figure out' → 'determine'), used impersonal construction, eliminated contraction, added nominalization ('decline')"
+      },
+      {
+        "type": "identification",
+        "prompt": "What register feature makes this formal? 'The findings suggest that further investigation is warranted.'",
+        "answer": "Hedging language and impersonal construction",
+        "explanation": "'Suggest' and 'is warranted' (passive) create academic hedging rather than direct assertion"
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "These exercises develop your awareness of register variation. Take your time with each one.",
+    "items": [
+      {
+        "question": "Which sentence is most appropriate for an academic paper?",
+        "options": [
+          "The study looked into how kids learn languages.",
+          "The research investigated language acquisition in children.",
+          "We checked out how children pick up languages.",
+          "The study figured out stuff about how kids get languages."
+        ],
+        "correct": "The research investigated language acquisition in children.",
+        "explanation": "Uses formal vocabulary ('investigated', 'acquisition'), avoids phrasal verbs, and maintains academic tone"
+      },
+      {
+        "question": "Which version is appropriate for a professional email to a client?",
+        "options": [
+          "Hey! Just wanted to let u know the project's done :)",
+          "Hi there, the project is finished now.",
+          "Dear Ms. Johnson, I am pleased to inform you that the project has been completed.",
+          "Yo, we're done with the project!"
+        ],
+        "correct": "Dear Ms. Johnson, I am pleased to inform you that the project has been completed.",
+        "explanation": "Includes formal greeting, professional tone, complete sentence, and appropriate closing sentiment"
+      },
+      {
+        "question": "Identify the register mismatch: 'The defendant was observed to exit the premises. Then he just took off running.'",
+        "options": [
+          "Both sentences are equally formal",
+          "Both sentences are equally informal",
+          "The second sentence is too informal for the context",
+          "The first sentence is too informal for the context"
+        ],
+        "correct": "The second sentence is too informal for the context",
+        "explanation": "The legal/formal context established in sentence one makes the informal phrasal verb 'took off' jarring"
+      },
+      {
+        "question": "Which feature marks this as informal? 'Can't believe they cancelled the concert. So disappointed.'",
+        "options": [
+          "Use of passive voice",
+          "Sentence fragments and contraction",
+          "Complex subordination",
+          "Latinate vocabulary"
+        ],
+        "correct": "Sentence fragments and contraction",
+        "explanation": "Contractions and incomplete sentences (missing subject in second sentence) signal informal register"
+      },
+      {
+        "question": "What makes this formal? 'It is recommended that participants arrive 15 minutes prior to the scheduled start time.'",
+        "options": [
+          "Use of contractions",
+          "First person perspective",
+          "Impersonal construction and formal time reference",
+          "Casual vocabulary"
+        ],
+        "correct": "Impersonal construction and formal time reference",
+        "explanation": "'It is recommended' (passive/impersonal) and 'prior to' (formal) rather than 'before' establish formality"
+      },
+      {
+        "question": "Choose the most appropriate opening for a cover letter:",
+        "options": [
+          "Hey, I saw your job posting and I'm totally interested!",
+          "Hi there, I'd like to apply for the position you advertised.",
+          "Dear Hiring Manager, I am writing to express my interest in the Marketing Coordinator position.",
+          "What's up? I want to apply for the job."
+        ],
+        "correct": "Dear Hiring Manager, I am writing to express my interest in the Marketing Coordinator position.",
+        "explanation": "Formal greeting, professional tone, specific position reference, and appropriate level of formality for job application"
+      },
+      {
+        "question": "Which sentence uses appropriate academic hedging?",
+        "options": [
+          "This totally proves that the theory is wrong.",
+          "The data suggests that the hypothesis may require revision.",
+          "Obviously, the theory doesn't work.",
+          "I think the theory is probably not right."
+        ],
+        "correct": "The data suggests that the hypothesis may require revision.",
+        "explanation": "Uses hedging words ('suggests', 'may') and formal construction appropriate to academic uncertainty"
+      },
+      {
+        "question": "What register would be appropriate for a company blog post promoting a product?",
+        "options": [
+          "Highly formal academic",
+          "Very informal slang-heavy",
+          "Neutral-to-casual professional",
+          "Legal document formality"
+        ],
+        "correct": "Neutral-to-casual professional",
+        "explanation": "Company blogs typically balance professionalism with approachability, avoiding extremes of formality or informality"
+      },
+      {
+        "question": "Identify the formal alternative to: 'We need to put off the meeting because something came up.'",
+        "options": [
+          "We gotta reschedule the meeting cause stuff happened.",
+          "We must postpone the meeting due to unforeseen circumstances.",
+          "We hafta move the meeting since things came up.",
+          "We should probably push back the meeting because of some issues."
+        ],
+        "correct": "We must postpone the meeting due to unforeseen circumstances.",
+        "explanation": "Replaces phrasal verbs ('put off' → 'postpone', 'came up' → 'unforeseen circumstances') with formal alternatives"
+      },
+      {
+        "question": "Which is most appropriate for a text message to a classmate about a group project?",
+        "options": [
+          "Dear Colleague, I am writing to inquire whether you have completed your assigned portion of our collaborative assignment.",
+          "Hey! Did you finish your part yet? Let me know!",
+          "It is requested that you provide an update on the status of your contributions.",
+          "Greetings. Please confirm completion of your section at your earliest convenience."
+        ],
+        "correct": "Hey! Did you finish your part yet? Let me know!",
+        "explanation": "Casual greeting, contractions, direct question, and friendly tone are appropriate for peer text communication"
+      },
+      {
+        "question": "What makes this sentence overly informal for a business report? 'Basically, sales kinda went down a lot last quarter.'",
+        "options": [
+          "Use of specific numbers",
+          "Vague qualifiers ('basically', 'kinda', 'a lot') and casual vocabulary",
+          "Mention of sales figures",
+          "Reference to time period"
+        ],
+        "correct": "Vague qualifiers ('basically', 'kinda', 'a lot') and casual vocabulary",
+        "explanation": "Business reports require precise language and formal vocabulary; hedge words like 'kinda' and 'basically' undermine credibility"
+      },
+      {
+        "question": "Which opening is appropriate for a LinkedIn post about a professional achievement?",
+        "options": [
+          "OMG you guys!!! I got promoted!!!!! 🎉🎉🎉",
+          "I am pleased to announce that I have been promoted to Senior Analyst.",
+          "It has come to my attention that my professional status has been elevated.",
+          "yo just got promoted lol"
+        ],
+        "correct": "I am pleased to announce that I have been promoted to Senior Analyst.",
+        "explanation": "Professional but personable tone, clear announcement, appropriate formality for LinkedIn professional context"
+      },
+      {
+        "question": "Identify the appropriate register for a university assignment submission email to your professor:",
+        "options": [
+          "Hey Prof! Attached is my paper. Hope it's good!",
+          "Dear Professor Martinez, Please find attached my completed assignment. Thank you for your guidance this semester.",
+          "Yo, here's the assignment you wanted.",
+          "Hi! I'm sending you my paper that I wrote for class."
+        ],
+        "correct": "Dear Professor Martinez, Please find attached my completed assignment. Thank you for your guidance this semester.",
+        "explanation": "Formal greeting with title, professional language ('Please find attached'), gratitude, and appropriate closing"
+      },
+      {
+        "question": "What makes this appropriate for a casual friend's birthday card? 'Hope your day is absolutely amazing! Can't wait to celebrate with you! 🎂'",
+        "options": [
+          "Uses complex subordination",
+          "Employs legal terminology",
+          "Uses contractions, exclamation marks, and emoji for warmth",
+          "Maintains impersonal academic tone"
+        ],
+        "correct": "Uses contractions, exclamation marks, and emoji for warmth",
+        "explanation": "Informal features (contractions, emoji, enthusiasm) create appropriate warmth for personal celebratory context"
+      },
+      {
+        "question": "Which revision makes this more suitable for a formal research abstract? 'We looked at a bunch of studies and found out that exercise is really good for mental health.'",
+        "options": [
+          "We checked out lots of studies and figured out exercise helps mental health.",
+          "This review analyzed existing literature and determined that physical activity contributes significantly to psychological well-being.",
+          "We totally examined studies and discovered exercise is awesome for mental health.",
+          "Looking at studies, we found exercise helps with feeling better mentally."
+        ],
+        "correct": "This review analyzed existing literature and determined that physical activity contributes significantly to psychological well-being.",
+        "explanation": "Replaces informal phrases with academic vocabulary, eliminates phrasal verbs, uses precise terminology, maintains formal structure"
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Test your understanding of register and style variation. Three questions appear at a time—get all three correct to pass! Remember to take a screenshot of your passing score to submit with your assignment.",
+    "questions": [
+      {
+        "question": "Which sentence demonstrates appropriate formality for a legal contract?",
+        "options": [
+          "The parties gotta follow all the rules laid out here.",
+          "Both parties must comply with the terms specified herein.",
+          "The people involved need to do what it says in this document.",
+          "Everyone has to stick to what we've written down."
+        ],
+        "correct": "Both parties must comply with the terms specified herein.",
+        "explanation": "Uses legal register features: formal vocabulary ('comply', 'specified'), legal term ('herein'), no contractions"
+      },
+      {
+        "question": "What is the primary register issue in this job application email? 'Hey, I really wanna work for your company cause it seems cool. Hit me up if ur interested!'",
+        "options": [
+          "It's too formal for the context",
+          "It uses multiple informal features inappropriate for professional communication",
+          "It's perfectly appropriate for job applications",
+          "It needs more technical jargon"
+        ],
+        "correct": "It uses multiple informal features inappropriate for professional communication",
+        "explanation": "Contains casual greeting ('Hey'), contractions ('wanna', 'ur'), slang ('cool', 'hit me up'), inappropriate for job application"
+      },
+      {
+        "question": "Choose the most appropriate register for a customer service response to a complaint:",
+        "options": [
+          "Dude, my bad about that. We'll fix it ASAP.",
+          "Dear Valued Customer, We sincerely apologize for the inconvenience and will resolve this matter promptly.",
+          "Hey there! So sorry about the mix-up! We're on it!",
+          "We have received notification of your concern and shall endeavor to rectify the situation post-haste."
+        ],
+        "correct": "Dear Valued Customer, We sincerely apologize for the inconvenience and will resolve this matter promptly.",
+        "explanation": "Balances professionalism with empathy, uses formal apology structure appropriate for business-to-customer communication"
+      },
+      {
+        "question": "Identify the register feature that makes this sentence academic: 'The phenomenon warrants further investigation, as the results indicate potential implications for future research.'",
+        "options": [
+          "Use of slang and colloquialisms",
+          "Complex sentence structure with hedging language and formal vocabulary",
+          "Extensive use of contractions",
+          "Conversational tone with simple words"
+        ],
+        "correct": "Complex sentence structure with hedging language and formal vocabulary",
+        "explanation": "Features formal academic markers: nominalization ('phenomenon'), hedging ('potential implications'), subordinate clause"
+      },
+      {
+        "question": "Which version is appropriate for a team Slack message about rescheduling a meeting?",
+        "options": [
+          "It is hereby requested that all team members note the rescheduled meeting time.",
+          "Hey team! Meeting's moved to 2pm tomorrow. Cool?",
+          "Dear Colleagues, Please be advised that our scheduled meeting has been rescheduled.",
+          "Attention: The aforementioned meeting shall convene at the revised time."
+        ],
+        "correct": "Hey team! Meeting's moved to 2pm tomorrow. Cool?",
+        "explanation": "Casual, direct, and friendly tone appropriate for internal team chat platform communication"
+      },
+      {
+        "question": "What makes this too informal for a business proposal? 'We think we can do this project for way less money than the other guys and get it done super fast.'",
+        "options": [
+          "It mentions cost and timeline",
+          "It uses vague language ('way less', 'super fast'), casual phrasing ('the other guys'), and lacks specificity",
+          "It's actually perfectly appropriate",
+          "It uses too many numbers"
+        ],
+        "correct": "It uses vague language ('way less', 'super fast'), casual phrasing ('the other guys'), and lacks specificity",
+        "explanation": "Business proposals require precise figures and formal language; vague qualifiers and casual terms undermine professionalism"
+      },
+      {
+        "question": "Choose the appropriate register for a thank-you note to a job interviewer:",
+        "options": [
+          "Thanks so much for chatting with me! Hope to hear from you soon!",
+          "Dear Ms. Chen, Thank you for taking the time to meet with me. I appreciate the opportunity to learn more about the position.",
+          "Hey! Great meeting you today! Let me know what you decide!",
+          "I am writing to express my profound gratitude for the interview opportunity afforded to me."
+        ],
+        "correct": "Dear Ms. Chen, Thank you for taking the time to meet with me. I appreciate the opportunity to learn more about the position.",
+        "explanation": "Balances professionalism with warmth, uses formal greeting, expresses genuine appreciation appropriately"
+      },
+      {
+        "question": "Identify the formal alternative to 'check out' in this sentence: 'Researchers should check out previous studies before starting their own.'",
+        "options": [
+          "look into",
+          "examine / review",
+          "scope out",
+          "take a look at"
+        ],
+        "correct": "examine / review",
+        "explanation": "Single-word verbs like 'examine' or 'review' are more formal than phrasal verbs like 'check out'"
+      },
+      {
+        "question": "What register is most appropriate for a company's 'About Us' website page?",
+        "options": [
+          "Highly formal legal language",
+          "Very casual with slang and abbreviations",
+          "Professional but accessible, neutral register",
+          "Academic with complex terminology"
+        ],
+        "correct": "Professional but accessible, neutral register",
+        "explanation": "'About Us' pages should be professional yet welcoming, avoiding excessive formality or informality"
+      },
+      {
+        "question": "Which sentence maintains appropriate academic objectivity?",
+        "options": [
+          "I totally think this theory is the best explanation.",
+          "This theory provides the most compelling explanation for the observed phenomena.",
+          "Obviously, this theory is way better than the others.",
+          "In my opinion, this theory is probably right."
+        ],
+        "correct": "This theory provides the most compelling explanation for the observed phenomena.",
+        "explanation": "Avoids first person, uses formal vocabulary, maintains objectivity without overstating certainty"
+      },
+      {
+        "question": "What makes this sentence appropriate for a personal blog post? 'So I tried making sourdough for the first time. And let me tell you—total disaster. But also? Kinda fun.'",
+        "options": [
+          "Uses impersonal academic language",
+          "Employs conversational features: fragments, first person, informal transitions",
+          "Maintains business formality throughout",
+          "Uses legal terminology"
+        ],
+        "correct": "Employs conversational features: fragments, first person, informal transitions",
+        "explanation": "Personal blogs allow conversational tone, sentence fragments, first person narrative, and casual language"
+      },
+      {
+        "question": "Choose the most formal way to express disagreement in an academic paper:",
+        "options": [
+          "Smith's theory is totally wrong.",
+          "I don't think Smith's theory makes sense.",
+          "Smith's theory is obviously flawed.",
+          "Smith's conclusions may require reconsideration in light of recent evidence."
+        ],
+        "correct": "Smith's conclusions may require reconsideration in light of recent evidence.",
+        "explanation": "Uses hedging ('may'), formal vocabulary, and evidence-based reasoning rather than direct criticism"
+      },
+      {
+        "question": "Identify the appropriate register for responding to a frustrated customer on social media:",
+        "options": [
+          "We have received your correspondence and will respond in due course.",
+          "So sorry you're having trouble! We're looking into this now. Please DM us your order number so we can help!",
+          "Dude, chill out. We'll get to it when we can.",
+          "Your complaint has been noted and will be addressed according to company protocol."
+        ],
+        "correct": "So sorry you're having trouble! We're looking into this now. Please DM us your order number so we can help!",
+        "explanation": "Balances empathy with professionalism, uses platform-appropriate language (DM), maintains helpful tone"
+      },
+      {
+        "question": "What makes this sentence too formal for a casual email to a coworker you're friends with? 'I am writing to inquire whether you would be available to accompany me to lunch at approximately 12:30 this afternoon.'",
+        "options": [
+          "It mentions a specific time",
+          "It's actually perfect for the context",
+          "It uses overly formal constructions and vocabulary inappropriate for casual peer communication",
+          "It suggests having lunch together"
+        ],
+        "correct": "It uses overly formal constructions and vocabulary inappropriate for casual peer communication",
+        "explanation": "Formal phrases ('I am writing to inquire', 'accompany me', 'approximately') create unnecessary distance in friendly context"
+      },
+      {
+        "question": "Which feature indicates this is written in a neutral register? 'The company announced plans to expand operations to three new markets next quarter.'",
+        "options": [
+          "Extensive use of slang",
+          "Very casual phrasal verbs",
+          "Clear, professional language without excessive formality or informality",
+          "Complex academic hedging"
+        ],
+        "correct": "Clear, professional language without excessive formality or informality",
+        "explanation": "Neutral register uses standard vocabulary, clear structure, no contractions, but avoids excessive formality"
+      },
+      {
+        "question": "Choose the most appropriate closing for a formal email to a potential client:",
+        "options": [
+          "Cheers!",
+          "Talk soon!",
+          "Sincerely, [Your name]",
+          "Later!"
+        ],
+        "correct": "Sincerely, [Your name]",
+        "explanation": "'Sincerely' is a standard formal closing; others are too casual for initial professional client communication"
+      },
+      {
+        "question": "What register issue appears in this academic writing? 'The participants were pretty stressed out about the experiment, so a bunch of them dropped out.'",
+        "options": [
+          "It's perfectly appropriate for academic writing",
+          "Uses informal quantifiers ('pretty', 'a bunch') and phrasal verb ('dropped out') inappropriate for formal academic prose",
+          "It needs more complex sentences",
+          "It should use first person"
+        ],
+        "correct": "Uses informal quantifiers ('pretty', 'a bunch') and phrasal verb ('dropped out') inappropriate for formal academic prose",
+        "explanation": "Academic writing requires precise language ('considerably stressed', 'several participants withdrew') instead of casual expressions"
+      },
+      {
+        "question": "Identify the appropriate register for an Instagram post from a professional photographer showcasing their work:",
+        "options": [
+          "Pursuant to my recent photographic endeavors, I hereby present the following images.",
+          "Had an amazing shoot yesterday! So happy with how these turned out 📸✨",
+          "Please be advised that new portfolio images are now available for viewing.",
+          "The undersigned photographer wishes to share recent professional output."
+        ],
+        "correct": "Had an amazing shoot yesterday! So happy with how these turned out 📸✨",
+        "explanation": "Social media allows personal enthusiasm, contractions, emojis while maintaining professionalism about work"
+      },
+      {
+        "question": "What makes this appropriate for a text message to your professor? 'Hi Prof. Martinez! Quick question about tomorrow's assignment. Could I stop by your office hours today?'",
+        "options": [
+          "It's too informal—should be more formal",
+          "It's too formal—should be more casual",
+          "It balances respect (title, polite question) with appropriateness for text medium (brief, friendly)",
+          "It needs more emoji and abbreviations"
+        ],
+        "correct": "It balances respect (title, polite question) with appropriateness for text medium (brief, friendly)",
+        "explanation": "Maintains respect through title and polite phrasing while adapting to text message brevity; appropriate for established student-professor relationship"
+      },
+      {
+        "question": "Choose the best revision to make this formal enough for a conference presentation abstract: 'We're gonna talk about how social media messes with people's mental health and show some cool new research.'",
+        "options": [
+          "We're going to discuss how social media impacts mental health and present interesting new research.",
+          "This presentation examines the effects of social media on mental health and presents recent research findings.",
+          "We'll chat about social media's impact on mental health and share some neat studies.",
+          "The presentation will look into social media and mental health stuff."
+        ],
+        "correct": "This presentation examines the effects of social media on mental health and presents recent research findings.",
+        "explanation": "Eliminates contractions, replaces informal phrases ('gonna talk about', 'cool') with formal academic vocabulary ('examines', 'findings')"
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Register & Style Analysis Project",
+    "instructions": "Complete ONE of the following activities. Choose the option that best aligns with your interests and helps you develop practical skills in register awareness. After submission, you'll peer review two classmates' assignments using the criteria provided.",
+    "options": [
+      {
+        "title": "Multi-Register Translation",
+        "prompt": "Select a Spanish text of approximately 200 words (news article, blog post, or official document). Translate it into English THREE times, each targeting a different register: (1) highly formal (as if for an academic journal or legal document), (2) neutral professional (as if for a business report or mainstream news outlet), and (3) informal conversational (as if for a personal blog or social media post). Write a 200-word analysis explaining your register choices: what specific vocabulary, grammatical structures, and discourse features you changed in each version and why those changes were necessary to match the target register.",
+        "deliverable": "Original Spanish text + three English translations + 200-word analysis (approximately 800 words total)"
+      },
+      {
+        "title": "Same Message, Different Audiences",
+        "prompt": "Choose a single message to communicate: announcing a project delay, sharing good news about a promotion, explaining a complex concept, or requesting help with something. Write this message FOUR different ways for four different audiences and contexts: (1) formal email to a supervisor or client, (2) professional email to a colleague, (3) casual text message to a friend, and (4) social media post (specify platform: LinkedIn, Instagram, Twitter, etc.). Each version should be 75-100 words. Write a 150-word reflection analyzing how you adjusted vocabulary, grammar, tone, and discourse features for each context.",
+        "deliverable": "Four versions of the message + 150-word reflection (approximately 500 words total)"
+      },
+      {
+        "title": "Register Mismatch Analysis",
+        "prompt": "Find THREE real-world examples of register mismatches—texts where the language doesn't match the context (overly formal where casualness is expected, inappropriately informal for serious contexts, or stilted when naturalness is needed). Sources can include: emails, websites, social media, student writing, automated translations, or public signage. For each example, (1) identify the context and intended audience, (2) explain specifically what features create the register mismatch (150 words per example), and (3) provide a revised version that corrects the register issue. Include screenshots or typed copies of the original texts.",
+        "deliverable": "Three examples with originals + analysis for each + revisions (approximately 600 words total)"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria. Provide thoughtful, specific feedback that helps your peers develop their register awareness.",
+      "criteria": [
+        "Register features (vocabulary, grammar, discourse markers) are accurately identified and appropriately applied",
+        "Explanations demonstrate clear understanding of how register varies by context and audience",
+        "Examples or translations show practical application of register concepts",
+        "Analysis is specific and detailed, not vague or general"
+      ],
+      "format": "For each assignment, provide: (1) Two specific strengths in their register analysis or application, (2) One area where register could be adjusted or analysis deepened, (3) One question to extend their thinking about register variation"
+    }
+  },
+  "conclusion": {
+    "message": "Congratulations on completing Week 14! You've developed sophisticated awareness of how English varies across contexts—an essential skill for translators who must not only convey meaning but also match the expectations and conventions of different communicative situations.",
+    "takeaways": [
+      "Register exists on a spectrum from highly formal to very informal, with most communication falling in neutral territory",
+      "Key markers of formality include vocabulary choice (Latinate vs. phrasal verbs), sentence complexity, personal reference, and contraction use",
+      "Different contexts have different register expectations: academic writing requires formality and hedging, professional emails balance respect with clarity, social media permits informality while maintaining appropriateness",
+      "Register mismatches undermine credibility—overly formal language can seem distant or pretentious, while inappropriate informality can appear unprofessional or disrespectful",
+      "Effective translators and communicators adjust register consciously based on audience, purpose, and medium"
+    ],
+    "furtherPractice": [
+      "Analyze the register of emails you receive—what features signal formality or informality?",
+      "Practice rewriting the same sentence in three different registers (formal, neutral, informal)",
+      "Compare how the same news story is covered in different publications with different audiences",
+      "Review your own writing (papers, emails, texts) and identify register choices you've made—are they appropriate to context?",
+      "Pay attention to register in movies, TV shows, or podcasts—how do characters adjust language based on who they're talking to?",
+      "Create a personal reference list of formal alternatives to common phrasal verbs you use"
+    ]
+  }
+}
