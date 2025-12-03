@@ -1,0 +1,400 @@
+{
+  "week": 6,
+  "title": "Subject-Verb Agreement",
+  "breadcrumb": "Week 6: Subject-Verb Agreement",
+  "introduction": {
+    "overview": "Subject-verb agreement might seem straightforward, but news writing presents sophisticated challenges that can trip up even advanced English users. This week, we'll tackle complex agreement situations involving collective nouns, indefinite pronouns, inverted structures, and compound subjects—all common features in journalistic and formal writing. Mastering these patterns will sharpen your ability to produce and evaluate professional English texts.",
+    "objectives": [
+      "Apply agreement rules for collective nouns in both British and American English contexts",
+      "Correctly use singular or plural verbs with indefinite pronouns and quantifiers",
+      "Identify and correct agreement errors in inverted sentence structures common in news leads",
+      "Navigate agreement challenges with compound subjects, including those joined by 'or' and 'nor'"
+    ]
+  },
+  "lecture": {
+    "sections": [
+      {
+        "heading": "Collective Nouns: Unity vs. Individuality",
+        "content": "<strong>Collective nouns</strong> (team, government, committee, audience, public) refer to groups and present a classic agreement challenge. In <strong>American English</strong>, they typically take singular verbs when emphasizing the group as a unit, while <strong>British English</strong> often uses plural verbs when focusing on individual members. The key is consistency and context—news about unified action uses singular verbs, while news about internal disagreement or individual actions uses plural verbs.",
+        "example": "<strong>American style:</strong> \"The committee has approved the budget proposal.\"<br><strong>British style:</strong> \"The government have failed to reach consensus on the issue.\"<br><strong>Context matters:</strong> \"The team is celebrating its victory\" (unified action) vs. \"The team are arguing among themselves\" (individual actions)"
+      },
+      {
+        "heading": "Indefinite Pronouns and Quantifiers",
+        "content": "<strong>Indefinite pronouns</strong> like everyone, someone, anybody, nobody, and each always take singular verbs, even when they seem to refer to multiple people. <strong>Quantifiers</strong> follow different patterns: 'all,' 'some,' 'most,' and 'none' can be singular or plural depending on what they refer to. Words like 'a number of' take plural verbs, while 'the number of' takes singular verbs—a subtle distinction that affects news writing about statistics and data.",
+        "example": "<strong>Always singular:</strong> \"Everyone in the affected regions is eligible for aid.\"<br><strong>Depends on context:</strong> \"Some of the evidence was destroyed\" (evidence = uncountable) vs. \"Some of the documents were destroyed\" (documents = countable)<br><strong>Number expressions:</strong> \"A number of protestors have gathered\" vs. \"The number of protestors has increased\""
+      },
+      {
+        "heading": "Inverted Structures in News Writing",
+        "content": "News leads often use <strong>inverted word order</strong>, placing the verb before the subject for emphasis or stylistic effect. This inversion can obscure the true subject, leading to agreement errors. Sentences beginning with <strong>'there' or 'here'</strong> are common culprits, as are sentences starting with prepositional phrases or adverbials. The key is identifying the actual subject—look past opening phrases to find the noun that performs the action.",
+        "example": "<strong>There/Here inversions:</strong> \"There remains several unanswered questions\" (incorrect) → \"There remain several unanswered questions\" (correct—'questions' is the subject)<br><strong>Prepositional phrase openings:</strong> \"Among the topics discussed were climate policy\" (correct—'topics' is the subject)<br><strong>News lead style:</strong> \"Following the announcement comes new regulations\" (incorrect) → \"Following the announcement come new regulations\" (correct)"
+      },
+      {
+        "heading": "Compound Subjects: And, Or, Nor",
+        "content": "<strong>Compound subjects</strong> joined by 'and' typically require plural verbs, but there are exceptions when the compound forms a single concept. Subjects joined by <strong>'or' or 'nor'</strong> follow the proximity rule: the verb agrees with the subject closest to it. This construction is common in news writing when presenting alternatives or describing multiple actors. Special attention is needed when one subject is singular and one plural.",
+        "example": "<strong>And (usually plural):</strong> \"The president and vice president have issued a joint statement.\"<br><strong>And (single concept):</strong> \"Law and order remains the campaign's central theme.\"<br><strong>Or/Nor (proximity rule):</strong> \"Neither the senator nor her aides were available for comment.\" \"Neither the aides nor the senator was available for comment.\""
+      }
+    ]
+  },
+  "giveItATry": {
+    "instructions": "These quick exercises will help you practice identifying correct subject-verb agreement. Type your answers and check them as you go!",
+    "activities": [
+      {
+        "prompt": "Choose the correct verb form: The data (show/shows) a significant increase in unemployment.",
+        "answer": "show",
+        "hint": "Think about whether 'data' is being used as singular or plural here.",
+        "explanation": "'Data' is the plural of 'datum' and takes a plural verb in most modern usage, especially in news and scientific contexts. 'The data show' is correct."
+      },
+      {
+        "prompt": "Identify the subject and choose the correct verb: Behind the statistics (lie/lies) the stories of real families.",
+        "answer": "lie",
+        "hint": "Don't be distracted by the prepositional phrase at the beginning.",
+        "explanation": "The subject is 'stories' (plural), not 'statistics.' The inverted structure places the prepositional phrase first, but the verb must agree with 'stories': 'lie' is correct."
+      },
+      {
+        "prompt": "Fix this sentence: Neither the witnesses nor the suspect were willing to testify.",
+        "answer": "was",
+        "hint": "Remember the proximity rule for 'neither...nor.'",
+        "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. 'Suspect' (singular) is closest to the verb, so it should be 'was willing to testify.'"
+      },
+      {
+        "prompt": "Choose the correct verb form: Each of the candidates (has/have) proposed different solutions to the crisis.",
+        "answer": "has",
+        "hint": "'Each' is always singular, even when followed by 'of the [plural noun].'",
+        "explanation": "'Each' is a singular indefinite pronoun and always takes a singular verb, regardless of the plural noun in the prepositional phrase. 'Each...has proposed' is correct."
+      }
+    ]
+  },
+  "exercises": {
+    "instructions": "Select the best answer for each question. You'll receive immediate feedback on your choices.",
+    "items": [
+      {
+        "question": "Which sentence demonstrates correct subject-verb agreement?",
+        "options": [
+          "The jury have reached a unanimous verdict after six hours of deliberation.",
+          "The jury has reached a unanimous verdict after six hours of deliberation.",
+          "The jury were reaching a unanimous verdict after six hours of deliberation.",
+          "The jury are reached a unanimous verdict after six hours of deliberation."
+        ],
+        "correct": "The jury has reached a unanimous verdict after six hours of deliberation.",
+        "explanation": "In American English, collective nouns like 'jury' typically take singular verbs when acting as a unified group. The jury acted together to reach one verdict, so 'has reached' is correct."
+      },
+      {
+        "question": "Identify the correct verb form: Either the mayor or the city council members _____ expected to address the protesters today.",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "being"
+        ],
+        "correct": "are",
+        "explanation": "With 'either...or,' the verb agrees with the nearest subject. 'Council members' (plural) is closest to the verb, so 'are expected' is correct."
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "A number of documents has been leaked to the press.",
+          "A number of documents have been leaked to the press.",
+          "The number of documents have been leaked to the press.",
+          "The number of leaked documents have surprised officials."
+        ],
+        "correct": "A number of documents have been leaked to the press.",
+        "explanation": "'A number of' takes a plural verb (focusing on the multiple items), while 'the number of' takes a singular verb (focusing on the quantity itself). Here, 'a number of documents have' is correct."
+      },
+      {
+        "question": "Choose the correct completion: There _____ several factors contributing to the economic downturn.",
+        "options": [
+          "is",
+          "was",
+          "has been",
+          "are"
+        ],
+        "correct": "are",
+        "explanation": "In 'there' constructions, the verb agrees with the subject that follows. 'Factors' is plural, so 'there are several factors' is correct."
+      },
+      {
+        "question": "Which sentence has correct subject-verb agreement?",
+        "options": [
+          "None of the evidence were admissible in court.",
+          "None of the evidence was admissible in court.",
+          "None of the evidence are admissible in court.",
+          "None of the evidence have been admissible in court."
+        ],
+        "correct": "None of the evidence was admissible in court.",
+        "explanation": "'None' can be singular or plural depending on context. With uncountable nouns like 'evidence,' it takes a singular verb. 'None of the evidence was' is correct."
+      },
+      {
+        "question": "Select the correct sentence:",
+        "options": [
+          "Everyone involved in the scandal have resigned from their positions.",
+          "Everyone involved in the scandal has resigned from their positions.",
+          "Everyone involved in the scandal are resigning from their positions.",
+          "Everyone involved in the scandal were resigned from their positions."
+        ],
+        "correct": "Everyone involved in the scandal has resigned from their positions.",
+        "explanation": "'Everyone' is a singular indefinite pronoun and always takes a singular verb. 'Everyone...has resigned' is correct. (Note: the plural 'their' is now accepted for singular gender-neutral reference.)"
+      },
+      {
+        "question": "Identify the correct verb form: Among the proposals discussed _____ a complete reform of the immigration system.",
+        "options": [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        "correct": "was",
+        "explanation": "This inverted sentence has 'a complete reform' (singular) as its subject. Don't be distracted by 'proposals' in the opening phrase. 'Among the proposals discussed was a complete reform' is correct."
+      },
+      {
+        "question": "Which sentence demonstrates correct agreement?",
+        "options": [
+          "The public are demanding answers about the government's response.",
+          "The public is demanding answers about the government's response.",
+          "Both are correct depending on whether you're using British or American English.",
+          "Neither is correct because 'public' cannot be used as a subject."
+        ],
+        "correct": "Both are correct depending on whether you're using British or American English.",
+        "explanation": "This is a genuine British/American difference. British English often uses plural verbs with collective nouns like 'public' (emphasizing individual members), while American English typically uses singular verbs (emphasizing the group as a unit). Both are standard in their respective dialects."
+      },
+      {
+        "question": "Choose the correct completion: Neither the report nor the subsequent investigations _____ uncovered any evidence of wrongdoing.",
+        "options": [
+          "has",
+          "have",
+          "was",
+          "is"
+        ],
+        "correct": "have",
+        "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. 'Investigations' (plural) is closest, so 'have uncovered' is correct."
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "The number of cases have risen sharply in recent weeks.",
+          "The number of cases has risen sharply in recent weeks.",
+          "A number of cases has risen sharply in recent weeks.",
+          "The number of recent cases have been rising sharply."
+        ],
+        "correct": "The number of cases has risen sharply in recent weeks.",
+        "explanation": "'The number of' takes a singular verb because the focus is on the singular concept of 'number' itself. 'The number...has risen' is correct."
+      }
+    ]
+  },
+  "quiz": {
+    "instructions": "Complete this 3-question quiz to check your understanding. You need all answers correct to pass. Remember to take a screenshot of your results before moving on!",
+    "questions": [
+      {
+        "question": "Select the sentence with correct subject-verb agreement:",
+        "options": [
+          "Each of the journalists have their own sources within the administration.",
+          "Each of the journalists has their own sources within the administration.",
+          "Each of the journalists are having their own sources within the administration.",
+          "Each of the journalists have been having their own sources within the administration."
+        ],
+        "correct": "Each of the journalists has their own sources within the administration.",
+        "explanation": "'Each' is always singular, requiring 'has.' The plural 'their' is now standard for gender-neutral singular reference."
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "Physics are the foundation of modern technology, according to the report.",
+          "Physics is the foundation of modern technology, according to the report.",
+          "Physics have been the foundation of modern technology, according to the report.",
+          "Physics were the foundation of modern technology, according to the report."
+        ],
+        "correct": "Physics is the foundation of modern technology, according to the report.",
+        "explanation": "Despite ending in '-s,' 'physics' is singular (like mathematics, economics, news). It takes a singular verb: 'physics is.'"
+      },
+      {
+        "question": "Choose the correct completion: The committee _____ split on whether to approve the controversial measure.",
+        "options": [
+          "is",
+          "are",
+          "was being",
+          "have been"
+        ],
+        "correct": "are",
+        "explanation": "When a collective noun refers to members acting individually (split, divided, disagreeing), it takes a plural verb in both American and British English. 'The committee are split' correctly emphasizes the division among individual members."
+      },
+      {
+        "question": "Identify the correct verb: There _____ been numerous complaints about the proposed policy changes.",
+        "options": [
+          "has",
+          "have",
+          "is",
+          "was"
+        ],
+        "correct": "have",
+        "explanation": "The subject is 'complaints' (plural), which follows the verb in this inverted structure. 'There have been numerous complaints' is correct."
+      },
+      {
+        "question": "Which sentence demonstrates proper agreement?",
+        "options": [
+          "Some of the information were classified as top secret.",
+          "Some of the information was classified as top secret.",
+          "Some of the information are classified as top secret.",
+          "Some of the information have been classified as top secret."
+        ],
+        "correct": "Some of the information was classified as top secret.",
+        "explanation": "'Information' is an uncountable noun, so 'some of the information' takes a singular verb. 'Some of the information was' is correct."
+      },
+      {
+        "question": "Select the correct sentence:",
+        "options": [
+          "Neither the protesters nor the police was expecting the mayor's surprise announcement.",
+          "Neither the protesters nor the police were expecting the mayor's surprise announcement.",
+          "Neither the protesters nor the police are expecting the mayor's surprise announcement.",
+          "Neither the protesters nor the police has been expecting the mayor's surprise announcement."
+        ],
+        "correct": "Neither the protesters nor the police were expecting the mayor's surprise announcement.",
+        "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. 'Police' (treated as plural) is nearest, and the past tense context requires 'were expecting.'"
+      },
+      {
+        "question": "Choose the correct verb form: Economics _____ played a decisive role in the election outcome.",
+        "options": [
+          "have",
+          "has",
+          "are",
+          "were"
+        ],
+        "correct": "has",
+        "explanation": "When referring to the discipline or field, 'economics' is singular and takes 'has.' (When referring to financial aspects as separate factors, it could be plural, but that's less common.)"
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "A series of scandals have damaged the governor's reputation.",
+          "A series of scandals has damaged the governor's reputation.",
+          "A series of scandals are damaging the governor's reputation.",
+          "A series of scandals were damaged the governor's reputation."
+        ],
+        "correct": "A series of scandals has damaged the governor's reputation.",
+        "explanation": "Despite referring to multiple scandals, 'a series' is singular (like 'a group,' 'a collection'). The verb agrees with 'series,' not 'scandals': 'a series...has damaged' is correct."
+      },
+      {
+        "question": "Identify the correct completion: Every reporter and photographer _____ required to show press credentials.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "correct": "is",
+        "explanation": "When 'every' modifies compound subjects, it emphasizes each individual separately, requiring a singular verb. 'Every reporter and photographer is' is correct."
+      },
+      {
+        "question": "Select the sentence with proper agreement:",
+        "options": [
+          "None of the senators was willing to comment on the allegations.",
+          "None of the senators were willing to comment on the allegations.",
+          "Both are acceptable in modern English.",
+          "Neither is correct."
+        ],
+        "correct": "Both are acceptable in modern English.",
+        "explanation": "With countable plural nouns, 'none' can take either singular or plural verbs in modern English. 'None of the senators was' (emphasizing not one) and 'none of the senators were' (emphasizing not any) are both acceptable, though plural is more common in contemporary usage."
+      },
+      {
+        "question": "Choose the correct verb: Among the documents leaked to journalists _____ confidential emails between cabinet members.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "has been"
+        ],
+        "correct": "were",
+        "explanation": "In this inverted structure, 'emails' (plural) is the subject. The verb must agree: 'among the documents...were confidential emails' is correct."
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "Half of the population support the new legislation.",
+          "Half of the population supports the new legislation.",
+          "Both could be correct depending on context.",
+          "Neither is correct."
+        ],
+        "correct": "Both could be correct depending on context.",
+        "explanation": "Fractions and percentages can take singular or plural verbs depending on what they refer to. 'Half of the population' (as a collective unit) takes singular: 'supports.' If emphasizing individual people, plural is possible: 'support.' In American news writing, singular is more common with 'population.'"
+      },
+      {
+        "question": "Identify the correct sentence:",
+        "options": [
+          "The criteria for eligibility is clearly stated in the new policy.",
+          "The criteria for eligibility are clearly stated in the new policy.",
+          "The criteria for eligibility was clearly stated in the new policy.",
+          "The criteria for eligibility has been clearly stated in the new policy."
+        ],
+        "correct": "The criteria for eligibility are clearly stated in the new policy.",
+        "explanation": "'Criteria' is the plural of 'criterion' and always takes a plural verb. 'The criteria...are clearly stated' is correct."
+      },
+      {
+        "question": "Select the correct completion: Either the witnesses or the defendant _____ lying about the sequence of events.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "correct": "is",
+        "explanation": "With 'either...or,' the verb agrees with the nearest subject. 'Defendant' (singular) is nearest, so 'is lying' is correct."
+      },
+      {
+        "question": "Which sentence demonstrates correct agreement?",
+        "options": [
+          "Ten years are a long time to wait for justice.",
+          "Ten years is a long time to wait for justice.",
+          "Ten years have been a long time to wait for justice.",
+          "Ten years were a long time to wait for justice."
+        ],
+        "correct": "Ten years is a long time to wait for justice.",
+        "explanation": "When a period of time, amount of money, or distance is treated as a single unit, it takes a singular verb. 'Ten years' here represents one span of time, so 'ten years is' is correct."
+      }
+    ]
+  },
+  "assignment": {
+    "title": "Subject-Verb Agreement in Professional Writing",
+    "instructions": "Choose ONE of the following options to demonstrate your understanding of complex subject-verb agreement. Your work should be 300-500 words and show careful attention to the agreement challenges discussed this week. After completing your assignment, you'll review two classmates' submissions using the peer review criteria below.",
+    "options": [
+      {
+        "title": "Option A: News Article Analysis",
+        "prompt": "Find a recent news article from a major publication (New York Times, BBC, Reuters, etc.) and analyze how subject-verb agreement functions in complex sentences. Identify at least 5 examples of challenging agreement situations (collective nouns, indefinite pronouns, inverted structures, or compound subjects). For each example, explain why the writer chose that particular verb form and how it affects meaning. Include the article citation and the relevant sentences.",
+        "deliverable": "A structured analysis with article citation, 5 annotated examples, and explanations of each agreement choice (300-500 words total)"
+      },
+      {
+        "title": "Option B: News Report Writing",
+        "prompt": "Write a news report about a recent event of your choice, deliberately incorporating at least 8 complex subject-verb agreement situations we studied this week. Your report should include: at least 2 collective nouns, 2 indefinite pronouns or quantifiers, 2 inverted structures, and 2 compound subjects. After your report, include a brief commentary identifying where you used each type and explaining your agreement choices.",
+        "deliverable": "A 250-word news report followed by a 150-word commentary identifying and explaining your agreement choices"
+      },
+      {
+        "title": "Option C: Translation & Agreement Comparison",
+        "prompt": "Take a Spanish news article (from a Mexican publication like Reforma, El Universal, or La Jornada) and translate a 200-word excerpt into English. Focus particularly on how subject-verb agreement works differently between the languages. After your translation, write a reflection discussing: What agreement challenges did you encounter? How do Spanish and English handle collective nouns differently? What adjustments did you make to sound natural in English while maintaining accuracy?",
+        "deliverable": "A 200-word English translation with source citation, followed by a 200-word reflection on agreement challenges and solutions"
+      }
+    ],
+    "peerReview": {
+      "instructions": "Review two classmates' assignments using these criteria. Provide specific, constructive feedback that helps your peers refine their understanding.",
+      "criteria": [
+        "Accuracy: Are all subject-verb agreement choices correct? If not, identify specific errors and explain the correct form.",
+        "Complexity: Does the assignment demonstrate understanding of the full range of agreement challenges (collective nouns, indefinite pronouns, inversions, compounds)?",
+        "Context: Are examples or applications relevant to news writing and authentic in tone and structure?",
+        "Explanation: Does the writer clearly explain their agreement choices using appropriate grammatical terminology?"
+      ],
+      "format": "Write 150-200 words per review, addressing each criterion and providing at least one specific suggestion for improvement."
+    }
+  },
+  "conclusion": {
+    "message": "You've successfully navigated one of English grammar's trickiest areas! Subject-verb agreement may seem like a small detail, but mastering these complex patterns will significantly improve your professional writing and your ability to evaluate translated texts for naturalness and accuracy.",
+    "takeaways": [
+      "Collective nouns can take singular or plural verbs depending on context and dialect—American English typically prefers singular, British English often uses plural",
+      "Indefinite pronouns like 'everyone' and 'each' are always singular, while 'some,' 'all,' and 'none' vary based on what they refer to",
+      "In inverted structures common in news writing, identify the true subject by looking past opening phrases",
+      "With compound subjects joined by 'or' or 'nor,' the verb agrees with the nearest subject (proximity rule)",
+      "'A number of' takes plural verbs; 'the number of' takes singular verbs—a subtle but important distinction in reporting statistics"
+    ],
+    "furtherPractice": [
+      "Read news articles critically, identifying complex agreement patterns and noting whether they follow American or British conventions",
+      "Practice writing news leads with inverted structures, checking that verbs agree with the actual subject",
+      "Create flashcards for tricky indefinite pronouns and quantifiers, noting whether they take singular or plural verbs",
+      "Translate news articles between Spanish and English, paying special attention to how agreement rules differ",
+      "Review your own writing from previous courses, identifying and correcting any agreement errors you now recognize"
+    ]
+  }
+}
