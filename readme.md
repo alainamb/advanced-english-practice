@@ -1,4 +1,4 @@
-# TR31 Advanced English Course Site
+# Advanced English Course Site
 
 A lean, data-driven course website system built with vanilla JavaScript, HTML, and CSS.
 
